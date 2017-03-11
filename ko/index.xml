@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ko-rsses on NCAA Rules</title>
-    <link>https://www.example.com/ko/index.xml</link>
+    <link>https://rulebook.github.io/ko/index.xml</link>
     <description>Recent content in Ko-rsses on NCAA Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Sat, 11 Mar 2017 02:17:31 +0900</lastBuildDate>
-    <atom:link href="https://www.example.com/ko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rulebook.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>규칙 1—경기와 경기장, 선수, 장비</title>
-      <link>https://www.example.com/ko/r1/</link>
+      <link>https://rulebook.github.io/ko/r1/</link>
       <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
       
-      <guid>https://www.example.com/ko/r1/</guid>
+      <guid>https://rulebook.github.io/ko/r1/</guid>
       <description>
 
 &lt;h1 id=&#34;1-장-general-provisions&#34;&gt;1 장. General Provisions&lt;/h1&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>규칙 2—정의</title>
-      <link>https://www.example.com/ko/r2/</link>
+      <link>https://rulebook.github.io/ko/r2/</link>
       <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
       
-      <guid>https://www.example.com/ko/r2/</guid>
+      <guid>https://rulebook.github.io/ko/r2/</guid>
       <description>
 
 &lt;h1 id=&#34;section-1-approved-rulings-and-official-s-signals&#34;&gt;SECTION 1. Approved Rulings and Official’s Signals&lt;/h1&gt;
@@ -84,10 +84,10 @@ b.  An official’s signal [S] refers to the Official Football Signals 1 through
     
     <item>
       <title>RULE 3—Periods, Time Factors and Substitutions</title>
-      <link>https://www.example.com/ko/r3/</link>
+      <link>https://rulebook.github.io/ko/r3/</link>
       <pubDate>Sat, 11 Mar 2017 02:33:36 +0900</pubDate>
       
-      <guid>https://www.example.com/ko/r3/</guid>
+      <guid>https://rulebook.github.io/ko/r3/</guid>
       <description>
 
 &lt;h1 id=&#34;section-1-start-of-each-period&#34;&gt;SECTION 1. Start of Each Period&lt;/h1&gt;
@@ -121,10 +121,10 @@ b.  Possession of the ball, the number of the down and the distance to be gained
     
     <item>
       <title>RULE 4—Ball in Play, Dead Ball, Out of Bounds</title>
-      <link>https://www.example.com/ko/r4/</link>
+      <link>https://rulebook.github.io/ko/r4/</link>
       <pubDate>Sat, 11 Mar 2017 02:33:41 +0900</pubDate>
       
-      <guid>https://www.example.com/ko/r4/</guid>
+      <guid>https://rulebook.github.io/ko/r4/</guid>
       <description>
 
 &lt;h1 id=&#34;section-1-ball-in-play-dead-ball&#34;&gt;SECTION 1. Ball in Play—Dead Ball&lt;/h1&gt;
