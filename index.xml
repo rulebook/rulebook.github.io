@@ -1,169 +1,344 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NCAA Football Rules</title>
-    <link>https://rulebook.github.io/index.xml</link>
-    <description>Recent content on NCAA Football Rules</description>
+    <title>NCAA Football Rules Online</title>
+    <link>https://rulebook.github.io/</link>
+    <description>Recent content on NCAA Football Rules Online</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Mar 2017 17:12:27 +0900</lastBuildDate>
-    <atom:link href="https://rulebook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2017 17:51:39 +0900</lastBuildDate>
+    
+	<atom:link href="https://rulebook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>미식축구의 강령(The Football Code)</title>
-      <link>https://rulebook.github.io/ko/code/</link>
-      <pubDate>Mon, 13 Mar 2017 17:12:27 +0900</pubDate>
+      <title>1장. 일반적인 임무</title>
+      <link>https://rulebook.github.io/ko/rules/11/sections/11/</link>
+      <pubDate>Tue, 14 Mar 2017 17:51:39 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/ko/code/</guid>
-      <description>
-
-&lt;p&gt;전통적으로 미식축구는 교육활동의 중요한 한 분야를 담당하고 있다.
-그러므로 선수, 코치, 그 외의 경기관계자에 대해서는 최고의 스포츠맨십과 행동이 요구된다.&lt;/p&gt;
-
-&lt;p&gt;미식축구는 격렬하고 힘이 넘치며, 신체를 부딪치는 운동이다.
-부정한 전술, 스포츠맨답지 않은 행위, 고의로 상대선수를 다치게 하는 행위는 절대로 허용되지 않는다.&lt;/p&gt;
-
-&lt;p&gt;a. 미식축구의 강령은 불가결한 것으로 주의 깊게 읽고 지켜야 한다.
-b. 본 규칙을 왜곡하거나 무시하여 이익을 얻고자 하는 것은 코치나 선수로서 미식축구에 관한 자격을 잃는 것이다.
-   수년에 걸쳐 규칙위원회는 규칙과 적절한 벌칙에 따라 여러 가지 불필요한 난폭한 행위, 부정한 전술,
-   스포츠맨답지 않은 행위를 금지하려고 노력해 왔다.
-   그러나 규칙으로만 이러한 목적을 달성할 수 없다.
-   코치, 선수, 심판과 모든 경기 관계자의 끊임없는 최선의 노력만이 이 스포츠의 최고의 윤리를 유지하고 사람들의 기대에 따르는 것이다.
-   따라서 코치, 선수, 심판, 경기의 발전을 책임지는 사람에  대한 지침으로써 규칙위원회는 아래의 강령을 정하였다:&lt;/p&gt;
-
-&lt;h2 id=&#34;1-코치의-윤리&#34;&gt;1. 코치의 윤리&lt;/h2&gt;
-
-&lt;p&gt;규칙을 위반하는 것을 고의로 선수들에게 가르치는 것은 변론의 여지가 없는 추악한 행위이다.
-고의적인 홀딩, 부정한 스타트 신호, 부정한 시프트, 부상의 가장, 인터피어런스, 부정한 전방패스,
-의도적인 난폭한 행위를 하는 것 등을 가르치는 것은 선수의 인격 형성에 도움이 되지 않고 오히려 저하하는 것이다.
-이러한 지도는 상대에 대해 불공정할 뿐 아니라 코치의 관리하에 있는 선수들의 도덕을 저하하는 것으로,
-교육프로그램의 필수적인 부분인 게임에 존재해서는 안 된다.&lt;/p&gt;
-
-&lt;p&gt;아래에 게재된 행위는 비윤리적인 행위이다.&lt;/p&gt;
-
-&lt;p&gt;a. 상대를 속이기 위해 경기 도중 번호를 바꾸는 행위
-b. 헬멧을 무기로 사용하는 행위(헬멧은 선수의 보호를 위한 것이다.)
-c. 블로킹이나 태클을 가르칠 때 자동추진기능을 가진 기계를 사용하는 행위
-d. 상대선수에 대해 타기팅해서 접촉하는 행위 (선수 코치 심판은 타기팅해서 헬멧의 상단으로 접촉하는 행위와 무방비 선수에 대해 목이나 머리 부분에의 접촉의 근절을 목표로 하여야 한다.)
-e. 미식축구 경기에 있어서, 치료를 목적으로 하지 않는 약품의 사용 행위(이것은 아마추어 경기의 정신과 목적에 어긋나므로 금지한다.)
-f. 부정한 경기 시작 신호를 하는 행위( ‘볼을 치는 행위’ 이것은 상대로부터 이득을 의도적으로 훔치는 행위다.
-   정당한 경기 시작신호를 사용함으로써 훌륭한 미식축구경기가 성립되는 것인데,
-   심판에게 발각되지 않기를 바라면서 볼이 인플레이 되기 몇 분의 일 초 전에 자기 팀이 경기를 시작할 목적으로 신호하는 것은 스포츠맨답지 않은 행위이다.
-   이와 같은 행위는 단거리선수가 출발 신호자와, 출발신호가 울리기 10분의 1초 전이라는 신호를, 다른 사람 모르게 받도록 미리 약속한 것과 같은 것이다.)
-g. 상대의 오프사이드를 유발할 목적으로 플레이 개시를 가장한 시프트나 다른 불공정한 전술을 사용하는 행위(이것은 부당하게 이익을 얻기 위한 고의의 행위로 본다.)
-h. 고의로 부상을 가장한 행위
-   (부상을 당한 선수는 규칙에 의해서 충분한 보호를 받는다.
-   그러나 시간을 벌 목적으로 부상당하지 않은 선수가 부상당한 것처럼 행동하는 것은 부정직하며,
-   스포츠맨답지 않은, 규칙의 정신에 어긋나는 행위이다. 그러한 행동은 미식축구경기에서 용납되지 않는다.)&lt;/p&gt;
-
-&lt;h2 id=&#34;2-상대선수와의-대화&#34;&gt;2. 상대선수와의 대화&lt;/h2&gt;
-
-&lt;p&gt;품위가 없고, 모욕적이며, 입에 담지 못할 불필요한 언어 또는 보복 행동을 유발하는 언동이나 상대를 도발시키기 위한 의도적인 상대에 대해 말 걸기는 부정이다.
-코치는 이러한 행위에 대해 협의하고 이것을 규제하는 심판의 행동에 전적으로 지지할 것을 강하게 요구한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-심판과의-대화&#34;&gt;3. 심판과의 대화&lt;/h2&gt;
-
-&lt;p&gt;심판이 벌칙을 주거나 결정을 내리는 것은 심판 자신이 본 것에 대한 자신의 임무를 수행하는 것이다.
-심판은 경기장 안에서 경기 전체를 총괄하며, 심판의 판결은 결정적이며 최종적인 것으로써,
-선수와 코치는 이 판결을 받아들여야만 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 코치는 선수나 보도기관에 공식적이건 비공식적이건 간에 심판을 비난하는 말이나 행위를 해서는 안 된다.
-b. 만일 코치가 경기 중에 심판에 대하여 모욕적인 언동하거나, 자기 팀 관계자의 이러한 행동을 묵인하는 것,
-   또는 선수나 관중에게 심판을 불신하도록 선동하는 행위 등은 규칙에 어긋나는 것이며,
-   코치의 윤리를 망각한 수치스러운 행위이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-홀딩&#34;&gt;4. 홀딩&lt;/h2&gt;
-
-&lt;p&gt;손이나 팔의 부정한 사용은 부정한 플레이이며 올바른 기술의 발전을 저해하는 것으로 경기에는 전혀 필요 없는 것이다.
-경기의 목적은 부정하게 상대를 붙잡지 않고 정당한 전술, 기술과 속도에 의해서 전진시키는 것이다.
-모든 코치와 선수는 공격과 수비 시 정당한 손의 사용에 관하여 통달하여야 한다.
-홀딩은 가장 많은 반칙이며 벌칙의 엄함을 강조하는 것이 중요하다.&lt;/p&gt;
-
-&lt;h1 id=&#34;5-스포츠맨십&#34;&gt;5. 스포츠맨십&lt;/h1&gt;
-
-&lt;p&gt;고의로 규칙을 위반하거나 부정한 경기 운영하는 선수는 스포츠맨답지 않은 행위로써 일종의 죄악을 범하는 것이며,
-벌칙의 여부와 관계없이 경기의 명성을 높여야 하는 의무를 저버리고 미식축구의 명예를 훼손한 것에 대하여 마음속 깊이 반성하여야 한다.&lt;/p&gt;
-
-&lt;p&gt;2015년 대한미식축구협회 규칙위원회&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/ko/rules/11/sections/11/</guid>
+      <description>제1조 심판의 임무 심판의 임무는 필드 중앙에서 하는 코인토스에서 시작하여 레퍼리의 최종득점의 선언으로 종료한다.[S14]
+제2장 책임 제1조 경기는 4인, 5인, 6인, 7인 또는 8인 심판의 관리 하에서 행해진다.
+제2조 심판의 책임과 메카닉스는 대한 미식축구 심판협회가 발하는 심판 매뉴얼에 규정되어 있다. 심판은 이 매뉴얼의 내용을 이해하고 적용하여야 한다.</description>
     </item>
     
     <item>
-      <title>규칙의 강조점</title>
-      <link>https://rulebook.github.io/ko/point/</link>
-      <pubDate>Mon, 13 Mar 2017 17:03:38 +0900</pubDate>
+      <title>1장. 벌칙의 완료</title>
+      <link>https://rulebook.github.io/ko/rules/10/sections/10/</link>
+      <pubDate>Tue, 14 Mar 2017 17:48:54 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/ko/point/</guid>
-      <description>
-
-&lt;p&gt;규칙위원회는 풋볼의 강령을 도입한 이래 매년 수정과 개정하여 왔으며 이것은 최고 수준의 윤리 규정이다.
-여기에는 코치, 선수, 심판, 운영관계자의 협조와 합의를 기초로 형성되고 경기의 공평성과 품위를 지키기 위한 지침이 기록되어 있다.
-요강이 정한 행동의 하나로 ‘풋볼 헬멧을 무기로 사용하는 것’이 게재되어 있다.&lt;/p&gt;
-
-&lt;p&gt;‘헬멧은 선수의 보호를 위한 것’이며, 선수와  코치와 심판은 타기팅하여 헬멧의 상단으로 접촉하는 것이나 무방비한 선수에 대해 목이나 머리에의 접촉을 금지하는 것을 목표로 하여야 한다.
-미식축구 관계자 전원이 다음의  기본 윤리 규정을 잘 지켜서 전통 있는 이 스포츠의 장래를 유익하게 만들어 가기를 원한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-무방비-선수의-보호와-헬멧-상단으로-하는-접촉&#34;&gt;1. 무방비 선수의 보호와 헬멧 상단으로 하는 접촉&lt;/h2&gt;
-
-&lt;p&gt;2008년 헬멧의 상단으로 하는 접촉과 무방비 선수에의 타기팅에 관한 규정이 채택되었다.
-이것이 2개의 독립된 규칙으로 되어 헬멧 상단으로 상대에 접촉하는 것 (9-1-3)과 무방비 선수의 목이나 그 윗부분에 대해 접촉하는 것(9-1-4)으로 정리되었다.
-상대를 다치게 할 도구로써 헬멧의 사용과 머리와 목 부분의 고의적인 접촉(타기팅)은 안전에 심각한 염려가 된다.&lt;/p&gt;
-
-&lt;p&gt;9-1-3-과 9-1-4의 파울에 대한 벌칙으로 자동자격몰수를 포함한다.
-규칙위원회는 선수들이 이런 규칙을 이해하고 지킬 수 있게 코치와 심판들은 지속적으로 교육하도록 강조한다.
-무방비 선수에 대한 정의와 전형적인 행태는 2-27-14에 정의되어 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-헬-멧&#34;&gt;2. 헬 멧&lt;/h2&gt;
-
-&lt;p&gt;헬멧은 선수의 머리 부상을 지켜주는 것이다.
-머리에 맞는 헬멧이 중요하며 플레이 중에 벗겨지는 경우가 없어야 한다.
-이를 위해 코치나 트레이너는 헬멧을 바르게 착용하는 것을 선수들에게 지도하고 심판은 헬멧이 친스트랩으로 고정되어 있는가를 규칙으로 엄하게 시행하여야 한다.&lt;/p&gt;
-
-&lt;p&gt;규칙(규칙 3-3-9)은 반칙에 따라 헬멧이 벗겨진 경우가 아니라면, 헬멧이 벗겨진 선수는 한 다운을 &lt;strong&gt;&lt;em&gt;참여&lt;/em&gt;&lt;/strong&gt; 할 수 없다.
-팀 타임아웃을 사용한다면 해당 선수는 남아서 플레이를 할 수 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-사이드라인의-관리&#34;&gt;3. 사이드라인의 관리&lt;/h2&gt;
-
-&lt;p&gt;NCAA에 소속된 대학이나 컨퍼런스는 사이드라인의 관리를 시행하려는 실시계획을 검토하여야 한다.
-규칙에는 팀 에리어와 코칭박스(규칙 1-2-4-a, 양 25야드라인 사이 리미트라인 뒤), 리미트라인(규칙 1-2-3-a, b, 사이드라인과 엔드라인의 12피트 바깥)과 사이드라인의 사이는 경기관계자 이외는 출입금지다.&lt;/p&gt;
-
-&lt;p&gt;사이드라인에서 경기를 관전하는 사람이 있지만, 이 지역은 경기에 참가하고 있는 팀의 스텝과 경기의 운영 스텝을 위해서만 존재한다.
-경기관계자 이외에는 사이드라인에 있을 수 없다.
-팀 에리어는 완전하게 유니폼을 입은 등록선수(Squad Member)을 제외한 스텝 60명까지만 들어갈 수 있고. 팀 에리어 출입허가증을 착용하여야 한다.
-(완전하게 유니폼을 입은 것이란 규칙에 규정된 플레이할 수 있는 상태의 복장을 말한다.)
-이 입장허가증의 번호는 1에서 60까지로 한다.
-팀 에리어 입장허가는 경기관계자에게만 배포되어야 하고, 그 외의 사람을 가질 수 없다.
-경기관계자는 아래의 스텝을 포함하는 (1-1-6과 1-2-5-b) 코치, 매니저, 의료담당자, 팀 홍보담당자와 경기 운영 스텝(체인크루, 볼퍼슨, 미디어 타임아웃의 타이머 등)이다.
-경기 중에 리미트라인의 바깥에서 관객석 사이 에리어에 출입할 수 있는 것은 입장을 허가받은 카메라맨, 영상크루, 유니폼을 입은 치어리더, 유니폼을 입은 경기장 경비원에 한한다.
-사이드라인의 질서 유지할 관리책임은 경기의 운영책임자와 경기장의 안전관리책임자이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-안전과-의학에-관한-고려점&#34;&gt;4. 안전과 의학에 관한 고려점&lt;/h2&gt;
-
-&lt;p&gt;규칙위원회는 코치와 심판에 대해 선수가 필요한 장비를 확실하게 착용하는 것에 주의해 줄 것을 희망한다.
-장비나 패드를 바르게 사용하여 신체를 확실하게 보호하는 것은 대단히 중요한 것이다.
-특히 무릎은 노출되면 쉽게 다칠 염려가 있으므로 무릎을 확실히 덮을 수 있는 충분한 길이의 팬츠 착용에도 주의할 필요가 있다.
-미식축구는 일반의 항생물질이 듣지 않는 메치실린내성황색포도상구균(MRSA)에 감염되는 경우가 있고, 감염되면 플레이를 할 수 없게 된다.
-최근 미국에서는 MRSA에 의한 미식축구선수의 사망사고도 몇 건 발생하였다.
-MRSA는 토지나 잔디에는 존재하지 않고 인조잔디에도 생존할 수 없다.
-공기감염으로 전달되는 것이 아니고 감염된 부상에 접촉하거나 감염에 접촉된 물건(수건) 등을 덮는 것으로 신체에서 신체로의 접촉감염이라는 것을 이해하여야 한다.
-위원회에서는 MRSA감염을 방지하려고 일상에서의 감염예방책을 추천한다.
-(자세한 것은 www.ncaapublications.com에 게재된 NCAA Sports Medicine Handbook을 참고)
-또한 뇌진탕 증세를 보이는 선수에 대해 코치와 의료담당자는 신중하게 대처하여야 한다.
-자세한 사항은 부록 C를 참고할 것&lt;/p&gt;
-
-&lt;h2 id=&#34;5-스포츠맨십에-관해-규칙위원회-2009년-2월-채택&#34;&gt;5. 스포츠맨십에 관해(규칙위원회 2009년 2월 채택)&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;스포츠맨답지 않은 행위가 발생하는 플레이를 없애기 위해 현재의 규칙에 규정 되어 적용하고 있는 내용의 중요성을 재인식하여야 한다.
-그러한 반칙의 많은 부분은 주목을 받기 위한 행위로 계획되었거나,
-과도하거나 오랜 시간 행해진 것들이다.
-코치는 팀플레이로서 미식축구의 중요한 규율을 선수들에게 가르쳐야 한다.&lt;/li&gt;
-&lt;li&gt;헤드코치는 경기 중만이 아니라 경기 전, 후의 선수들의 행동에 책임이 있다.
-선수는 경기 시작 전 필드에서의 스포츠맨답지 않은 행동에 대해 주의하여야 한다.
-이러한 행위에 따라 킥오프 시 벌칙이 부과되거나 해당 선수가 자격몰수가 될 가능성이 있다.
-이러한 스포츠맨답지 않은 행위가 계속되는 경우 감독이나 조직에 대해 벌칙이 부과할 수 있다.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <guid>https://rulebook.github.io/ko/rules/10/sections/10/</guid>
+      <description>제1조 완료의 방법과 시기 a. 벌칙이 공식규칙에 의해서 수락되거나(accept), 사퇴(decline) 또는 취소(cancel)될 때, 또는 벌칙의 선택이 레퍼리에게 명백하게 된 경우에 완료된다. b. 어떠한 벌칙도 사퇴할 수 있지만 자격을 몰수당한 선수는 벌칙의 수락, 사퇴와 관계없이 경기(game)로부터 떠나야 한다(규칙 2-27-12). c. 반칙에 대한 벌칙은 다음의 다운을 위한 레디포플레이가 선언되기 전에 시행되어야 한다. d. 규정된 벌칙이 다른 공식규칙에 저촉되는 경우에는 시행하지 않는다.
+제2조 스냅과 동시에 일어난 반칙 스냅 또는 프리킥과 동시에 일어난 반칙은 그 다운 중에 일어난 것으로 간주한다.</description>
+    </item>
+    
+    <item>
+      <title>1장. 퍼스널 파울</title>
+      <link>https://rulebook.github.io/ko/rules/9/sections/9/</link>
+      <pubDate>Tue, 14 Mar 2017 17:43:38 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/9/sections/9/</guid>
+      <description>이 장(주의를 제외한)의 모든 반칙과 모든 불필요한 난폭행위는 퍼스널 파울이다. 경기단체에 검증을 맡기는 악의적인 반칙에 관해서는 9-6을 참고. 퍼스널 파울의 벌칙에 관해서는 아래와 같다. 벌칙: 퍼스널 파울. 15야드. 데드볼 반칙의 경우, 석시딩 지점에서 15야드. B팀의 반칙에 대해서는 다른 공식규칙에 저촉되지 않는 한 자동 퍼스트다운. A팀의 라이브볼 반칙으로 뉴트럴존 후방의 반칙에 대해서는 프리비어스 지점에서 시행한다. A팀 골라인 후방에서의 라이브볼 반칙에 대해서는 세이프티이다. [S7, S24, S34, S38, S39, S40, S41, S45, S46] 악의적인 반칙 자는 자격몰수 [S47] 프리킥 또는 스크리미지킥 플레이 중 A팀의 반칙: 프리비어스 지점이나 플레이 후 데드볼이 B팀에 소속된 지점에서 시행 (필드골 플레이 제외)(규칙 6-1-8과 6-3-13) .</description>
+    </item>
+    
+    <item>
+      <title>1장. 득점</title>
+      <link>https://rulebook.github.io/ko/rules/8/sections/8/</link>
+      <pubDate>Tue, 14 Mar 2017 17:36:20 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/8/sections/8/</guid>
+      <description>제1조 득점 득점의 종류는 다음과 같다. 터치다운 6점 필드골 3점 세이프티(상대방에 부여하는 득점) 2점 성공한 트라이 터치다운 2점 필드골 또는 세이프티 1점
+제2조 경기 몰수 경기 몰수 또는 중단된 후 나중에 몰수되는 서스펜디드 게임의 득점은, 몰수당한 팀이 0점, 상대 팀을 1점으로 한다. 상대 팀이 그 시점에서 이기고 있는 경우에는 그때의 득점으로 한다.(규칙 3-3-3-a,b, 규칙 9-2-3-a와 b)
+제2장 터치다운 제1조 득점이 되는 경우 다음의 경우에 터치다운이 된다. a. 필드오브플레이에서 볼 캐리어가 라이브볼을 확보하여 전진해서 상대방 골라인의 면을 넘 었을 때.</description>
+    </item>
+    
+    <item>
+      <title>1장. 스크리미지</title>
+      <link>https://rulebook.github.io/ko/rules/7/sections/7/</link>
+      <pubDate>Tue, 14 Mar 2017 17:33:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/7/sections/7/</guid>
+      <description>제1조 스냅으로 시작 a. 플레이는 규칙에 규정된 정당한 프리킥에 의한 방법을 제외하고는 정당한 스냅으로 시작 한다.(A.R.4-1-4-I과 II ) 벌칙：데드볼 파울. 석시딩 지점에서 5야드 벌칙[S7과 S19] b. 볼을 사이드존에서 스냅을 해서는 안 된다.(규칙 2-31-6), 스크리미지다운의 시작하는 지 점이 사이드존인 경우, 볼은 해시마크로 옮긴다.
+제2조 시프트와 부정 출발 a. 시프트. 허들 (규칙 2-14-1)이나 시프트(규칙 2-22-1)후와 스냅 전, 모든 A팀의 선수는 볼이 스냅되기 전 최소한 1초 동안 발, 몸체, 머리, 팔의 움직임 없이, 그 위치에서 완전하게 정지해 있어야 한다.</description>
+    </item>
+    
+    <item>
+      <title>제1장 프리킥</title>
+      <link>https://rulebook.github.io/ko/rules/6/sections/6/</link>
+      <pubDate>Tue, 14 Mar 2017 17:28:51 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/6/sections/6/</guid>
+      <description>제1조 제한선 프리킥 포메이션에서 킥팀의 제한선은 볼이 킥 되는 지점에서 볼의 선단을 가로지르는 야드라인이며 리시브팀의 제한선은 킥팀의 제한선으로부터 10야드 전방의 야드라인이다. 벌칙에 의한 이동이 없는 한 킥오프 시 킥팀의 제한선은 자기 진영의 35야드라인이며 세이프티 후 프리킥의 제한선은 자기 진영의 20야드라인이다.
+제2조 프리킥 포메이션 a. 프리킥 포메이션 때 볼은 해시마크 위나 그 사이 A팀의 제한선상에서 정당하게 킥되어야 한다. (예외: 규칙 6-1-2-d) 레퍼리는 키커가 볼을 넘겨받은 후 모든 심판이 준비되었을 때 레디포플레이를 선언한다.</description>
+    </item>
+    
+    <item>
+      <title>1장. 시리즈: 시작, 종결, 갱신</title>
+      <link>https://rulebook.github.io/ko/rules/5/sections/5/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:46 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/5/sections/5/</guid>
+      <description>제1조 시리즈가 주어질 때 a. 4번의 연속된 스크리미지 다운이 되는 시리즈는 (규칙 2-24-1) 프리킥, 터치백, 페어캐치, 또는 볼의 팀 확보 변경 후, 다음의 스냅에 의해 플레이를 할 팀에 대해 부여된다. 연장전에서는 공격팀에 대해 주어진다. b. A팀이 볼 데드가 선언되었을 때, 시리즈 변경선 상이나 변경선을 넘는 지점에서 볼을 정당하게 확보한 A팀에게는 새로운 시리즈가 부여된다. c. A 팀이 포스다운 후, 퍼스트다운의 획득에 실패하였다면 B팀에게 새로운 시리즈가 부여된 다.(A.R.10-1-5-I) d. A 팀의 스크리미지킥이 아웃오브바운즈가 되거나 ,볼이 정지된 후 아무도 확보하려는 시 도를 하지 않는다면 B팀에게 새로운 시리즈가 부여된다.</description>
+    </item>
+    
+    <item>
+      <title>SECTION 1. A Series: Started, Broken, Renewed</title>
+      <link>https://rulebook.github.io/en/rules/5/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:46 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/5/sections/1/</guid>
+      <description>When To Award Series
+ARTICLE 1.
+ A series (Rule 2-24-1) of up to four consecutive scrimmage downs shall be awarded to the team that is next to put the ball in play by a snap after a free kick, touchback, fair catch, or change in team possession, or to the offensive team in overtime. A new series shall be awarded to Team A if it is in legal possession of the ball on or beyond its line to gain when the ball is declared dead.</description>
+    </item>
+    
+    <item>
+      <title>1장. 볼인플레이, 데드볼</title>
+      <link>https://rulebook.github.io/ko/rules/4/sections/4/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:41 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/4/sections/4/</guid>
+      <description>제1조 데드볼이 라이브볼로 되는 경우 데드볼은, 레디포플레이 후에 정당하게 스냅되거나 정당한 프리킥이 될 때 라이브볼이 된다. 레디포플레이 전에 스냅 또는 프리 킥이 되면, 데드 볼의 상태이다.(A.R.2-16-4-1, A.R.4-1-4-I과II, A.R.7-1-3-IV, A.R.7-1-5-I,II)
+제2조 라이브볼이 데드볼로 되는 경우 a. 라이브볼은 규칙에 따라 정지되었을 때, 또는 심판이 휘슬(심판의 부주의한 휘슬도 포함)을 불었을 때 데드볼이 된다. 또한, 다른 이유로 심판이 데드 신호를 했으면 라이브볼은 데드볼이 된다.(A.R.4-2-1-Ⅱ와 A.R.4-2-4-1. b. 다운 중 심판이 부주의한 휘슬을 불었을 경우나 심판이 데드볼 시그널을 한 경우 아래와 같이 조치한다.</description>
+    </item>
+    
+    <item>
+      <title>SECTION 1. Ball in Play—Dead Ball</title>
+      <link>https://rulebook.github.io/en/rules/4/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:41 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/4/sections/1/</guid>
+      <description>Dead Ball Becomes Alive
+ARTICLE 1.
+After a dead ball is ready for play, it becomes a live ball when it is legally snapped or legally free-kicked. A ball snapped or free-kicked before it is ready for play remains dead (A.R. 2-16-4-I, A.R. 4-1-4-I and II, A.R. 7-1-3-IV, and A.R. 7-1-5-I and II). Live Ball Becomes Dead
+ARTICLE 2.
+a. A live ball becomes a dead ball as provided in the rules or when an official sounds his whistle (even though inadvertently) or otherwise signals the ball dead (A.</description>
+    </item>
+    
+    <item>
+      <title>1장. 피리어드의 시작</title>
+      <link>https://rulebook.github.io/ko/rules/3/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/3/sections/1/</guid>
+      <description>제1조 제1, 제3 피리어드 a. 게임전 몸풀기( Pregame Warmup). 정규 시즌에서, 각 팀의 게임전 몸풀기는 킥오프 22분전까지만 운동장을 사용할 수 있다. 이것은 팀의 상호 동의서에 의해 미리 변경가능하다. 게임관리자가 이 규칙을 운영할 책임이 있다. b. 경기의 전․후반은 킥오프에 의해서 시작된다. c. 레퍼리는 예정된 경기 시작 시간 3분 전에 경기장 중앙에서 양 팀으로부터 4명 이하의 주장과 다른 심판 1명의 앞에서 동전을 던진다. 동전을 던지기 전에 레퍼리는 동전의 앞, 뒷면을 선택할 방문팀의 필드캡틴을 지정해 둔다.</description>
+    </item>
+    
+    <item>
+      <title>SECTION 1. Start of Each Period</title>
+      <link>https://rulebook.github.io/en/rules/3/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/3/sections/1/</guid>
+      <description>First and Third Periods
+ARTICLE 1.
+a. Pregame Warmup. Prior to regular season games, teams must have access to the field for pregame warm-ups until at least 22 minutes before the opening kickoff. This may be altered in advance through written mutual agreement of the teams. Game management personnel are responsible for administering this rule. b. Each half shall start with a kickoff. c. Three minutes before the scheduled starting time, the referee shall toss a coin at midfield in the presence of not more than four field captains from each team and another game official, first designating the field captain of the visiting team to call the coin toss.</description>
+    </item>
+    
+    <item>
+      <title>1장. 공인판정과 심판의 신호</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/1/</guid>
+      <description>1조 a. 공인판정(Approved Rule, 이하 A.R.이라 칭함)이란 일어날 수 있는 상황에 대한 공식적인 판례며, 본 규칙의 정신과 적용방법을 명확하게 하려고 설정한 것이다. 규칙과 공인 판정과의 관계는 법령과 대법원 판례와의 관계와 비슷한 것이다. 규칙과 해설서에 있는 공인판정이 상반되는 경우에는 규칙이 우선한다. b. 심판의 신호[S]란 미식축구 공식신호 1에서 47까지를 가리킨다.</description>
+    </item>
+    
+    <item>
+      <title>Section 1. Approved Rulings and Official’s Signals</title>
+      <link>https://rulebook.github.io/en/rules/2/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/2/sections/1/</guid>
+      <description>ARTICLE 1.
+a. An approved ruling (A.R.) is an official decision on a given statement of facts. It serves to illustrate the spirit and application of the rules. The relationship between the rules and an approved ruling is analogous to that between statutory law and a decision of the Supreme Court. b. An official’s signal [S] refers to the Official Football Signals 1 through 47.</description>
+    </item>
+    
+    <item>
+      <title>1장. 일반 규정</title>
+      <link>https://rulebook.github.io/ko/rules/1/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/1/sections/1/</guid>
+      <description>제1조 경기  경기는 한 팀이 11명 이하의 선수들로 구성된 두 팀에 의해서 직사각형 경기장에서 공기를 가득 채운 타원형의 볼을 사용하여 진행된다. 각 팀은 10명 이하의 선수로도 경기할 수 있으나 다음의 조건을 만족시키지 못하면 부정한 포메이션의 반칙이 된다:  A팀은 프리킥 시 키커 양편에 최소 4명의 선수가 있어야 한다.(규칙 6-1-2-c-3) 스냅 시 공격팀의 스크리미지 라인에는 50-79의 번호의 선수가 적어도 5명이 있어야 한다. 또 백필드에는 5명 이상의 선수가 있을 수 없다.</description>
+    </item>
+    
+    <item>
+      <title>RULE 1 - The Game, Field, Players and Equipment</title>
+      <link>https://rulebook.github.io/en/rules/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/1/</guid>
+      <description> Sections:  General Provisions The Field The Ball Players and Playing Equipment  </description>
+    </item>
+    
+    <item>
+      <title>Section 1. General Provisions</title>
+      <link>https://rulebook.github.io/en/rules/1/sections/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/1/sections/1/</guid>
+      <description>The Game
+ARTICLE 1.
+ The game shall be played between two teams of not more than 11 players each, on a rectangular field and with an inflated ball having the shape of a prolate spheroid. A team legally may play with fewer than 11 players, but a foul for an illegal formation occurs if the following requirements are not met:  When the ball is free-kicked, at least four Team A players are on each side of the kicker (Rule 6-1-2-c-3).</description>
+    </item>
+    
+    <item>
+      <title>규칙 1 — 경기와 경기장, 선수, 장비</title>
+      <link>https://rulebook.github.io/ko/rules/1/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/1/</guid>
+      <description> Sections:  일반 규정 필드 볼  선수와 장비  </description>
+    </item>
+    
+    <item>
+      <title>2장. 볼: 라이브, 데드, 루스, 레디포플레이</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/2/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/2/</guid>
+      <description>1조 라이브볼 라이브볼이란 플레이 중인 볼이다. 지면에 터치되지 않은 패스, 킥, 펌블은 공중에 있는 라이브볼이다.
+2조 데드볼 데드볼이란 플레이하고 있지 않은 볼이다.
+3조 루스볼 a. 루스볼이란 아래 같은 경우에, 어떤 선수의 확보 하에도 있지 않은 라이브볼이다. 1. 러닝 플레이 2. 확보, 재 확보, 또는 규칙에 의해서 데드되기 전까지의 스크리미지킥이나 프리킥 3. 정당한 포워드패스가 터치 되고 나서 그 패스가 성공, 실패 또는 인터셉트되기 전까지 기간. (이 기간은 포워드패스 플레이 중이며, 볼에 터치할 자격이 있는 모든 선수는 볼을 어느 방향으로도 배팅할 수 있다.</description>
+    </item>
+    
+    <item>
+      <title>SECTION 2. The Ball: Live, Dead, Loose, Ready For Play</title>
+      <link>https://rulebook.github.io/en/rules/2/sections/2/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/2/sections/2/</guid>
+      <description>Live Ball
+ARTICLE 1. A live ball is a ball in play. A pass, kick or fumble that has not yet touched the ground is a live ball in flight.
+Dead Ball
+ARTICLE 2. A dead ball is a ball not in play.
+Loose Ball
+ARTICLE 3. a. A loose ball is a live ball not in player possession during:
+ A running play. A scrimmage or free kick before possession is gained or regained or the ball is dead by rule.</description>
+    </item>
+    
+    <item>
+      <title>2장. 필드</title>
+      <link>https://rulebook.github.io/ko/rules/1/sections/2/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/1/sections/2/</guid>
+      <description>제1조 치수와 표시 필드는 경기장 전도, 경기장 세부도(부록 D)의 규격, 라인, 존, 골,과 파일론으로 구성된 직사각형의 영역이다.
+ 필드의 모든 선은 희고, 눈과 피부에 해가 없는 재료를 사용하고, 4인치(10cm) 두께로 표시한다. (예외：사이드라인과 엔드라인의 폭은 4인치(10cm)를 초과해도 무방하고 골라인은 폭이 4인치(10cm) 또는 8인치(20cm)가 가능하다.(규칙 1-2-1-g) 1야드마다 표시하는 야드라인은 24인치(61cm)의 길이로 사이드라인의 안쪽과 인바운즈라인에 표시해야 하는데, 모든 야드라인은 사이드라인으로부터 4인치(10cm) 떨어져야 한다.(규칙 2-12-6) 사이드라인과 코칭라인 사이의 지역은 의무적으로 흰색으로 칠해야 한다. 엔드존안에는 흰색의 필드마킹이나 대조적인 색상의 장식(로고, 팀명, 휘장, 대회명 등)이 허용되나, 모든 선으로부터 최소한 4피트(1.</description>
+    </item>
+    
+    <item>
+      <title>Section 2. The Field</title>
+      <link>https://rulebook.github.io/en/rules/1/sections/2/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/1/sections/2/</guid>
+      <description>Dimensions and Markings
+ARTICLE 1. The field shall be a rectangular area with dimensions, lines, zones, goals and pylons as indicated in Appendix C. a. All field-dimension lines shown must be white and 4 inches in width (Exceptions: Sidelines and end lines may exceed 4 inches in width, goal lines may be 4 or 8 inches in width, and Rule 1-2-1-g). b. Twenty-four-inch short yard-line extensions, four inches inside the sidelines and at the hash marks, are mandatory; and all yard lines shall be four inches from the sidelines (Rule 2-12-6).</description>
+    </item>
+    
+    <item>
+      <title>3장. 블로킹</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/3/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/3/</guid>
+      <description>1조 블로킹 a. 블로킹이란, 블로커가 신체의 어느 부분이라도 상대방에게 접촉하여 상대방을 방해하는 행위이다. b. 푸싱이란 손바닥을 편 채로 상대방에게 하는 블로킹이다.
+2조 허리아래 블록 a. 허리아래 블로킹이란, 한발 또는 양발이 지면에 닿아있는 상대선수의 허리아래를 최초로 접촉하는 블록이다. 의문시 허리아래 블로킹이다.(규칙9-1-6) b. 허리아래 블로킹은 한쪽 또는 양발이 지면에 있는 상대에 대한 최초 접촉에만 적용된다. 최초 접촉이 허리보다 위였고, 그 후 허리 아래로 미끄러져 내려오는 것은 허리아래의 블록이 아니다. 블로커가 상대선수의 허리나 허리 위의 손에 최초로 접촉한 경우는 정당한 허리 위 블로킹이다.</description>
+    </item>
+    
+    <item>
+      <title>3장. 볼 &lt;!-- 없었음!!! --&gt;</title>
+      <link>https://rulebook.github.io/ko/rules/1/sections/3/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/1/sections/3/</guid>
+      <description>제1조 규격 볼은 다음의 규격을 만족해야 한다.
+a. 신품이나 거의 신품(거의 신품이라 함은 변형됨이 없이 신품의 성질과 품질을 가진 볼을 지칭한다). b. 봉합선 이외의 표면에는 주름이 없고 올록볼록한 4장의 가죽으로 만든 것
+ 위 그림은 표준규격의 볼의 종단면이다. 표시된 수치 는 허용 범위의 최대치와 최소치를 나타낸다. 이 그림은 볼의 제조 시 제품의 균일화를 위하여 게재하였다.
+ c. 8개의 같은 간격으로 된 레이스 d. 천연가죽색인 황갈색 e. 레이스가 있는 두 장의 가죽에는 볼의 양 끝에서 3~3.</description>
+    </item>
+    
+    <item>
+      <title>Section 3. The Ball</title>
+      <link>https://rulebook.github.io/en/rules/1/sections/3/</link>
+      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/1/sections/3/</guid>
+      <description>Specifications
+ARTICLE 1. The ball shall meet the following specifications: a. New or nearly new. (A nearly new ball is a ball that has not been altered and retains the properties and qualities of a new ball.) b. Cover consisting of four panels of pebble-grained leather without corrugations other than seams. c. One set of eight equally spaced lacings. d. Natural tan color. e. Two 1-inch white stripes that are three to three-and-one-quarter inches from the end of the ball and located only on the two panels adjacent to the laces.</description>
+    </item>
+    
+    <item>
+      <title>Section 4. Players and Playing Equipment</title>
+      <link>https://rulebook.github.io/en/rules/1/sections/4/</link>
+      <pubDate>Mon, 08 May 2017 20:42:19 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/1/sections/4/</guid>
+      <description>Recommended Numbering
+ARTICLE 1. It is strongly recommended that offensive players be numbered according to the following diagram that shows one of many offensive formations:
+80-99 70-79 60-69 50-59 60-69 70-79 80-99  Players’ Numbering
+ARTICLE 2. a. All players shall be numbered 1 through 99. Any number preceded by zero (“0’’) is illegal. b. No two players of the same team shall participate in the same down wearing identical numbers.</description>
+    </item>
+    
+    <item>
+      <title>제4장. 선수와 장비</title>
+      <link>https://rulebook.github.io/ko/rules/1/sections/4/</link>
+      <pubDate>Mon, 08 May 2017 20:42:19 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/1/sections/4/</guid>
+      <description>제1조 올바른 번호부착 아래 그림은 여러 종류의 공격포메이션 중의 하나이다. 공격팀 선수는 아래 그림과 같이 위치에 따라 규정된 번호를 부착할 것을 강력히 요청한다.
+80-99 70-79 60-69 50-59 60-69 70-79 80-99 ■ ■ ■ ■ ■ ■ ■ 엔드 태클 가드 스내퍼 가드 태클 엔드 ■ 쿼터백 ■ 백 1 - 49 ■ 하프백 하프백 ■ 풀백  제2조 선수의 번호 a. 모든 선수는 1에서 99까지의 번호를 부착하여야 한다. “0”으로 시작되는 어떠한 번호도 불법이다.</description>
+    </item>
+    
+    <item>
+      <title>4장. 캐치, 리커버, 확보</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/4/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/4/</guid>
+      <description>1조 확보 확보란 (a) 이항에서 나중에 설명되는 라이브볼 (b) 스냅 또는 프리킥되는 데드볼을 관리함을 말한다. 이것은 선수의 확보 또는 팀의 확보에 적용된다.
+a. 선수의 확보 선수가 인바운즈의 지면에 접촉하는 동안 확실하게 볼을 잡아 보유 또는 제어할 때 볼은 선수가 확보한 것이다.
+b. 팀의 확보 볼을 팀이 확보 1. 그 팀의 한 선수가 선수의 확보 중일 때로, 펀트나 드롭킥, 또는 플레이스킥을 시도할 때도 포함된다; 또는 2. 그 팀의 한 선수에 의해서 던져진 포워드패스가 날아가고 있을 때; 또는 3.</description>
+    </item>
+    
+    <item>
+      <title>5장. 클리핑</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/5/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/5/</guid>
+      <description>1조 a. 클리핑이란 상대선수에 대한 최초의 접촉이 등 뒤에서 허리나 그 아래에 행해지는 블록이다.(규칙 9-1-5) b. 블로커의 머리나 발의 위치가 반드시 최초의 접촉지점을 나타내는 것은 아니다.</description>
+    </item>
+    
+    <item>
+      <title>6장. 데드볼을 고의로 전진시킴</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/6/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/6/</guid>
+      <description>‘데드볼을 고의로 전진시킴’이란 러너의 손이나 발 이외의 신체 일부분이 지면에 접촉된 후, 또는 규칙에 따라 볼이 데드가 되었는데도 볼을 전진시키려는 시도이다.(예외 : 규칙4-1-3-b의 예외)</description>
+    </item>
+    
+    <item>
+      <title>7장. 다운, 다운과 다운 사이와 로스오브다운</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/7/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/7/</guid>
+      <description>1조 다운 다운이란, 볼이 레디포플레이된 후 정당한 스냅이나 정당한 프리킥으로 시작되며 볼이 데드가 되었을 때에 종료되는 경기의 단위다. {예외 : 트라이는 볼이 레디포플레이 되었다는 것을 레퍼리가 선언한 후에 시작되는 스크리미지다운이다.(규칙 8-3-2-b)}
+2조 다운과 다운 사이 다운과 다운 사이란 볼이 데드가 되어있는 시간 동안을 말한다.
+3조 로스오브다운(다운의 상실) 다운의 상실이란 다운을 반복할 권리를 잃는 것이다.</description>
+    </item>
+    
+    <item>
+      <title>8장. 페어캐치</title>
+      <link>https://rulebook.github.io/ko/rules/2/sections/8/</link>
+      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/2/sections/8/</guid>
+      <description>1조 페어캐치 a. 스크리미지킥 시의 페어캐치란, 킥된 볼이 뉴트럴존을 넘어선 지점에서 어느 것(선수, 심판, 기타)과도 접촉되지 않은 상태에서, 유효한 신호를 한 B팀의 선수가 뉴트럴존을 넘어선 지점에서 캐치하는 것이다. b. 프리킥 시의 페어캐치란, 접촉되지 않은 프리킥을 유효한 신호를 한 B팀의 선수가 캐치하는 것이다. c. 유효한 또는 무효한 페어캐치의 신호는 리시브팀으로부터 볼을 전진시킬 기회를 박탈하고, 볼은 캐치나 리커버된 지점에서 데드가 된다. 그러나 캐치한 후 신호를 하면 신호한 지점에서 데드가 선언된다. d. 리시버가 햇빛을 막기 위하여 손으로 가리는 경우 볼은 라이브 상태이고 전진행할 수 있다.</description>
     </item>
     
     <item>
@@ -172,1820 +347,769 @@ MRSA는 토지나 잔디에는 존재하지 않고 인조잔디에도 생존할 
       <pubDate>Mon, 13 Mar 2017 16:58:59 +0900</pubDate>
       
       <guid>https://rulebook.github.io/ko/foreword/</guid>
-      <description>
-
-&lt;p&gt;본 공식규칙과 공식규칙해설은 국내의 미식축구경기에 적용되는 것으로써 모든 판정의 기준이 된다.
-본 공식규칙과 공식규칙해설은 대한미식축구협회가 미국의 NCAA로부터 한국 국내에서 NCAA FOOTBALL RULES의 사용에 관한 모든 권한을 위임받아 2015 NCAA Football Rules and Interpretations을 토대로 한국의 미식축구 실정에 맞게 새롭게 작성한 것이다.
-(본 공식규칙과 공식규칙해설은 NCAA 규칙 중 2014년도, 2015년도에 달라진 부분은 어두운 색으로 표시하였다.)&lt;/p&gt;
-
-&lt;p&gt;2015년 8월 15일
-대한미식축구협회 규칙위원회&lt;/p&gt;
-
-&lt;h1 id=&#34;감-사-문&#34;&gt;감 사 문&lt;/h1&gt;
-
-&lt;p&gt;대한미식축구협회는 본 규칙의 출판을 허락하고, 이에 많은 지원을 하여준 미국대학체육협회(NCAA)에 깊은 감사를 드린다.
-이 규칙은 NCAA에 따라 번역이 되었으나, 규칙위원회에서는 NCAA 규칙을 매년 검토를 하여 우리나라의 실정에 알맞게 새롭게 작성한 것이다.&lt;/p&gt;
-
-&lt;p&gt;대한미식축구협회&lt;/p&gt;
-
-&lt;h1 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h1&gt;
-
-&lt;p&gt;The Korea American Football Association deeply appreciate to NCAA for support and assistance of this publication.
-This rule is translated by Rule Committee of KAFA  with permission of NCAA and is subject to annual review and change.&lt;/p&gt;
-
-&lt;p&gt;Korea American Football Association
-August, 2015.&lt;/p&gt;
-</description>
+      <description>본 공식규칙과 공식규칙해설은 국내의 미식축구경기에 적용되는 것으로써 모든 판정의 기준이 된다. 본 공식규칙과 공식규칙해설은 대한미식축구협회가 미국의 NCAA로부터 한국 국내에서 NCAA FOOTBALL RULES의 사용에 관한 모든 권한을 위임받아 2015 NCAA Football Rules and Interpretations을 토대로 한국의 미식축구 실정에 맞게 새롭게 작성한 것이다. (본 공식규칙과 공식규칙해설은 NCAA 규칙 중 2014년도, 2015년도에 달라진 부분은 어두운 색으로 표시하였다.)
+2015년 8월 15일 대한미식축구협회 규칙위원회
+감 사 문 대한미식축구협회는 본 규칙의 출판을 허락하고, 이에 많은 지원을 하여준 미국대학체육협회(NCAA)에 깊은 감사를 드린다.</description>
     </item>
     
     <item>
-      <title>RULE 1—The Game, Field, Players and Equipment</title>
-      <link>https://rulebook.github.io/en/r1/</link>
-      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      <title>Table of Contents</title>
+      <link>https://rulebook.github.io/en/toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rulebook.github.io/en/r1/</guid>
-      <description>
-
-&lt;h1 id=&#34;section-1-general-provisions&#34;&gt;SECTION 1. General Provisions&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;The Game&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 1.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The game shall be played between two teams of not more than 11 players each, on a rectangular field and with an inflated ball having the shape of a prolate spheroid.&lt;/li&gt;
-&lt;li&gt;A team legally may play with fewer than 11 players, but a foul for an illegal formation occurs if the following requirements are not met:
-
-&lt;ol&gt;
-&lt;li&gt;When the ball is free-kicked, at least four Team A players are on each side of the kicker (Rule 6-1-2-c-3).&lt;/li&gt;
-&lt;li&gt;At the snap, at least five players wearing jerseys numbered 50 through 79 are on the offensive scrimmage line and no more than four players are in the backfield (Rules 2-21-2, 2-27-4 and 7-1-4-a) (Exception: Rule 7-1-4-a-5) (A.R. 7-1-4-IV-VI).&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Goal Lines&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 2.&lt;/p&gt;
-
-&lt;p&gt;Goal lines, one for each team, shall be established at opposite ends of the field of play, and each team shall be allowed opportunities to advance the ball across the other team’s goal line by running, passing or kicking it.”&lt;/p&gt;
-
-&lt;p&gt;Excerpt From: National Collegiate Athletic Association. “2016-17 Football Rules.” iBooks.&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/en/toc/</guid>
+      <description> Contents  NCAA Football Rules Committee fr-4 Major Rules Changes for 2014 and 2015 fr-5 Index to Editorial Changes fr-6 Points of Emphasis fr-7 Sportsmanship Statement fr-9 The Football Code fr-10 Official NCAA Football Rules fr-12  Rule 1—The Game, Field, Players and Equipment fr-13 Rule 2—Definitions fr-26 Rule 3—Periods, Time Factors and Substitutions fr-44 Rule 4—Ball in Play, Dead Ball, Out of Bounds fr-57 Rule 5—Series of Downs, Line to Gain fr-60 Rule 6—Kicks fr-63 Rule 7—Snapping and Passing the Ball fr-71 Rule 8—Scoringfr-80 Rule 9—Conduct of Players and Others Subject to Rules fr-86 Rule 10—Penalty Enforcement fr-102 Rule 11—The Officials: Jurisdiction and Duties fr-106 Rule 12—Instant Replay fr-107  Appendix A—Guidelines for Serious On-Field Injury fr-113 Appendix B—Concussions fr-114 Appendix C—Field Programs fr-116 Appendix D—Equipment: Additional Details fr-122 Code of Officials Signals fr-128 Official NCAA Football Rules Interpretations fI-1 Table of Contents for Approved Rulings fI-2 List of New Approved Rulings fI-3  Rule 1—The Game, Field, Players and Equipment fI-4 Rule 2—Definitions fI-7 Rule 3—Periods, Time Factors and Substitutions fI-10 Rule 4—Ball in Play, Dead Ball, Out of Bounds fI-23 Rule 5—Series of Downs, Line to Gain fI-25 Rule 6—Kicks fI-28 Rule 7—Snapping and Passing the Ball fI-39 Rule 8—Scoring fI-51 Rule 9—Conduct of Players and Others Subject to Rules fI-58 Rule 10—Penalty Enforcement fI-72  Index to Rules IND-1  </description>
     </item>
     
     <item>
-      <title>규칙 1—경기와 경기장, 선수, 장비</title>
-      <link>https://rulebook.github.io/ko/rules/1/</link>
-      <pubDate>Sat, 11 Mar 2017 02:17:31 +0900</pubDate>
+      <title>차례</title>
+      <link>https://rulebook.github.io/ko/toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rulebook.github.io/ko/rules/1/</guid>
-      <description>
-
-&lt;h1 id=&#34;1장-일반-규정&#34;&gt;1장. 일반 규정&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-경기&#34;&gt;제1조 경기&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;경기는 한 팀이 11명 이하의 선수들로 구성된 두 팀에 의해서 직사각형 경기장에서 공기를 가득 채운 타원형의 볼을 사용하여 진행된다.&lt;/li&gt;
-&lt;li&gt;각 팀은 10명 이하의 선수로도 경기할 수 있으나 다음의 조건을 만족시키지 못하면 부정한 포메이션의 반칙이 된다:
-
-&lt;ol&gt;
-&lt;li&gt;A팀은 프리킥 시 키커 양편에 최소 4명의 선수가 있어야 한다.(규칙 6-1-2-c-3)&lt;/li&gt;
-&lt;li&gt;스냅 시 공격팀의 스크리미지 라인에는 50-79의 번호의 선수가 적어도 5명이 있어야 한다.
-또 백필드에는 5명 이상의 선수가 있을 수 없다.(규칙2-21-2, 2-27-4, 7-1-4-a) (예외 : 규칙 7-1-4-a-5) (A.R.7-1-4-IV-VI)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;제2조-골라인&#34;&gt;제2조 골라인&lt;/h2&gt;
-
-&lt;p&gt;골라인은 양 팀에 하나씩 있으며, 필드오브플레이의 양쪽 끝에 있고, 양 팀은 상대방의 골라인을 넘어가기 위해 볼을 런, 패스, 킥의 방법으로 볼을 전진시키는 기회를 가진다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-승자와-최종득점&#34;&gt;제3조 승자와 최종득점&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;양 팀은 규칙에 따라 점수를 획득하고, 몰수되는 경기를 제외하고는, 연장전을 포함하여 경기가 종료되는 시점에서 상대 팀보다 더 많은 점수를 획득한 팀이 승자가 된다.&lt;/li&gt;
-&lt;li&gt;경기는 레퍼리가 종료를 선언하는 시점에서 끝나고, 그때 선언한 득점이 최종 득점이 된다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;제4조-심판&#34;&gt;제4조 심판&lt;/h2&gt;
-
-&lt;p&gt;경기는 심판의 관리로 진행된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-팀-주장&#34;&gt;제5조 팀 주장&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;양 팀은 레퍼리에게 4명 이하의 선수를 필드캡틴으로 지정하여 보고하고, 한 번에 한 명의 필드 캡틴만이 자기 팀을 대표해서 심판들과 모든 것을 이야기할 수 있다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;제6조-규칙의-적용-대상자&#34;&gt;제6조 규칙의 적용 대상자&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;팀에리어의 모든 관계자는 공식규칙의 적용을 받고 심판의 결정에 따라야 한다.&lt;/li&gt;
-&lt;li&gt;모든 선수, 교대선수, 피 교대선수, 코치, 트레이너, 유니폼을 입은 치어리더, 유니폼을 입은 밴드관계자, 유니폼을 입은 마스코트, 상업용 마스코트나 장내 아나운서, 시청각기기 오퍼레이터와 양 팀이나 경기단체 등의 관계자는 공식규칙의 적용을 받고 심판의 결정을 따라야 한다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;제7조-규칙에-적용되는-단체&#34;&gt;제7조 규칙에 적용되는 단체&lt;/h2&gt;
-
-&lt;p&gt;본 규칙은 대한미식축구협회에 소속된 모든 협회와 연맹에 적용된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;2장-필드&#34;&gt;2장. 필드&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-치수와-표시&#34;&gt;제1조 치수와 표시&lt;/h2&gt;
-
-&lt;p&gt;필드는 경기장 전도, 경기장 세부도(부록 D)의 규격, 라인, 존, 골,과 파일론으로 구성된 직사각형의 영역이다.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;필드의 모든 선은 희고, 눈과 피부에 해가 없는 재료를 사용하고, 4인치(10cm) 두께로 표시한다.
-(예외：사이드라인과 엔드라인의 폭은 4인치(10cm)를 초과해도 무방하고 골라인은 폭이 4인치(10cm) 또는 8인치(20cm)가 가능하다.(규칙 1-2-1-g)&lt;/li&gt;
-&lt;li&gt;1야드마다 표시하는 야드라인은 24인치(61cm)의 길이로 사이드라인의 안쪽과 인바운즈라인에 표시해야 하는데, 모든 야드라인은 사이드라인으로부터 4인치(10cm) 떨어져야 한다.(규칙 2-12-6)&lt;/li&gt;
-&lt;li&gt;사이드라인과 코칭라인 사이의 지역은 의무적으로 흰색으로 칠해야 한다.&lt;/li&gt;
-&lt;li&gt;엔드존안에는 흰색의 필드마킹이나 대조적인 색상의 장식(로고, 팀명, 휘장, 대회명 등)이 허용되나, 모든 선으로부터 최소한 4피트(1.22m) 이상 떨어져야 한다.&lt;/li&gt;
-&lt;li&gt;엔드존의 장식이 대조적인 색상이면 인접해도 된다.&lt;/li&gt;
-&lt;li&gt;경기단체의 로고, 팀의 명칭과 로고의 장식은 아래의 조건에 맞는 경우에 양 골라인과 양 사이드라인의 안쪽에 대조적인 색으로만 그릴 수 있다.( 참조 부록 D)
-
-&lt;ol&gt;
-&lt;li&gt;모든 야드라인, 골라인과 사이드라인은 명확하게 식별되어야 한다. 모든 라인은 이러한 장식과 일부라도 겹쳐서 그릴 수 없다.&lt;/li&gt;
-&lt;li&gt;이러한 장식은 해시마크와 접하거나 포함해서는 안 된다.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;골라인은 흰 선과 대조적인 색상을 사용할 수 있다.&lt;/li&gt;
-&lt;li&gt;필드내의 선전광고는 아래의 경우를 제외하고 금지된다.
-
-&lt;ol&gt;
-&lt;li&gt;시즌 전후의 경기로 경기의 명칭에 타이틀 스폰서의 명칭이 포함되어있는 경우에는 필드에 선전광고를 그리는 것을 허용한다.
-그러나 최대 3개소로 1개의 선전광고의 중심은 50야드 라인으로 하고 그보다 작은 2개 이하의 광고는 그 옆에 그려도 좋다.
-이러한 광고는 위의 규정에 따라야 한다.
-이외의 타이틀 스폰서 혹은 다른 상업 단체의 광고를 필드에 그리는 것은 허용되지 않는다.
-이것에는 URL이나 해시태그 같은 소셜 미디어상의 명칭도 포함된다.&lt;/li&gt;
-&lt;li&gt;KAFA 로고 등 각 협회, 연맹의 로고는 사용할 수 있다.&lt;/li&gt;
-&lt;li&gt;상업 단체가 시설의 명명권을 가지고 있는 경우 필드 상에 2개소까지 그 명칭을 그려도 좋다.
-그러나 그 상업단체의 로고를 그릴 수는 없다.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;사이드라인에서 9야드(8.23m)에 숫자의 상단이 오게 되는 필드의 야드라인의 흰색 표시숫자를 높이 6피트(1.83m), 너비 4피트(1.22m) 보다 작은 크기로 표시하는 것을 희망한다.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;가까운 쪽의 골라인을 가리키는 흰색 삼각형 표시의 사용은 허용 된다(50야드에는 제외).
-삼각형은 밑변이 18인치(46cm), 양변은 36인치(91cm)여야 한다.&lt;/li&gt;
-&lt;li&gt;사이드라인으로부터 20야드(60피트, 18.29m)에 2개의 해시마크를 설치한다.
-해시마크와 짧은 야드라인의 길이는 24인치(61cm)이다.&lt;/li&gt;
-&lt;li&gt;9야드라인은 사이드라인 안쪽 9야드 지점에 12인치(30cm)의 길이로 매 10야드 마다 표시한다.
-규칙 1-2-1-I 에 따라 운동장에 숫자를 표시하였으면 9야드라인은 필요치 않다.&lt;/li&gt;
-&lt;li&gt;경기장 규격이 120야드를 충족하지 못할 경우 경기장 중앙으로부터 줄일 수 있다(중간지점은 적어도 양쪽 골라인으로부터 45야드 이상이어야 한다.) 골포스트는 엔드라인에 있어야하고 패딩되어야 한다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;제2조-경계지역의-표시&#34;&gt;제2조 경계지역의 표시&lt;/h2&gt;
-
-&lt;p&gt;측정은 경계선의 안쪽에서 한다.
-골라인의 폭은 엔드존에 속한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-리미트라인&#34;&gt;제3조 리미트라인&lt;/h2&gt;
-
-&lt;p&gt;a. 리미트라인은 24인치(61cm)의 간격으로, 길이 12인치(30cm)의 파선을,
-   운동장 전체의 크기가 불가능한 경우를 제외하고는 사이드라인과 엔드라인의 바깥쪽 12피트의 위치에 그려야 한다.
-   운동장의 크기가 불가능한 경우에는 사이드라인과 엔드라인에서 6피트(1.83m) 이상 되는 위치에 그린다.
-   리미트라인의 폭은 4인치(10cm)이고 노란색이다.
-   팀에리어 안에 들어가는 것을 인정받은 자 이외에는 리미트라인 안으로 들어갈 수 없다.
-b. 팀에리어 바깥에 있는 자는 리미트라인 내에 들어갈 수 없다.
-   경기의 관리자는 책임지고 이 규칙을 시행하여야 한다.
-c. 팀에리어 주위의 리미트라인은 운동장의 크기가 허락한다면 팀에리어로부터 6피트에 표시한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-팀에리어와-코칭박스&#34;&gt;제4조 팀에리어와 코칭박스&lt;/h2&gt;
-
-&lt;p&gt;a. 팀에리어는 교대선수, 트레이너, 팀 관계자만이 사용할 수 있는 지역으로, 필드 양쪽 옆의 리미트라인 안쪽의 양 25야드라인 사이에 위치한다.
-   코칭박스 앞쪽 라인은 양 25야드라인 사이에 있는 사이드라인에서 바깥쪽으로 6피트(1.83m) 거리에 실선으로 표시한다.
-   25야드 라인 사이의 코치라인과 리미트라인으로 둘러싸인 지역은, 코치의 사용을 위하여 흰색 사선이나 식별이 명확하도록 표시가 되어야 한다.(규칙 9-1-6-a)
-   야드판과 다운판이 사이드라인으로부터 6피트(1.83m)의 거리를 유지하기 쉽도록 양쪽 골라인 사이에 있는 5야드라인의 연장선과 코치라인의 연장선이 만나는 교차점에 사방 4인치(10cm)의 마커를 표시한다.
-b. 팀에리어 안에는 들어갈 수 있는 사람은 규칙대로의 유니폼을 입은 선수와 경기에 직접 관계가 있는 최대 60명까지의 팀 관계자이다.
-   팀에리어의 모든 관계자는 공식규칙의 적용을 받고 심판의 결정에 따라야 한다.(규칙1-1-6)
-   ‘규칙대로의 유니폼’이란 공식규칙대로의 장비를 착용하고 즉시 플레이가 가능한 상태를 말한다.
-   필요한 모든 유니폼을 착용하지 않은 60명까지의 팀 관계자는 1에서 60까지의 연속된 번호의 특별한 팀에리어 출입허가증을 착용해야 한다.
-   다른 증명서(허가증)로는 팀에리어에 들어갈 수 없다.
-c. 코치는 양 25야드라인 사이에 있는, 코치라인과 리미트라인으로 둘러싸인 지역에 있도록 허용된다.
-   이 지역이 코칭박스이다.
-d. 신문기자, 라디오, TV 등 일체의 보도관계자나 그들의 장비는 팀에리어나 코칭박스 내에 들어갈 수 없으며, 보도관계자는 팀에리어나 코칭박스 안에 있는 사람과는 어떠한 형태로도 대화를 할 수 없다.
-e. 경기운영자는 규칙에 의해서 인정받은 관계자 이외의 모든 사람을 팀에리어나 코칭박스에서 철수시켜야 한다.
-f. 팀에리어 밖에서는 키킹 네트를 설치할 수 없다.
-   {예외: 운동장의 크기가 충분 않을 경우 리미트라인밖의 네트홀드와 키커의 연습이 허용된다.(규칙 9-2-1-b-1)}&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-골&#34;&gt;제5조 골&lt;/h2&gt;
-
-&lt;p&gt;a. 골은 상단부의 높이가 지상에서 10피트(3.05m)인 수평의 흰색 또는 노란색의 크로스바로 연결된 지상 30피트(9.14m) 이상 되는 두 개의 수직 기둥으로 만들어진다.
-   수직 기둥과 크로스바의 안쪽 면은 엔드라인의 안쪽 끝과 같은 수직 평면상에 있어야 한다.
-   골은 아웃오브바운드이다.(부록 D참고)
-b. 2개의 골포스트 기둥은 크로스바 윗부분이 흰색 또는 노란색이어야 하고, 기둥 사이의 안쪽 폭은 18피트 6인치(약 5.64m)이어야 한다.
-c. 기둥과 크로스바에는 어떠한 장식도 허용되지 않는다.
-   {예외 : 폭 4인치(10cm), 길이 42인치(1.07m)의 주황색 또는 빨간색의 풍향 지시 끈을 수직 기둥 최상단에 부착하는 것은 허용 된다.}
-d. 크로스바의 높이는 크로스바 양 끝의 상단부터 지면까지의 수직거리이다.
-e. 골포스트는 지상으로부터 적어도 6피트(1.83m) 높이까지는 탄력성이 있는 물질로 싸야 한다.
-   크로스바 윗부분을 한 개의 기둥으로 지탱하는 형태의 골포스트를 사용해도 좋다.
-   수직 기둥에는 광고를 할 수 없다.
-   제작자로고나 상표는 각 수직 기둥의 패드에 하나씩은 가능하다.
-f. 홈팀이나 경기의 주최자는 상설형 골이 경기 중에 어떤 이유에 따라 사용할 수 없을 경우를 대비해서 이동형 골을 준비해두는 것을 권한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-파일론&#34;&gt;제6조 파일론&lt;/h2&gt;
-
-&lt;p&gt;파일론은 사방 4인치(10cm), 높이가 18인치(46cm,파일론 밑 부분과 지면과의 공간 2인치 포함)인 직육면체로 부드럽고 유연한 물질로 만들어야 한다.
-색상은 빨간색이나 주황색이고, 사이드라인과 골라인의 교차점과 사이드라인과 엔드라인의 교차점 여덟 군데에 세워야 한다.
-또한 엔드라인 3피트(91cm) 바깥쪽 해시마크 연장선에도 세워야 한다.
-각각의 파일론에는 제조업자의 로고나 상표를 하나만 부착할 수 있다.
-팀 로고, 경기단체의 로고, 포스트 시즌에서의 타이틀 스폰서의 명칭이나 상표도 인정된다.
-모든 마크는 모두 측면에 있어 3인치(7.6cm)를 넘길 수 없다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-야드체인-다운판&#34;&gt;제7조 야드체인, 다운판&lt;/h2&gt;
-
-&lt;p&gt;경기의 공식 야드체인과 다운판은 필드의 전체크기가 불가능한 경우를 제외하고는, 기자석 반대편 사이드라인 바깥쪽 6피트 지점에서 사용된다.&lt;/p&gt;
-
-&lt;p&gt;a. 야드체인은 높이가 5피트 이상 되는 두 개의 봉 사이에 연결되며, 완전히 폈을 때 두 봉 사이의 안쪽 길이는 정확히 10야드이어야 한다.
-   양 팀의 합의에 의해서 획득한 거리와 남은 거리의 표시기도 사용할 수 있다.
-   이 경우 경기 전에 라인즈맨은 그 정확도와 안전도를 검사 하여야 한다.
-b. 다운판은 5피트 이상의 봉에 부착하여야 하고, 기자석 반대편 사이드라인 바깥쪽 6피트 지점에서 이용된다.
-c. 보조용 야드체인과 다운판은 기자석편, 사이드라인 바깥쪽 6피트 지점에서 사용할 수 있다.
-d. 필드의 양 사이드라인 바깥쪽에는 빨간색 또는 주황색의 미끄러지지 않는 물질로 된 비공식 지면 야드체인을 사용할 수 있다.
-   표지는 폭 10인치, 길이 32인치의 사각형의 무거운 물질로 되어 있으며, 사이드라인을 향하고 있는 사각형의 끝에는 밑변이 10인치, 높이가 5인치인 삼각형이 붙어 있다.
-e. 야드체인과 다운판의 끝은 평평하여야 한다.
-f. 다운판이나 야드체인에 광고, 학교나 협회의 표시는 허용되지 않는다.
-   다만 표시기 한 개에 제작자의 로고나 상표 한 개만은 부착이 허용된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-표시물-장애물&#34;&gt;제8조 표시물, 장애물&lt;/h2&gt;
-
-&lt;p&gt;a. 필드내의 모든 표시물과 장애물은 선수들에게 위험하지 않게 만들어지고 설치되어야 한다.
-   이것은 리미트라인에 있는 다른 사람에 대한 경우에도 마찬가지이다.
-b. 심판에 의한 경기 전의 필드 체크에 따라 레퍼리는 리미트라인 안쪽의 위험한 장애물 또는 표시물은 어떠한 것이라도 철거하도록 명한다.
-c. 필드내이지만 리미트라인 바깥에 있는 위험한 표시물이나 장애물은 모두 레퍼리가 경기의 운영 책임자에게 보고한다.
-   철거의 최종 결정은 경기 운영책임자의 책임이다.
-d. 심판에 의한 경기 전 장내 체크가 완료된 후, 장내를 경기 종료까지 안전한 상태로 유지하는 것은 운영 책임자의 책임이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-필드-에리어&#34;&gt;제9조 필드 에리어&lt;/h2&gt;
-
-&lt;p&gt;a. 특정한 선수나 팀에 이익 또는 불이익을 주기 위한 물질이나 장치를 필드의 표면이나 다른 장소에 걸쳐 사용해서는 안 된다.
-   (예외 : 규칙 2-16-4-b, c)
-   벌칙：라이브볼 파울. 프리비어스 지점에서 5야드[S27]
-b. 레퍼리는 적절하고 안전한 경기운영을 위하여 필요하다고 생각되는 필드의 개선을 요구할 수 있다.&lt;/p&gt;
-
-&lt;h1 id=&#34;3장&#34;&gt;3장&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-규격&#34;&gt;제1조 규격&lt;/h2&gt;
-
-&lt;p&gt;볼은 다음의 규격을 만족해야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 신품이나 거의 신품(거의 신품이라 함은 변형됨이 없이 신품의 성질과 품질을 가진 볼을 지칭한다).
-b. 봉합선 이외의 표면에는 주름이 없고 올록볼록한 4장의 가죽으로 만든 것&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;위 그림은 표준규격의 볼의 종단면이다.
-표시된 수치 는 허용 범위의 최대치와 최소치를 나타낸다.
-이 그림은 볼의 제조 시 제품의 균일화를 위하여 게재하였다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;c. 8개의 같은 간격으로 된 레이스
-d. 천연가죽색인 황갈색
-e. 레이스가 있는 두 장의 가죽에는 볼의 양 끝에서 3~3.25인치의 위치에 폭 1인치의 흰색선이 한 개씩 있어야 한다.
-f. 볼의 크기와 형태는 그림과 같다.
-g. 볼은 10~ 13.5 PSI의 공기압을 가져야 한다.
-h. 볼의 무게는 14~15온스(약 397~425g)이어야 한다.
-i. 볼을 변형시키면 안 된다.
-   또한 볼을 건조하거나 데우는 어떠한 물질도 금하며 사이드라인 근처나 팀에리어 내에 볼을 건조하거나 데우는 어떠한 장치도 허용하지 않는다.
-j. 프로리그 로고가 있는 볼은 사용을 금한다.
-k. 볼에 광고를 금한다.{예외 (1) 볼 제작자의 이름이나 로고 (2) KAFA}&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-관리와-시행&#34;&gt;제2조 관리와 시행&lt;/h2&gt;
-
-&lt;p&gt;a. 심판은 양 팀으로부터 각각 6개 이하로 제출된 볼을 경기 전이나 경기 중에 검사 판정한다.
-   필드 사정 등 상황에 따라 볼의 추가사용을 허가하는 일도 심판이 한다(.A.R.1-3-2-I)
-b. 주최 측은 공기주입펌프와 측정 기구를 준비하여야 한다.
-c. 홈팀은 규격에 맞는 볼을 준비해야 하는 의무가 있고, 상대 팀에게 경기에 사용될 볼의 종류를 알려 주어야 한다.
-d. 전 경기를 통하여, 볼을 확보한 팀은 그 팀이 선택한 볼을 사용할 수 있다.
-   단 사용되는 볼은 규격에 합당한, 규칙에 따라 측정과 검사를 마친 신품 또는 거의 신품인 볼이어야 한다.
-e. 방문팀이 볼을 확보하고 있을 때, 홈팀이 제시한 볼 이외의 볼을 사용하고자 하면,
-   방문팀은 규격에 맞는 볼을 준비하여 허락을 받아야 한다.
-f. 경기에 사용하고자 하는 모든 볼은 검사를 위하여 레퍼리에게 경기 시작 60분 전까지 제출해야 한다.
-g. 볼이 해시마크보다 사이드라인에 가까운 지점에서 데드되었을 경우, 경기에 적합하지 않을 경우,
-   사이드존에서 측정을 할 경우, 심판이 볼을 집으러 가기 곤란한 경우에 볼 관리자는 볼을 교대하여야 한다(.A.R. 1-3-2-I)
-h. 레퍼리나 엄파이어는 볼이 경기에 사용되기 전에, 볼이 규격에 합당한지를 판정한다.
-i. 볼의 측정은 다음의 순서에 따라 하여야 한다.
-    1. 모든 측정은 볼의 공기압이 규격에 맞을 때 해야 한다.
-    2. 볼의 기다란 쪽의 바깥둘레 길이는 볼의 양 끝 사이에서 레이스를 피해 측정한다.
-    3. 볼의 기다란 지름은 양 끝 사이를 켈리퍼를 사용하여 측정한다.(양 끝의 움푹 들어간 곳이 아님)
-    4. 볼의 짧은 쪽의 바깥둘레 길이는 공기주입구와 레이스를 지나면서 측정하고 크로스 레이스 부분은 피한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-볼에의-표시&#34;&gt;제3조 볼에의 표시&lt;/h2&gt;
-
-&lt;p&gt;볼에는 선수가 좋아하는 또는 플레이 상황을 나타내는 표시를 할 수 없다.
-벌칙 : 라이브볼 파울. 프리비어스 지점에서 15야드 [S27]&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제4장-선수와-장비&#34;&gt;제4장 선수와 장비&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-올바른-번호부착&#34;&gt;제1조 올바른 번호부착&lt;/h2&gt;
-
-&lt;p&gt;아래 그림은 여러 종류의 공격포메이션 중의 하나이다.
-공격팀 선수는 아래 그림과 같이 위치에 따라 규정된 번호를 부착할 것을 강력히 요청한다.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;80-99  70-79  60-69  50-59  60-69  70-79  80-99
- ■     ■     ■     ■      ■      ■      ■
-엔드   태클   가드   스내퍼   가드    태클     엔드
-
-                   ■ 쿼터백
-
-■              백 1 - 49                ■
-하프백                                   하프백
-                   ■
-                  풀백
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;제2조-선수의-번호&#34;&gt;제2조 선수의 번호&lt;/h2&gt;
-
-&lt;p&gt;a. 모든 선수는 1에서 99까지의 번호를 부착하여야 한다. “0”으로 시작되는 어떠한 번호도 불법이다.[S23]
-b. 같은 다운 중에 같은 팀의 두 명의 선수가 같은 번호를 착용해서는 안 된다.(A.R.1-4-2-II)
-c. 번호의 주위를 장식하는 것은 허용되지 않는다.
-   벌칙(a～c)：라이브볼 파울. 프리비어스 지점에서 5야드 [S23]
-d. 경기 중, 선수가 저지의 번호를 변경하여 참가할 때는 레퍼리에게 보고하여야 한다.
-   레퍼리는 그 보고를 받은 경우 상대 팀의 감독에게 알려야 한다.
-   번호를 변경하고 보고 없이 경기에 참가한 경우에는 스포츠맨답지 않은 행위의 반칙이 된다 .&lt;a href=&#34;A.R.1-4-2-I&#34;&gt;S27&lt;/a&gt;
-   벌칙 [d]：라이브볼 파울. 스포츠맨답지 않은 행위의 반칙, 프리비어스 지점에서 15야드[S27]. 악의적인 반칙 자는 자격몰수 [S47]&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-필수-장비&#34;&gt;제3조 필수 장비&lt;/h2&gt;
-
-&lt;p&gt;모든 선수는 아래의 필수 장비를 착용하여야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 헬멧
-b. 힙패드
-c. 저지
-d. 니패드
-e. 마우스피스
-f. 팬츠
-g. 숄더패드
-h. 양말
-i. 사이가드&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-설명-서-필수-장비&#34;&gt;제4조 설명(서): 필수 장비&lt;/h2&gt;
-
-&lt;p&gt;a. 헬멧:
-    1. 페이스 마스크가 있고 헬멧과 4포인트 또는 6포인트의 턱 끈(친스트랩)에 의해 고정된 헬멧.
-       라이브볼 중에는 모든 친스트랩이 채워져 있어야 한다.
-    2. 같은 팀의 선수는 같은 색깔과 (같은 디자인의) 헬멧을 써야 한다.&lt;br /&gt;
-b. 힙패드: 힙패드는 꼬리뼈 보호대를 포함하여야 한다.
-c. 저지: 규칙 1-4-5
-d. 니패드: 무릎을 완전히 덮고 팬츠 안에 있는 두께가 1/2인치(13mm) 이상의 부드러운 니패드.
-   어떠한 패드나 보호 장비도 팬츠의 바깥쪽에 있으면 안 된다.
-e. 마우스피스: 입안에 들어가 위 이빨을 완전히 덮는 마우스피스, 눈에 쉽게 띄는 색상(흰색이나 투명색은 안 됨)이어야 한다.
-   딱 맞는 것을 권장한다.
-f. 팬츠: 같은 팀의 선수는 같은 색상과 디자인이 된 팬츠를 입어야 한다.&lt;br /&gt;
-g. 숄더패드: 숄더패드의 규격은 별도로 정한다. (참조 부록 E)
-h. 양말: 모든 선수는 색상, 디자인, 길이가 같은 양말 또는 스타킹을 착용하여야 한다.
-   (예외: 부상 부위의 보호 또는 부상 예방을 위한 개조되지 않은 무릎보호대, 테이프 또는 반창고. 맨발의 키커)
-i. 사이가드: 사이가드의 규격은 별도로 정한다. (참조 부록 E)&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-저지의-디자인-색상과-숫자&#34;&gt;제5조 저지의 디자인, 색상과 숫자&lt;/h2&gt;
-
-&lt;p&gt;a. 디자인
-    1. 숄더패드를 완전히 덮는 소매가 있고, 개조되거나 찢어지기 쉽게 디자인 되지 않아야 한다.
-       저지는 팬츠 속으로 넣을 만큼 충분히 길어야 하고, 팬츠 안에 넣어서 입거나, 최소한 허리선까지 길이는 되어야 한다.
-       허리선이나 허리선위까지 착용하고 있는 모든 패드를 덮어야 한다.
-       경기 중 조끼나 2장의 저지를 입는 것은 금지된다.
-    2. 저지는 선수의 번호 외에 선수 명. 팀명. 팀의 로고. 경기단체 로고. 마스코트 마크. 경기기념로고, 추도표시로고와 국기만을 부착할 수 있다.
-    3. 위의 2에 있는 어떤 항도 표장(로고나 마크)은 패치를 포함해서 16제곱인치(103㎠)의 크기 (즉 직사각형, 정사각형, 평행사변형)이내여야 한다.
-    4. 칼라와 소매 끝에 최대 1인치(25mm)의 경계선이나 측면의 봉합부(겨드랑이에서 팬츠 최상끝 부분까지)에 최대 4인치(10cm)의 줄무늬를 사용할 수 있다.
-    5. 어떤 상황에서도 저지에 테이프를 붙이거나 묶거나 할 수 없다.&lt;/p&gt;
-
-&lt;p&gt;Note: 유니폼 개념도를 보면 위의 규칙을 이해하는데 도움이 된다.&lt;/p&gt;
-
-&lt;p&gt;b. 색상
-    1. 양 팀의 선수는 대조적인 색상의 저지를 착용하여야 한다. 같은 팀의 선수는 같은 색상과 같은 디자인의 저지를 착용하여야 한다.
-    2. 방문팀은 흰색의 저지를 착용하여야 한다. 양 팀이 시즌 전에 문서로 합의하면 홈팀이 흰색 저지를 입어도 된다.
-    3. 홈팀이 칼라 저지를 착용하는 경우, 아래 조건을 충족한다면 그때에만 방문팀이 칼라 저지를 착용할 수 있다.
-        a. 방문팀이 칼라저지를 착용하는 것을 홈팀이 경기 전에 동의한 경우
-        b. 양 팀의 저지가 대조적인 색상이라는 것을 홈팀이 소속된 경기단체에서 인정한 경우
-    4. 전․후반 시작의 킥오프에서 방문팀이 위의 3항의 규칙에 반한 칼라 저지를 착용 한다면 비신사적인 행위의 반칙이 된다.
-       벌칙: 데드볼 반칙으로 시행. 킥오프 후 석시딩 지점에서 15야드.
-       킥오프가 터치다운이 되는 경우에는 벌칙을 트라이에서 시행하거나 다음 킥오프에서 시행하든가를 홈팀이 선택한다. [S27]
-    5. 칼라의 저지에 흰색을 넣는 경우 상기 a-2에 포함된 흰색만이 허가된다.
-c. 숫자
-    1. 저지의 앞면에는 높이 8인치(20cm) 이상, 뒷면에는 높이 10인치(25cm) 이상의 크기로 명확하게 식별되는 쉽게 뜯기지 않는 아라비아 숫자를 붙여야 한다.
-       번호 주위의 테두리에 관계없이 번호의 색은 저지의 색과 명확하게 구분되는 한 가지 색상이어야 한다.
-    2. 이 규칙에 적합 하지 않은 저지/숫자를 팀이 입고 있으면, 게임전이나 쿼터 시작 전에 적합한 저지를 입으라고 저지를 바꿀 때 까지 요구한다.
-       심판은 부정한 저지를 입고 있는 각 쿼터시작마다 팀 타임아웃을 부과한다.(A. R. 1-4-5-I)
-    3. 같은 팀의 모든 선수는 같은 색깔, 같은 글자체의 번호를 저지의 앞뒤 면에 붙여야 한다.
-       숫자의 선의 굵기는 1.5인치(38mm) 이상이어야 한다.
-       유니폼에 부착되는 어떠한 번호라도 저지의 앞뒤 면과 같은 번호여야 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-기타-장비&#34;&gt;제6조 기타 장비&lt;/h2&gt;
-
-&lt;p&gt;아래의 장비 이용은 허가된다.&lt;/p&gt;
-
-&lt;p&gt;a. 타월과 핸드워머:
-    1. 4x12인치(10x30cm)보다 크고 6x12인치(15x30cm)보다 작은 글자, 숫자, 심볼이 없는 흰색 타월.
-       타월에는 각 팀의 로고는 부착되어 있어도 된다.
-       또 2.25제곱인치(14.5제곱 센치)를 넘지않는 단 1개의 제조업자나 공급업자의 통상 라벨이나 상표를 부착해도 좋다.
-       무늬 없는 흰색 이외의 타월은 착용할 수 없다.
-    2. 추운 날씨의 핸드워머
-b. 장갑: 장갑은 손을 확실하게 감싸는 것으로 각각의 손가락이 분리되어 있고 각각의 손가락을 완전하게 덮고 있는 것으로 손가락 사이가 연결되어 있지 않은 것을 말한다.
-   장갑의 색상에 대해서는 제한규정이 없다.
-c. 아이 실드: 무색투명하고 형틀을 사용해 만들어지고, (예리한 각이나 단면이 없는), 강도가 확보된 것.
-   안경과 고글은 무색투명하여야 한다.
-   의학적인 이유가 있더라도 예외는 없다.
-d. 휘장
-    1. 고인이나 재해 등을 추도하는 휘장은 넓이가 2.25제곱인치 이하라면 유니폼 또는 헬멧에 부착할 수 있다.
-    2. 팀의 스티커를 헬멧에 붙여도 좋다.
-e. 아이셰이드: 눈 아래에 칠하거나 부착하는 아이셰이드는 단일 색으로 문자나 로고, 번호, 심볼마크 등이 표시할 수 없다.
-f. 게임 정보: 게임 정보를 손목이나 팔에 부착해도 좋다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-부정한-장비&#34;&gt;제7조 부정한 장비&lt;/h2&gt;
-
-&lt;p&gt;부정한 장비란 다음과 같은 것이다.(참조 부록 E. 세부사항)&lt;/p&gt;
-
-&lt;p&gt;a. 선수가 착용하고 있는 다른 선수에게 위험할 수 있는 것
-b. 부상부위의 보호를 위해 엄파이어가 특별히 허가한 것 이외의 테이프나 반창고 등
-c. 딱딱하고 표면이 거칠고 유연성이 없는 장비로 완전하게 덮어 씌워지지 않은 것
-d. 클리트의 끝에서 신발바닥까지가 3/4인치(19mm)를 넘는 것. (참조 부록 E)(규칙 9-2-2-d)
-e. 상대를 혹하게 하거나 속일 가능성이 있는 장비
-f. 장착하는 것으로 모든 선수에게 불공평한 이익을 주는 장비
-g. 장비, 선수자신, 의류, 부착물에 칠하거나 볼 또는 상대 선수에 영향을 주는 점착성 물질 또 는 칠감, 그리스, 다른 미끄러지기 쉬운 모든 물질[예외: 아이셰이드(규칙 1-4-6-e)]
-h. 타월 이외에 유니폼에 부착한 부속품(규칙 1-4-6-a)
-i. 완전히 싸이지 않은 립 패드(갈비뼈 보호대), 숄더 패드의 부속물과 등 프로텍터 ( A.R. 1-4-7-II)
-j. 팀에리어 바깥에서 착용한 노출된 반다나(A.R. 1-4-7-I, II)
-k. 규칙 1-4-5에 적합하지 않는 저지
-l. 비표준 (과도한) 페이스마스크(A.R. 1-4-7-IV)&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-필수-장비와-부정한-장비의-시행&#34;&gt;제8조 필수 장비와 부정한 장비의 시행&lt;/h2&gt;
-
-&lt;p&gt;a. 부정한 장비를 착용하거나 필수장비를 착용하지 않은 선수는 플레이에 참가할 수 없다. (예외; 규칙 1-4-5-c)
-b. 심판이 부정한 장비의 착용을 발견한 경우, 또는 선수가 필수장비를 착용하지 않은 경우, 선수는 최소한 한 다운을 쉬어야 하고, 정당한 장비를 착용할 때 까지 게임에 참여할 수 없다.
-   팀이 팀 타임아웃을 하면, 선수는 한 다운 쉬지 않고 게임에 참여할 수 있지만, 어떤 경우던 부정한 장비 착용이나 필수장비 착용 없이는 플레이에 참여할 수 없다.
-c. 장비가 플레이 중에 부정한 상태가 된 경우, 한 다운을 쉴 필요는 없지만, 정당한 상태로 될 때까지 선수는 경기에 참가할 수 없다.( A.R.1-4-7-II)&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-코치의-장비보증&#34;&gt;제9조 코치의 장비보증&lt;/h2&gt;
-
-&lt;p&gt;팀 감독이나 팀 감독이 지명한 대표자는 경기 전에 문서로 엄파이어에게 모든 선수가 다음의 조건을 충족하였음을 보증하여야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 규칙에 따라 규정한 필수 장비와 부정한 장비가 무엇인지 배웠다.
-b. 규칙에 따라 규정한 필수장비를 공급받았다.
-c. 경기 중 필수 장비를 착용해야 하고 어떻게 착용하는가를 교육받았다.
-d. 경기 중에 장비가 부정하게 될 때 코치진에게 보고하도록 교육받았다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제10조-통신장비-규제&#34;&gt;제10조 통신장비 규제&lt;/h2&gt;
-
-&lt;p&gt;선수는 다른 사람과의 연락을 목적으로 하는 전기적, 기계적, 기타 어떠한 통신장비도 부착할 수 없다.
-(예외: 1. 소리가 잘 들리지 않는 선수를 위하여 소리가 잘 들리게 하는 의학처방 보청기. 2. 오직 건강과 안전이 목적인 특별한 데이터의 전달이나 접수의 기구)
-벌칙： 데드볼 파울로 집행. 석시딩 지점에서 15야드 벌칙 선수는 자격몰수[S7, S27과 S47].&lt;/p&gt;
-
-&lt;h2 id=&#34;제11조-필드장비의-규제&#34;&gt;제11조 필드장비의 규제&lt;/h2&gt;
-
-&lt;p&gt;a. 경기 중에 코칭을 목적으로 사이드라인, 기자석 또는 필드 근접지역에서 텔레비전 재생 장치 또는 모니터의 설치를 금한다.
-   피리어드 사이를 포함해 경기 중 어느 때라도 영화, 모든 종류의 필름, 팩시밀리, 비디오테이프, 사진, 문서 전송장치와 컴퓨터를 코치가 사용하거나 코칭 목적으로 사용할 수 없다.
-b. 기자석과 팀에리어 사이의 음성 전달은 허용 된다.
-   기자석이 부적절하다면 25야드라인 사이에 있는 스타디움 꼭대기부터 스탠드에서의 음성전달은 인정된다.
-   다른 지역에서는 코치의 목적을 위한 통신수단은 규제된다.
-c. 카메라, 확성기, 컴퓨터, 마이크 등 정보 전달기계를 필드와 팀에리어에서 사용하는 것을 금한다.(규칙 2-31-1)
-  예외:
-   1. 골포스트의 크로스바상단 수직 대 뒤편 골지지대에 부착된 카메라
-   2. 파일론에 내장된 카메라
-   3. 엄파이어와 관련협회의 허락이 있으면, 엄파이어 모자에 부착된 오디오 기능이 없는 카메라
-   4. 오디오 기능이 없는 카메라는 팀에리어를 지나는 케이블에 연결할 수 있다.&lt;br /&gt;
-   5. 비디오예술가는 자격 있는 60명중 한명으로, 팀 에리어에 있어야한다.
-d. 경기 중 미디어에 전달을 목적으로 코치가 마이크로폰을 사용하는 것을 금한다.
-   팀의 누구도 1쿼터 시작부터 레퍼리가 게임종료를 할 때까지 인터뷰하는 것을 금한다.
-   (예외：오직 팀 감독만이 2쿼터 종료부터 3쿼터 시작 전까지 인터뷰할 수 있다.)
-e. 팀에리어나 코칭박스 내 누구도 경기장 내의 선수와 대화하려고 소리 확성장치를 사용할 수 없다.
-f. 오디오나 비디오기기로 상대 팀 선수, 코치, 팀 관계자가 내는 어떠한 시그널 등을 기록하는 것은 금지된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제12조-코치용-폰&#34;&gt;제12조 코치용 폰&lt;/h2&gt;
-
-&lt;p&gt;경기 전 또는 경기 중에 코치의 전화와 헤드폰 사용은 규칙의 적용을 받지 않는다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제13조-레퍼리-마이크로폰&#34;&gt;제13조 레퍼리 마이크로폰&lt;/h2&gt;
-
-&lt;p&gt;경기 진행상의 전달을 위해 레퍼리의 마이크로폰 사용을 강력히 요구한다.
-이 마이크로폰은 옷깃에 부착하는 것이 좋다.
-마이크로폰은 레퍼리에 의해 조작할 수 있어야 하며 그 외의 경우에는 꺼져있어야 한다.
-다른 심판은 마이크로폰을 사용할 수 없다.
-(예외: 경기를 담당하고 있는 심판들 간 및 경기장 내의 심판관계자와의 사이에 한정하여 보안이 보장된 무선장치의 사용이 가능하다.)&lt;/p&gt;
-
-&lt;!-- EOF --&gt;
-</description>
+      <guid>https://rulebook.github.io/ko/toc/</guid>
+      <description> Contents  NCAA Football Rules Committee fr-4 Major Rules Changes for 2014 and 2015 fr-5 Index to Editorial Changes fr-6 Points of Emphasis fr-7 Sportsmanship Statement fr-9 The Football Code fr-10 Official NCAA Football Rules fr-12  Rule 1—The Game, Field, Players and Equipment fr-13 Rule 2—Definitions fr-26 Rule 3—Periods, Time Factors and Substitutions fr-44 Rule 4—Ball in Play, Dead Ball, Out of Bounds fr-57 Rule 5—Series of Downs, Line to Gain fr-60 Rule 6—Kicks fr-63 Rule 7—Snapping and Passing the Ball fr-71 Rule 8—Scoringfr-80 Rule 9—Conduct of Players and Others Subject to Rules fr-86 Rule 10—Penalty Enforcement fr-102 Rule 11—The Officials: Jurisdiction and Duties fr-106 Rule 12—Instant Replay fr-107  Appendix A—Guidelines for Serious On-Field Injury fr-113 Appendix B—Concussions fr-114 Appendix C—Field Programs fr-116 Appendix D—Equipment: Additional Details fr-122 Code of Officials Signals fr-128 Official NCAA Football Rules Interpretations fI-1 Table of Contents for Approved Rulings fI-2 List of New Approved Rulings fI-3  Rule 1—The Game, Field, Players and Equipment fI-4 Rule 2—Definitions fI-7 Rule 3—Periods, Time Factors and Substitutions fI-10 Rule 4—Ball in Play, Dead Ball, Out of Bounds fI-23 Rule 5—Series of Downs, Line to Gain fI-25 Rule 6—Kicks fI-28 Rule 7—Snapping and Passing the Ball fI-39 Rule 8—Scoring fI-51 Rule 9—Conduct of Players and Others Subject to Rules fI-58 Rule 10—Penalty Enforcement fI-72  Index to Rules IND-1  </description>
     </item>
     
     <item>
-      <title>RULE 2—Definitions</title>
-      <link>https://rulebook.github.io/en/r2/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      <title>RULE 10 - Penalty Enforcement</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/10/</link>
+      <pubDate>Mon, 08 May 2017 22:54:03 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/en/r2/</guid>
-      <description>
-
-&lt;h1 id=&#34;section-1-approved-rulings-and-official-s-signals&#34;&gt;SECTION 1. Approved Rulings and Official’s Signals&lt;/h1&gt;
-
-&lt;p&gt;ARTICLE 1.&lt;/p&gt;
-
-&lt;p&gt;a. An approved ruling (A.R.) is an official decision on a given statement of facts. It serves to illustrate the spirit and application of the rules. The relationship between the rules and an approved ruling is analogous to that between statutory law and a decision of the Supreme Court.
-b.  An official’s signal [S] refers to the Official Football Signals 1 through 47.&lt;/p&gt;
-
-&lt;h1 id=&#34;section-2-the-ball-live-dead-loose-ready-for-play&#34;&gt;SECTION 2. The Ball: Live, Dead, Loose, Ready For Play&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Live Ball&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 1. A live ball is a ball in play. A pass, kick or fumble that has not yet touched the ground is a live ball in flight.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dead Ball&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 2. A dead ball is a ball not in play.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Loose Ball&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 3. a. A loose ball is a live ball not in player possession during:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;A running play.&lt;/li&gt;
-&lt;li&gt;A scrimmage or free kick before possession is gained or regained or the ball is dead by rule.&lt;/li&gt;
-&lt;li&gt;The interval after a legal forward pass is touched and before it becomes complete, incomplete or intercepted. This interval is during a forward pass play, and any player eligible to[…]”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Excerpt From: National Collegiate Athletic Association. “2016-17 Football Rules.” iBooks.&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/en/interpretations/rules/10/</guid>
+      <description>Section 1. Penalties Completed Offsetting Fouls—ARTICLE 4 Approved Ruling 10-1-4 I. On a Team A kickoff, Team B fouls before the untouched ball goes out of bounds between the goal lines. RULING: Offsetting fouls. Team A re-kicks at the previous spot. II. On a Team A kickoff from its 35-yard line, Team B fouls after the untouched ball goes out of bounds between the goal lines. RULING: Team B may elect a replay with Team A free-kicking at its 45-yard line.</description>
     </item>
     
     <item>
-      <title>규칙 2—정의</title>
-      <link>https://rulebook.github.io/ko/rules/2/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:26 +0900</pubDate>
+      <title>규칙 10 - 벌칙 시행</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/10/</link>
+      <pubDate>Mon, 08 May 2017 22:54:03 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/ko/rules/2/</guid>
-      <description>
-
-&lt;h1 id=&#34;제1장-공인판정과-심판의-신호&#34;&gt;제1장 공인판정과 심판의 신호&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;a. 공인판정(Approved Rule, 이하 A.R.이라 칭함)이란 일어날 수 있는 상황에 대한 공식적인 판례며, 본 규칙의 정신과 적용방법을 명확하게 하려고 설정한 것이다.
-   규칙과 공인 판정과의 관계는 법령과 대법원 판례와의 관계와 비슷한 것이다.
-   규칙과 해설서에 있는 공인판정이 상반되는 경우에는 규칙이 우선한다.
-  b. 심판의 신호[S]란 미식축구 공식신호 1에서 47까지를 가리킨다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제2장-볼-라이브-데드-루스-레디포플레이&#34;&gt;제2장 볼: 라이브, 데드, 루스, 레디포플레이&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-라이브볼&#34;&gt;제1조 라이브볼&lt;/h2&gt;
-
-&lt;p&gt;라이브볼이란 플레이 중인 볼이다.
-지면에 터치되지 않은 패스, 킥, 펌블은 공중에 있는 라이브볼이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-데드볼&#34;&gt;제2조 데드볼&lt;/h2&gt;
-
-&lt;p&gt;데드볼이란 플레이하고 있지 않은 볼이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-루스볼&#34;&gt;제3조 루스볼&lt;/h2&gt;
-
-&lt;p&gt;a. 루스볼이란 아래 같은 경우에, 어떤 선수의 확보 하에도 있지 않은 라이브볼이다.
-    1. 러닝 플레이
-    2. 확보, 재 확보, 또는 규칙에 의해서 데드되기 전까지의 스크리미지킥이나 프리킥
-    3. 정당한 포워드패스가 터치 되고 나서 그 패스가 성공, 실패 또는 인터셉트되기 전까지 기간.
-       (이 기간은 포워드패스 플레이 중이며, 볼에 터치할 자격이 있는 모든 선수는 볼을  어느 방향으로도 배팅할 수 있다.)
-b. 모든 선수는 펌블(예외 : 규칙 7-2-2-a-2, 8-3-2-d-5)이나 백워드패스에서 루스된 볼을 터치, 캐치 또는 확보할 수 있는 자격이 있다.
-   그러나 킥에서 루스된 볼을 터치할 수 있는 자격은 킥 규칙(제6편)에 따르며, 포워드패스를 터치할 수 있는 자격은 패스규칙(제7편)에 의한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-레디포플레이가-될-때&#34;&gt;제4조 레디포플레이가 될 때&lt;/h2&gt;
-
-&lt;p&gt;데드볼은 아래의 경우에 레디포플레이로 된다.&lt;/p&gt;
-
-&lt;p&gt;a. 40초 플레이클락이 계시 중일 때는, 심판이 해시마크 위나 양 해시마크 사이에 볼을 놓은 후 자기 위치에 다다른 때
-b. 25초로 플레이클락이 세트된 경우 또는 수비팀 부상자를 위한 타임아웃 후에 플레이클락
-   이 40초로 세트된 경우에는 레퍼리가 휘슬을 불고, ‘계시 시작’[S2] 또는 ‘레디포플레이’[S1]의 시그널을 할 때 (A.R. .4-1-4-I 과 II)&lt;/p&gt;
-
-&lt;h1 id=&#34;제3장-블로킹&#34;&gt;제3장 블로킹&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-블로킹&#34;&gt;제1조 블로킹&lt;/h2&gt;
-
-&lt;p&gt;a. 블로킹이란, 블로커가 신체의 어느 부분이라도 상대방에게 접촉하여 상대방을 방해하는 행위이다.
-b. 푸싱이란 손바닥을 편 채로 상대방에게 하는 블로킹이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-허리아래-블록&#34;&gt;제2조 허리아래 블록&lt;/h2&gt;
-
-&lt;p&gt;a. 허리아래 블로킹이란, 한발 또는 양발이 지면에 닿아있는 상대선수의 허리아래를 최초로 접촉하는 블록이다.
-   의문시 허리아래 블로킹이다.(규칙9-1-6)
-b. 허리아래 블로킹은 한쪽 또는 양발이 지면에 있는 상대에 대한 최초 접촉에만 적용된다.
-   최초 접촉이 허리보다 위였고, 그 후 허리 아래로 미끄러져 내려오는 것은 허리아래의 블록이 아니다.
-   블로커가 상대선수의 허리나 허리 위의 손에 최초로 접촉한 경우는 정당한 허리 위 블로킹이다.(규칙9-1-6)&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-촙블록&#34;&gt;제3조 촙블록&lt;/h2&gt;
-
-&lt;p&gt;촙블록이란 볼캐리어를 제외한 상대선수에 대해 2명의 선수가 하는 하이-로, 로-하이로 구성된 블록이며 필드의 장소나 각각의 접촉 시간의 차와 관계없이 촙블록이다.
-로(아래)란 상대방 선수의 허벅지 또는 허벅지 아래를 말한다.(A.R.9-1-10-I-IV)
-만약 블로커의 상대방 선수가 접촉을 시작했다면 반칙이 아니다. (A.R.9-1-10-V)&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-등에-대한-블록&#34;&gt;제4조 등에 대한 블록&lt;/h2&gt;
-
-&lt;p&gt;a. 등에 대한 블록이란 상대에 대한 최초 접촉이 허리위의 등에 대하여 일어난 접촉이다.
-   의문시 허리나 허리아래 블록이다.( 클리핑, 규칙 2-5) (규칙 9-3-6) (A.R. 9-3-1-I-VII 과 A.R. 10-2-2-XII)
-b. 블로커의 머리나 발의 위치가 반드시 최초의 접촉지점을 나타내는 것은 아니다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-신체-프레임&#34;&gt;제5조 신체 프레임&lt;/h2&gt;
-
-&lt;p&gt;선수의 신체 프레임이란 등을 제외한 어깨나 그 아래의 부분을 말한다. [규칙 9-3-3-a-1-&amp;copy; 예외]&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-블로킹존&#34;&gt;제6조 블로킹존&lt;/h2&gt;
-
-&lt;p&gt;a. 블로킹존이란 공격 측 중앙의 라인맨을 중심으로 양 사이드라인 방향으로 좌·우 5야드, 골라인 방향으로 전, 후 3야드 크기의 직사각형 존이다. (참조 부록 D)
-b. 블로킹존은 볼이 존을 벗어날 때 소멸한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-로-블로킹-존&#34;&gt;제7조 로-블로킹 존&lt;/h2&gt;
-
-&lt;p&gt;a. 로-블로킹 존은 스내퍼로부터 사이드라인 방향으로 좌우 7야드, 뉴트럴존 전방 5야드, 뒤쪽으로 A팀 엔드라인까지로 형성된 직사각형이다. (참조 부록 D)
-b. 로-블로킹 존은 볼이 존을 벗어나면 소멸한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제4장-캐치-리커버-확보&#34;&gt;제4장 캐치, 리커버, 확보&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-확보&#34;&gt;제1조 확보&lt;/h2&gt;
-
-&lt;p&gt;확보란 (a) 이항에서 나중에 설명되는 라이브볼 (b) 스냅 또는 프리킥되는 데드볼을 관리함을 말한다. 이것은 선수의 확보 또는 팀의 확보에 적용된다.&lt;/p&gt;
-
-&lt;p&gt;a. 선수의 확보
-   선수가 인바운즈의 지면에 접촉하는 동안 확실하게 볼을 잡아 보유 또는 제어할 때 볼은 선수가 확보한 것이다.&lt;br /&gt;
-b. 팀의 확보
-   볼을 팀이 확보
-    1. 그 팀의 한 선수가 선수의 확보 중일 때로, 펀트나 드롭킥, 또는 플레이스킥을 시도할 때도 포함된다; 또는
-    2. 그 팀의 한 선수에 의해서 던져진 포워드패스가 날아가고 있을 때; 또는
-    3. 그 팀의 한 선수에 의해 마지막으로 선수의 확보가 된, 그 때의 루스볼; 또는
-    4. 팀이 다음 차례로 볼을 스냅하거나 프리킥하려고 할 때
-c. 어느 팀의 선수가 볼을 캐치 또는 리커버할 자격이 있는 경우에 팀이 확보하였다면 그 팀은 정당하게 확보한 것이 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-소속&#34;&gt;제2조 소속&lt;/h2&gt;
-
-&lt;p&gt;“확보”에 대비하여 “소속”이란, 데드볼을 한 때 소유함을 의미한다. 그 경우를 규정하는 공식규칙에 따라, 볼이 경기에 옮겨져야 하므로, 이 소유는 일시적이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-캐치-인터셉트-리커버리&#34;&gt;제3조 캐치, 인터셉트, 리커버리&lt;/h2&gt;
-
-&lt;p&gt;a. 볼을 캐치한의다는 것은 선수가
-    1. 볼이 지면에 접촉하기 전, 공중에 있는 라이브볼을 손 또는 팔로서 확실하게 컨트롤 하고,
-    2. 자신의 신체의 어느 부분이든 지면의 인바운즈 상에 접촉하고,
-    3. 그 후, 통상의 플레이(볼의 전진, 피치 또는 핸딩, 상대방을 피하거나 막는 행위 등)를 하는 충분한 시간 동안 볼의 컨트롤을 계속하고,
-    4. b, c와 d 항을 충족하여야 한다.
-b. (상대방에 의한 접촉의 여부에 관계없이) 선수가 패스를 캐치하고 착지하는 경우에는 필드오브플레이 또는 엔드존 내의 어느 곳이라 하더라도 착지순간에서 완료까지 계속하여 완전하게 볼을 컨트롤하고 있어야 한다.
-   이것은 사이드라인부근에서 패스를 캐치하고 그대로 아웃오브바운즈로 나가는 경우에도 같이 적용된다.
-   이 경우에 볼의 컨트롤을 잃어 다시 확실하게 컨트롤하기 전에 볼이 지면에 접촉된 경우에는 캐치가 아니다.
-   만약 볼이 지면에 접촉하기 전에 인바운즈에서 다시 확실하게 컨트롤한 경우에는 캐치로 간주한다.
-c. 자신의 신체 어느 부분이 지면에 접촉하는 것과 동시에 볼의 컨트롤을 잃어버리는 경우, 또는 착지와 동시에 컨트롤을 잃어버렸다고 의심되는 경우는 캐치가 아니다.
-   선수가 볼을 컨트롤하고 있다면 볼이 지면에 접촉하였을 때 볼의 가벼운 움직임은 볼의 확보를 잃은 것으로 보지 않는다.
-   확보를 잃는다는 것은 볼 컨트롤의 상실을 요건으로 한다.
-   확보를 잃었다고 보기 위해서는 볼의 콘트롤을 상실해야 한다.
-d. 선수가 확실하게 컨트롤해서 유지한 후에, 볼이 지면에 닿고 위의 조건을 만족하더라도, 캐치로 본다.
-e. 상대방의 패스나 펌블을 캐치하는 것을 인터셉트라 한다.
-f. 인바운즈 내에서 무릎을 꿇거나 넘어져 있는 선수가 캐치한 경우 패스 성공 또는 인터셉트이다.(규칙 7-3-6과 7)
-g. 볼이 지면에 닿은 후에라도 라이브인 경우에 위의 a,b,c및 d의 조건을 만족시켰다면 선수가 볼을 리커버한 것이 된다.
-h. 의심스러울 때는 캐치, 리커버 또는 인터셉트가 아니다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-동시캐치나-리커버&#34;&gt;제4조 동시캐치나 리커버&lt;/h2&gt;
-
-&lt;p&gt;동시캐치나 리커버란 인바운즈의 양 팀 선수들이 라이브볼을 동시에 캐치나 리커버하는 것을 말한다(.A.R.7-3-6-I과II)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제5장-클리핑&#34;&gt;제5장 클리핑&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-1&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;a. 클리핑이란 상대선수에 대한 최초의 접촉이 등 뒤에서 허리나 그 아래에 행해지는 블록이다.(규칙 9-1-5)
-b. 블로커의 머리나 발의 위치가 반드시 최초의 접촉지점을 나타내는 것은 아니다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제6장-데드볼을-고의로-전진시킴&#34;&gt;제6장 데드볼을 고의로 전진시킴&lt;/h1&gt;
-
-&lt;p&gt;‘데드볼을 고의로 전진시킴’이란 러너의 손이나 발 이외의 신체 일부분이 지면에 접촉된 후, 또는 규칙에 따라 볼이 데드가 되었는데도 볼을 전진시키려는 시도이다.(예외 : 규칙4-1-3-b의 예외)&lt;/p&gt;
-
-&lt;h1 id=&#34;제7장-다운-다운과-다운-사이와-로스오브다운&#34;&gt;제7장 다운, 다운과 다운 사이와 로스오브다운&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-다운&#34;&gt;제1조 다운&lt;/h2&gt;
-
-&lt;p&gt;다운이란, 볼이 레디포플레이된 후 정당한 스냅이나 정당한 프리킥으로 시작되며 볼이 데드가 되었을 때에 종료되는 경기의 단위다.
-{예외 : 트라이는 볼이 레디포플레이 되었다는 것을 레퍼리가 선언한 후에 시작되는 스크리미지다운이다.(규칙 8-3-2-b)}&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-다운과-다운-사이&#34;&gt;제2조 다운과 다운 사이&lt;/h2&gt;
-
-&lt;p&gt;다운과 다운 사이란 볼이 데드가 되어있는 시간 동안을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-로스오브다운-다운의-상실&#34;&gt;제3조 로스오브다운(다운의 상실)&lt;/h2&gt;
-
-&lt;p&gt;다운의 상실이란 다운을 반복할 권리를 잃는 것이다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제8장-페어캐치&#34;&gt;제8장 페어캐치&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-페어캐치&#34;&gt;제1조 페어캐치&lt;/h2&gt;
-
-&lt;p&gt;a. 스크리미지킥 시의 페어캐치란, 킥된 볼이 뉴트럴존을 넘어선 지점에서 어느 것(선수, 심판, 기타)과도 접촉되지 않은 상태에서, 유효한 신호를 한 B팀의 선수가 뉴트럴존을 넘어선 지점에서 캐치하는 것이다.
-b. 프리킥 시의 페어캐치란, 접촉되지 않은 프리킥을 유효한 신호를 한 B팀의 선수가 캐치하는 것이다.
-c. 유효한 또는 무효한 페어캐치의 신호는 리시브팀으로부터 볼을 전진시킬 기회를 박탈하고, 볼은 캐치나 리커버된 지점에서 데드가 된다. 그러나 캐치한 후 신호를 하면 신호한 지점에서 데드가 선언된다.
-d. 리시버가 햇빛을 막기 위하여 손으로 가리는 경우 볼은 라이브 상태이고 전진행할 수 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-유효한-신호&#34;&gt;제2조 유효한 신호&lt;/h2&gt;
-
-&lt;p&gt;유효한 신호란 B팀의 선수가 똑똑히 알 수 있도록 한 손만을 머리보다 높이 올려 어깨너비 만큼 2회 이상 크게 흔들어서 페어캐치를 할 의사가 있음을 나타내는 신호다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-무효한-신호&#34;&gt;제3조 무효한 신호&lt;/h2&gt;
-
-&lt;p&gt;무효한 신호란 아래의 상황에서 B팀의 선수가 손을 흔드는 시그널을 말한다.&lt;/p&gt;
-
-&lt;p&gt;a. 위의 제2조의 유효한 시그널로서의 조건을 만족시키지 못한 경우
-b. 스크리미지킥이 뉴트럴존을 넘어 캐치된 후나 뉴트럴존을 넘어 지면에나 선수에 닿은 경우(A.R. 6-5-3-III~V)
-c. 프리킥이 캐치된 후나 지면이나 선수에 닿은 후에 하는 경우[예외: 규칙 6-4-1-f]&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제9장-포워드-비욘드와-포워드-프로그레스&#34;&gt;제9장 포워드, 비욘드와 포워드 프로그레스&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-포워드-비욘드&#34;&gt;제1조 포워드, 비욘드&lt;/h2&gt;
-
-&lt;p&gt;포워드, 비욘드 또는 전방이라 함은 어느 한 쪽 팀에 적용되는데, 상대방 엔드라인에 대한 방향을 의미한다. 이와 역으로는 백워드나 비하인드가 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-포워드-프로그레스-최대전진지점&#34;&gt;제2조 포워드 프로그레스 (최대전진지점)&lt;/h2&gt;
-
-&lt;p&gt;포워드 프로그레스라 함은 한 팀의 볼캐리어나 공중에 있는 패스리시버의 전진 종료 지점을 나타내고, 규칙에 따라 데드가 된 볼의 위치에 적용된다(규칙4-1-3-a, b와 p; 4-2-1,4; 5-1-3-a 예외) (A.R.5-1-3-I-VI와 8-2-1-I-IX) (예외 : 규칙 8-5-1-a, A.R. 8-5-1-I ).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제10장-반칙과-바이얼레이션&#34;&gt;제10장 반칙과 바이얼레이션&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-반칙&#34;&gt;제1조 반칙&lt;/h2&gt;
-
-&lt;p&gt;반칙이란 벌칙이 규정되어 있는 규칙위반이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-퍼스널-파울&#34;&gt;제2조 퍼스널 파울&lt;/h2&gt;
-
-&lt;p&gt;퍼스널 파울이란 다른 선수의 안전을 위험에 빠뜨리게 하는 불법적인 육체적 접촉을 포함하는 반칙을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-악의적인-퍼스날-파울&#34;&gt;제3조 악의적인 퍼스날 파울&lt;/h2&gt;
-
-&lt;p&gt;악의적인 퍼스널 파울이란 상대방을 중대한 부상의 위험에 빠뜨리게 할 수 있는 매우 과격하거나, 고의적으로 하는 불법적인 육체적 접촉을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-바이얼레이션&#34;&gt;제4조 바이얼레이션&lt;/h2&gt;
-
-&lt;p&gt;바이얼레이션이란 벌칙이 규정되어 있지 않은 규칙위반이다 : 반칙이 아니므로 반칙과는 상쇄할 수 없다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제11장-펌블-머프-볼의-배팅과-터치-킥의-블로킹&#34;&gt;제11장 펌블, 머프; 볼의 배팅과 터치; 킥의 블로킹&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-펌블&#34;&gt;제1조 펌블&lt;/h2&gt;
-
-&lt;p&gt;펌블이란 패스, 킥, 또는 성공적인 핸딩 이외의 행위로 인해 선수가 볼의 확보를 잃는 일이다.(A.R.2-19-2-I, A.R.4-1-3-I)&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-머프&#34;&gt;제2조 머프&lt;/h2&gt;
-
-&lt;p&gt;머프란 캐치 또는 리커버하려고 볼을 터치했으나 캐치 또는 리커버가 되지 않은 경우를 말한다. 볼을 머프해도 볼 상태는 변하지 않는다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-배팅&#34;&gt;제3조 배팅&lt;/h2&gt;
-
-&lt;p&gt;볼의 배팅이란 손 또는 팔로, 고의로 볼을 친다거나 고의로 그 방향을 바꾸는 것을 말한다. 의문스러우면, 배팅이라기보다는 우연히 터치된 것으로 본다. 볼을 배팅해도 볼 상태는 변하지 않는다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-터치&#34;&gt;제4조 터치&lt;/h2&gt;
-
-&lt;p&gt;a. 터치는 선수가 확보하고 있지 않은 볼에 닿는 모든 행위를 말한다.
-   터치는 의사의 여부에 상관없고, 항상 볼의 확보나 제어 이전에 일어나는 것이다.
-b. 고의로 터치를 했다는 것은 터치 할 의사가 있거나 의도로 한 것이다.
-c. 강제적인 터치는 선수가
-    (i)상대방 블로킹
-    (ii) 상대방의 배팅 또는 부정한 킥에 의해
-   볼과 접촉하는 것을 말한다. 강제적인 터치인지 의문시 룰에 의해 터치되지 않은 것으로 본다. (규칙 6-1-4와 6-3-4)
-d. 킥이나 포워드패스 시 볼에 터치가 되었는지 의문시, 터치되지 않은 것으로 본다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-스크리미지킥의-블로킹&#34;&gt;제5조 스크리미지킥의 블로킹&lt;/h2&gt;
-
-&lt;p&gt;스크리미지킥의 블록이란 킥된 볼이 뉴트럴존 넘어 나가는 것을 저지하려고 킥팀의 상대 팀이 볼을 터치하는 경우이다(.규칙 6-3-1-b)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제12장-라인&#34;&gt;제12장 라인&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-사이드라인&#34;&gt;제1조 사이드라인&lt;/h2&gt;
-
-&lt;p&gt;사이드라인이란 필드 양 사이드의 엔드라인에서 엔드라인을 연결한 필드오브플레이와 아웃오브바운즈의 규격을 구분하는 라인이다.
-사이드라인 그 자체는 아웃오브바운즈가 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-골라인&#34;&gt;제2조 골라인&lt;/h2&gt;
-
-&lt;p&gt;골라인이란 필드오브플레이의 양 끝에 있는 2개의 사이드라인을 연결하는 필드오브플레이와 엔드 존을 구별하는 수직면이다.
-골라인은 파일론을 포함하여 파일론과 파일론 사이 면이다.
-양 골라인의 사이는 100야드이다.
-골라인 전체는 엔드존에 포함된다.
-한 팀의 골라인이란 그 팀이 방어하고 있는 골라인이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-엔드라인&#34;&gt;제3조 엔드라인&lt;/h2&gt;
-
-&lt;p&gt;엔드라인이란 양 골라인의 후방 10야드에 양 사이드라인을 연결하여 엔드존과 아웃오브바운즈를 구분하는 라인이다.
-엔드라인 그 자체는 아웃오브바운즈가 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-경계선&#34;&gt;제4조 경계선&lt;/h2&gt;
-
-&lt;p&gt;경계선이란 사이드라인과 엔드라인을 말한다.
-경계선으로 둘러싸인 지역을 ‘인바운즈’라 하고 그 지역의 바깥과 경계선을 ‘아웃오브바운즈’라고 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-제한선&#34;&gt;제5조 제한선&lt;/h2&gt;
-
-&lt;p&gt;제한선이란 프리킥 시에 팀의 정렬을 제한하는 수직면의 부분이다. 수직면은 사이드라인 바깥까지 연장된다.(A.R.2-12-5-I)&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-야드라인&#34;&gt;제6조 야드라인&lt;/h2&gt;
-
-&lt;p&gt;야드라인은 엔드라인과 평행한 필드오브플레이의 모든 라인을 말한다.
-팀의 야드라인은 표시되어있거나 표시되어있지 않아도 그 팀의 골라인으로부터 50야드라인까지 연속적인 번호가 붙여져 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-해시마크&#34;&gt;제7조 해시마크&lt;/h2&gt;
-
-&lt;p&gt;2개의 해시마크는 사이드라인으로부터 안쪽으로 60피트(20야드, 약 18.3m)에 있다.  해시마크의 짧은 라인은 길이가 24인치(약 61cm)이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-9야드-마크&#34;&gt;제8조 9야드 마크&lt;/h2&gt;
-
-&lt;p&gt;길이 12인치(30cm)의 9야드 표시는 10야드마다 사이드라인으로부터 9야드 지점에 위치한다.
-9야드 표시는 규칙 1-2-1-i에 따라 야드라인 표시 숫자가 있다면 표시하지 않아도 된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제13장-볼의-핸딩-handing&#34;&gt;제13장 볼의 핸딩(Handing)&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-2&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;a. 볼의 핸딩이란 볼을 던지거나, 펌블하거나, 킥하지 않고 한 선수가 확보한 볼을, 자기 팀의 다른 선수에게 전달하는 것이다.
-b. 규칙으로 인정된 경우 이외에, 팀 동료에게 볼을 전방으로 핸딩하는 것은 위법이다.
-c. 핸딩시도의 실패로 인한 플레이어의 확보 상실은 마지막으로 확보하고 있던 선수에 의한 펌블이다.{예외 : 스냅(규칙 2-23-1-c)}
-d. 후방으로 볼을 핸드오프한다는 것은 볼캐리어가 위치한 야드라인을 넘기 전 볼캐리어가 볼을 놓았을 때를 말한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제14장-허들&#34;&gt;제14장 허들&lt;/h1&gt;
-
-&lt;p&gt;허들이란 볼이 레디포플레이된 후, 스냅이나 프리킥 전에 2명 이상의 선수가 모이는 것이다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제15장-허들링&#34;&gt;제15장 허들링&lt;/h1&gt;
-
-&lt;p&gt;제1조
-a. 허들링이란 선수가 “아직 넘어지지 않은 상태”의 상대방 선수를 넘기 위해 한발 또는 두 발로, 또는 무릎을 앞으로 내밀고 점프를 하는 행위이다.(규칙 9-1-13)
-b. “아직 넘어지지 않은 상태”란 한발 또는 양발 이외의 신체의 어느 부분도 지면에 접촉하고 있지 않음을 말한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제16장-킥-볼의-키킹&#34;&gt;제16장 킥; 볼의 키킹&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-볼의-키킹-정당한-킥과-부정한-킥&#34;&gt;제1조 볼의 키킹; 정당한 킥과 부정한 킥&lt;/h2&gt;
-
-&lt;p&gt;a. 볼을 킥한다는 것은 무릎, 아랫다리 또는 발을 사용하여 고의로 볼을 차는 행위이다.
-b. 정당한 킥이란 팀 확보의 변경 전에 규칙에 따라 A팀의 선수에 의해 하여진 펀트, 드롭킥 또는 플레이스킥을 말한다.
-   다른 방법에 의한 킥은 모두 부정한 킥이다(A.R.6-1-2-I).
-c. 모든 프리킥, 스크리미지킥은 선수에 의해 캐치, 리커버될 때까지, 또는 볼이 데드가 될 때 까지 킥이다.
-d. 의문시에는 볼을 고의로 찬 것이 아니고, 우연히 접촉한 것으로 본다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-펀트&#34;&gt;제2조 펀트&lt;/h2&gt;
-
-&lt;p&gt;펀트는 선수가 볼을 떨어뜨려 그 볼이 지면에 닿기 전에 차는 킥이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-드롭킥&#34;&gt;제3조 드롭킥&lt;/h2&gt;
-
-&lt;p&gt;드롭킥은 선수가 볼을 떨어뜨려 볼이 지면에 닿은 직후에 차는 킥이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-플레이스킥&#34;&gt;제4조 플레이스킥&lt;/h2&gt;
-
-&lt;p&gt;a. 필드골 플레이스킥은 볼을 확보한 팀의 선수가, 자신의 팀 동료가 지면에서 제어하고 있는 볼을 차는 킥이다.
-b. 프리킥 플레이스킥은 볼을 확보한 팀의 선수가, 지면 또는 티에 있는 볼을 차는 킥이다.
-   볼은 팀 동료에 의해 제어할 수도 있다.
-   볼은 지면 위나 티와 접촉하고 있어야 한다.
-c. 티란 킥의 목적으로 볼을 높이는 기구이다.
-   티를 사용하는 경우 볼의 최 하단이 지면에서 1인치(25mm) 이하여야 한다.(A.R.2-16-4-I).&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-프리킥&#34;&gt;제5조 프리킥&lt;/h2&gt;
-
-&lt;p&gt;a. 프리킥이란 규칙 4-1-4, 6-1-1 과 6-1-2에 따라 볼을 확보한 팀의 선수가 하는 킥이다.
-b. 세이프티 후의 프리킥은 펀트, 드롭킥 또는 플레이스킥으로 할 수 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-킥오프&#34;&gt;제6조 킥오프&lt;/h2&gt;
-
-&lt;p&gt;킥오프란 전․후반이 각각 시작될 때와 트라이 또는 필드골의 뒤에 행해지는 프리킥이다(예외 연장전).
-킥오프는 플레이스킥이나 드롭킥에 의해서 행해져야 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-스크리미지킥&#34;&gt;제7조 스크리미지킥&lt;/h2&gt;
-
-&lt;p&gt;a. 스크리미지킥이란 펀트, 드롭킥, 또는 필드골 플레이스킥을 말한다.
-   스크리미지다운에서 볼의 팀 확보 변경 전에 A팀에 의해서 뉴트럴존 또는 뉴트럴존 뒤에서 스크리미지킥하면 정당한 킥이 된다.
-b. 스크리미지킥이 뉴트럴존을 넘어선 지면이나, 선수, 심판, 기타 어느 것에든 닿았을 때 스크리미지킥은 뉴트럴존을 넘었다고 판정한다.(예외: 규칙 6-3-1-b) (A.R.6-3-1-I-IV)
-c. 키커의 신체가 완전하게 뉴트럴존을 넘은 상태에서 찬 스크리미지킥은 부정한 킥이고 라이브볼 반칙으로 그 지점에서 볼데드가 된다.(규칙 6-3-10-c)&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-리턴킥&#34;&gt;제8조 리턴킥&lt;/h2&gt;
-
-&lt;p&gt;리턴킥(return kick)이란 다운 중에 팀 확보 변경 후, 볼을 확보한 팀의 선수에 의해 행해지는 킥을 말한다.
-이것은 부정한 킥이며 볼 데드가 된다.(규칙 6-3-10-b)&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-필드골의-시도&#34;&gt;제9조 필드골의 시도&lt;/h2&gt;
-
-&lt;p&gt;필드골의 시도는 스크리미지킥이다.
-플레이스킥 또는 드롭킥으로 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제10조-스크리미지킥-포메이션&#34;&gt;제10조 스크리미지킥 포메이션&lt;/h2&gt;
-
-&lt;p&gt;a. 스크리미지킥 포메이션이란 적어도 1명 이상의 선수가 뉴트럴존에서 뒤로 7야드 이상 떨어져있고, 또한 스내퍼의 양다리 사이에서 직접 손으로 스냅을 받을 위치에 선수가 없고, 킥이 시도될 것이 명백한 포메이션을 말한다.(A.R.7-1-3-VII, A.R.9-1-14-I~III)
-b. A팀이 스냅 시 스크리미지킥 포메이션이라면, 그 다운이 진행될 동안 A팀의 어떤 행위도 스크리미지킥 포메이션에서 나온 행위라고 간주한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제17장-뉴트럴-존&#34;&gt;제17장 뉴트럴 존&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-3&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;a. 뉴트럴존이란 사이드라인까지 연장되어있는 2개의 스크리미지 라인 간의 공간이며 폭은 볼의 장축의 길이와 같다.
-b. 볼의 장축이 스크리미지 라인과 직각으로 사이드라인에 평행하게 지면 위에 놓여있고 볼이 레디포플레이가 되었을 때 뉴트럴존이 형성된다.
-c. 뉴트럴존은 팀 확보의 변경까지 또는 볼 데드가 선언될 때까지 존재한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제18장-인크로치먼트와-오프사이드&#34;&gt;제18장 인크로치먼트와 오프사이드&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-인크로치먼트&#34;&gt;제1조 인크로치먼트&lt;/h2&gt;
-
-&lt;p&gt;인크로치먼트란 레디포플레이 후, 스냅 전에 스내퍼가 볼을 터치 후 또는 터치와 유사한 행동(손을 무릎 또는 무릎 아래로 내리는 동작)을 한 후, 공격팀의 선수가 뉴트럴존에 있거나 뉴트럴존을 넘은 경우다.
-(예외: 스내퍼는 볼이 플레이에 옮겨질 때 뉴트럴존 안에 있더라도 인크로치먼트가 아니다)&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-오프사이드&#34;&gt;제2조 오프사이드&lt;/h2&gt;
-
-&lt;p&gt;오프사이드란 볼이 레디포플레이 된 후, 수비 측 선수가 아래의 어느 상태가 되었을 때 발생한다.&lt;/p&gt;
-
-&lt;p&gt;a. 볼이 정당하게 스냅되었을 때, 뉴트럴존 안에 들어가 있거나 그것을 넘은 경우
-b. 볼이 스냅되기 전에 뉴트럴존을 넘은 위치에서 상대 선수에 접촉한 경우
-c. 스냅 전에 볼에 접촉한 경우
-d. 볼이 스냅되기 전, 오펜스 라인맨을 위협하여 반사적인 움직임을 유발한 경우 (A.R.7-1-3-V 주)
-e. 뉴트럴존을 넘어 A팀의 백에 돌진하였을 때 (A.R.7-1-5-III)
-f. 볼이 정당하게 프리킥되었을 때 제한선 뒤에 있지 않은 경우
-* 정당한 프리킥이 된 경우에 킥팀의 선수가 자기 제한선 후방에 있지 않을 때, 오프사이드가 발생한다.{예외 : 키커와 홀더는 제한선을 넘어있어도 오프사이드가 아니다.(규칙 6-1-2)}&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제19장-패스&#34;&gt;제19장 패스&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-패스&#34;&gt;제1조 패스&lt;/h2&gt;
-
-&lt;p&gt;볼을 패스한다는 것은 볼을 던지는 것이다. 패스는 볼이 선수에 의해서 캐치나 인터셉트될 때까지 또는 데드로 될 때까지를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-포워드패스-백워드패스&#34;&gt;제2조 포워드패스, 백워드패스&lt;/h2&gt;
-
-&lt;p&gt;a. 포워드패스란 던져진 볼이 지면, 선수, 심판, 기타의 것에 처음 맞은 지점이 패스를 하여진 지점보다 앞일 때 포워드패스라고 한다.
-   다른 모든 패스는 백워드패스다.
-   뉴트럴존 뒤나 뉴트럴존에 던져진 볼이 앞으로 던져졌는지 뒤로 던져졌는지 의문시 백워드패스가 아닌 포워드패스로 본다.
-b. 볼을 확보한 A팀 선수가 뉴트럴존을 향하여 포워드패스를 하려고 할 때, 그 선수가 확실하게 볼을 컨트롤한 상태에서 손과 팔의 전방으로의 의도적인 움직임은 모두 포워드패스가 시작된 것으로 본다.
-   전방으로의 움직임이 시작된 후, B팀의 선수가 패서나 볼에 접촉하여 볼이 패서의 손에서 떨어진 경우, 볼이 지면이나 선수에게 닿은 장소와 관계없이 포워드패스 규칙이 적용된다.(A.R.2-19-2-I)
-c. 포워드패스 시도에서 펌블인지 패스인지 의심스러운 때에는 펌블이 아니고 포워드패스로 취급된다.
-d. 스내퍼가 스냅으로 볼을 놓을 때, 스냅은 백워드패스가 된다.(A.R.2-23-1-I)&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-뉴트럴존을-넘은-경우&#34;&gt;제3조 뉴트럴존을 넘은 경우&lt;/h2&gt;
-
-&lt;p&gt;a. 정당한 포워드패스가 최초로 터치된 곳이, 뉴트럴존을 넘어선 위치의 지면, 선수, 심판, 기타의 것일 경우에는 그 패스가 뉴트럴존을 넘었다고 본다.
-   최초로 터치된 곳이 뉴트럴존이나 그 뒤쪽의 지면, 선수, 심판, 기타일 경우 뉴트럴존을 넘지 않았다고 본다.
-b. 선수가 뉴트럴존을 넘었다 하는 것은 그 선수의 신체 전부가 뉴트럴존을 넘었을 경우이다.
-c. 정당한 포워드패스가 뉴트럴존을 넘었나, 아닌가는, 사이드라인을 가로지른 지점에서 결정된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-캐치-가능한-포워드패스&#34;&gt;제4조 캐치 가능한 포워드패스&lt;/h2&gt;
-
-&lt;p&gt;캐치 가능한 포워드패스란 볼이 뉴트럴존을 넘어 볼을 캐치할 합리적인 기회를 가진 유자격 리시버에게 던져진, 누구에게도 터치되지 않은 정당한 포워드패스를 말한다.
-의심스러운 경우, 정당한 포워드패스는 캐치가 가능하다고 본다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제20장-벌칙&#34;&gt;제20장 벌칙&lt;/h1&gt;
-
-&lt;p&gt;벌칙이란 반칙을 한 팀에 대하여 규칙에 따라 가해지는 결과로 야드 손실, 다운의 상실, 자동 퍼스트 다운에 자격몰수, 게임클락의 감산 중에서 하나 그 이상을 수반하는 경우도 있다.(규칙 10-1-1-b)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제21장-스크리미지&#34;&gt;제21장 스크리미지&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-스크리미지&#34;&gt;제1조 스크리미지&lt;/h2&gt;
-
-&lt;p&gt;스크리미지 플레이란 정당한 스냅으로 시작되는 다운 중에, 양 팀이 서로 간에 상대하는 행위이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-스크리미지-라인&#34;&gt;제2조 스크리미지 라인&lt;/h2&gt;
-
-&lt;p&gt;레디포플레이에서, 각 팀의 스크리미지 라인이란 각 팀의 골라인에 가장 가까운, 볼의 선단을 통과하는 야드라인이고 또한 야드라인의 수직평면으로 사이드라인까지 연장된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제22장-시프트&#34;&gt;제22장 시프트&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-4&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;a. 시프트란 스크리미지 다운을 위해 볼이 레디포플레이가 된 후 다음 스냅하기 전에, 공격팀의 2명 이상 선수가 동시에 포지션을 바꾸는 것이다. (A.R.7-1-2-I~IV, A.R.7-1-3-I~II)
-b. 모든 선수가 1초 정지한 시점에서 시프트가 완료된다.
-c. 1초의 정지 전에 1명 이상의 선수가 움직인 경우, 시프트는 계속되고 있다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제23장-볼의-스냅&#34;&gt;제23장 볼의 스냅&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-볼의-스냅&#34;&gt;제1조 볼의 스냅&lt;/h2&gt;
-
-&lt;p&gt;a. 정당한 볼의 스냅(스냅)은 한 손 또는 두 손을 사용하여 신속하고 연속적인 동작으로 지면 위의 지점에서 볼을 뒤쪽으로 넘겨주거나 패스하는 것으로써, 이 동작으로 볼은 실제로 손에서 떨어진다. (규칙 4-1-4)
-b. 스냅은 볼이 정당하게 움직여진 시점에서 시작되고 스내퍼의 손을 떠나면 종료된다, (A.R.. 7-1-5-I-II)
-c. 정당한 스냅의 후방 동작 중 볼이 스내퍼의 손에서 미끄러지면, 백워드패스가 되며 플레이는 계속된다. (규칙4-1-1)
-d. 스냅 전의 상태에서 지면에 있는 볼의 장축은 스크리미지 라인과 직각이어야 한다. (규칙 7-1-3)
-e. 볼이 후방으로 움직임이 없으면 정당한 스냅의 시작이 아니다.
-   볼의 최초 움직임이 앞 방향 또는 위 방향의 경우에는 정당한 스냅이 아니다.
-f. 정당한 스냅 중 볼이 B팀에 의해서 터치되면, 볼은 데드가 되고 B팀에 벌칙이 가해진다.
-   부정한 스냅 중 볼이 B팀에 의해 터치되면, 볼은 데드가 되고 A팀에 반칙이 가해진다.(A.R. 7-1-5-I, II)
-g. 스냅은 스내퍼의 양다리 사이에서 이루어질 필요는 없지만; 정당한 스냅이 되기 위해서는, 신속하고도 연속적인 후방 동작이 있어야 한다.
-h. 볼은 양 해시마크 또는 그 사이에서 스냅 되어야 한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제24장-시리즈와-퍼제션-시리즈&#34;&gt;제24장 시리즈와 퍼제션 시리즈&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-시리즈&#34;&gt;제1조 시리즈&lt;/h2&gt;
-
-&lt;p&gt;시리즈란 각각 스냅으로 시작되는 4개의 연속된 다운을 말한다.(규칙 5-1-1)&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-퍼제션-possession-시리즈&#34;&gt;제2조 퍼제션(possession) 시리즈&lt;/h2&gt;
-
-&lt;p&gt;퍼제션 시리즈란 연장전에서 팀이 연속해서 볼을 확보한 것을 말한다.(규칙3-1-3) 이것은 하나 그 이상의 시리즈가 될 수 있다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제25장-지점&#34;&gt;제25장 지점&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-시행-지점&#34;&gt;제1조 시행 지점&lt;/h2&gt;
-
-&lt;p&gt;시행 지점이란 반칙에 대한 벌칙이나 바이얼레이션이 시행되는 지점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-프리비어스-지점&#34;&gt;제2조 프리비어스 지점&lt;/h2&gt;
-
-&lt;p&gt;프리비어스 지점이란 직전에 볼이 플레이에 시작됐던 지점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-석시딩-지점&#34;&gt;제3조 석시딩 지점&lt;/h2&gt;
-
-&lt;p&gt;석시딩 지점이란 볼이 다음 플레이에 시작될 지점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-데드볼-지점&#34;&gt;제4조 데드볼 지점&lt;/h2&gt;
-
-&lt;p&gt;데드볼 지점이란 볼이 데드가 된 지점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-반칙-지점&#34;&gt;제5조 반칙 지점&lt;/h2&gt;
-
-&lt;p&gt;반칙 지점이란 반칙이 발생한 지점이다.
-골라인 사이의 아웃오브바운즈에서 반칙이 일어난 경우의 반칙 지점은 가까운 쪽의 인바운즈라인과 반칙이 일어난 지점을 통과하는 야드라인과의 교차점이 된다.
-골라인과 엔드라인 사이나 엔드라인 뒤쪽의 아웃오브바운즈에서 발생한 반칙은 엔드존안에서의 반칙이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-아웃오브바운즈-지점&#34;&gt;제6조 아웃오브바운즈 지점&lt;/h2&gt;
-
-&lt;p&gt;아웃오브바운즈 지점이란 볼이 아웃오브바운즈로 나가거나 아웃오브바운즈라고 선언되어, 규칙에 따라 볼이 데드가 된 지점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-인바운즈-지점&#34;&gt;제7조 인바운즈 지점&lt;/h2&gt;
-
-&lt;p&gt;인바운즈 지점이란 가까운 인바운즈라인과 데드볼지점을 통과하는 야드라인과의 교차점이거나, 벌칙에 따라 볼이 놓인 지점이 인바운즈라인과 사이드라인이면 그 지점을 통과하는 야드라인과의 교차점이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-런엔드-지점&#34;&gt;제8조 런엔드 지점&lt;/h2&gt;
-
-&lt;p&gt;런엔드 지점이란 다음과 같은 지점이다.&lt;/p&gt;
-
-&lt;p&gt;a. 선수의 확보 하에 볼이 데드로 선언된 지점
-b. 펌블에 따라 선수의 볼 확보가 상실된 지점
-c. 볼의 핸드오프가 일어난 지점
-d. 부정한 포워드패스가 던져진 지점
-e. 백워드패스가 던져진 지점
-f. 스크리미지 라인을 넘어선 지점에서 하여진 부정한 스크리미지킥 지점
-g. 리턴킥이 하여진 지점
-h. ‘모멘텀 룰’에 따라 선수의 확보가 성립된 지점 (규칙 8-5-1-a 예외)&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-킥엔드-지점&#34;&gt;제9조 킥엔드 지점&lt;/h2&gt;
-
-&lt;p&gt;뉴트럴존을 넘어선 스크리미지킥은 캐치, 리커버 또는 규칙에 따라 볼이 데드로 선언된 지점에서 종료된다.(규칙 2-16-1-c)&lt;/p&gt;
-
-&lt;h2 id=&#34;제10조-시행-기점&#34;&gt;제10조 시행 기점&lt;/h2&gt;
-
-&lt;p&gt;시행 기점이란 3-1의 원칙에 따라 적용되는 벌칙에 대한 시행 지점의 기준점이 된다.(규칙 2-33)
-여러 가지 플레이의 상황에 대한 시행기점은 10-2-2-d에 정해져 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제11조-포스트스크리미지킥-지점-psk지점-postscrimmage-kick-spot&#34;&gt;제11조 포스트스크리미지킥 지점(PSK지점, postscrimmage kick spot)&lt;/h2&gt;
-
-&lt;p&gt;포스트스크리미지킥의 벌칙을 적용할 경우, 포스트스크리미지킥 지점이 시행기점이 된다.(규칙 10-2-3)&lt;/p&gt;
-
-&lt;p&gt;a. 킥이 필드오브플레이에서 종료되고 아래 예외 이외의 경우에는 포스트스크리미지킥 지점이 킥엔드 지점이 된다.
-b. 킥이 팀의 엔드존에서 종료된 경우, 포스트스크리미지킥 지점은 B팀의 20야드라인이다.&lt;/p&gt;
-
-&lt;p&gt;특례:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;실패한 필드골의 시도에서 뉴트럴존을 넘은 후에 B팀이 터치하지 않았고, 뉴트럴존을 넘어서 데드가 선언된 경우 포스트스크리미지킥 시행은 다음과 같다.
-(a) 프리비어스 지점이 B팀의 20야드라인 상 또는 그 바깥 (A팀의 골라인 방향)인 경우는 프리비어스지점
-(b) 프리비어스 지점이 B팀의 20야드라인과 B팀의 골라인 사이인 경우 B팀의 20야드라인(A.R.10-2-3-V)&lt;/li&gt;
-&lt;li&gt;6-3-11이 적용되는 경우, 포스트스크리미지킥 지점은 B팀의 20야드라인이 된다.&lt;/li&gt;
-&lt;li&gt;6-5-1-b가 적용되는 경우, 포스트스크리미지킥 지점은 리시버가 킥에 최초로 터치한 지점이다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제26장-태클&#34;&gt;제26장 태클&lt;/h1&gt;
-
-&lt;p&gt;태클이란 손이나 팔을 사용하여 상대방 선수를 붙잡든지 껴안는 것이다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제27장-팀과-선수의-호칭&#34;&gt;제27장 팀과 선수의 호칭&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-a팀과-b팀&#34;&gt;제1조 A팀과 B팀&lt;/h2&gt;
-
-&lt;p&gt;A팀이란 볼을 가지고 플레이를 하라고 지명된 팀을 말하며, 그 호칭은 다음에 볼이 레디포플레이가 될 때까지 유효하다. B팀이란 그 상대 팀을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-공격팀과-수비팀&#34;&gt;제2조 공격팀과 수비팀&lt;/h2&gt;
-
-&lt;p&gt;공격팀이란 볼을 확보한 팀 또는 볼이 소속되어있는 팀이다; 수비팀이란 그 상대 팀을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-키커와-홀더&#34;&gt;제3조 키커와 홀더&lt;/h2&gt;
-
-&lt;p&gt;a. 키커란 펀트, 드롭킥 또는 플레이스킥을 규칙에 따라 하는 선수이다.
-   키커는 킥 후에 신체의 균형이 원상태로 돌아올 수 있는 충분한 시간이 지날 때까지 키커이다.
-b. 홀더란 지면 위나 티 위의 볼을 제어하는 선수이다.
-   스크리미지킥에서 키커가 더는 존재하지 않을 때까지 홀더이고, 볼이 킥된 때는 키커가 킥 후에 신체의 균형이 원상태로 돌아 올 수 있는 충분한 시간이 지날 때까지 홀더이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-라인맨과-백&#34;&gt;제4조 라인맨과 백&lt;/h2&gt;
-
-&lt;p&gt;a. 라인맨
-    1. 라인맨이란 자기편 스크리미지 라인 상에 정당하게 위치한 A팀의 선수를 말한다(규칙 2-21-2).
-    2. A팀의 선수로 양어깨를 가로지르는 선이 상대 팀의 골라인과 평행하고 (a) 자기가 스내 퍼(규칙 2-27-8)이거나 (b) 자기 머리가 스내퍼의 허리(벨트의 선)를 통과하는 수직면보다 전방에 있는 경우, 이 선수를 ‘스크리미지 라인 상에 있다’고 한다.
-b. 인테리어 라인맨. 인테리어 라인맨이란 스크리미지 라인 상의 양 끝에 있지 않은 라인맨을 말한다.
-c. 제한을 받는 라인맨. 제한을 받는 라인맨이란 인테리어 라인맨 또는 50-79의 번호를 부착한 라인맨으로 무릎 아래로 손을 내린 선수를 말한다.
-d. 백
-    1. 백이란 라인맨 이외의 A팀의 선수로 자신에게서 가장 가까운 A팀의 라인맨의 허리(벨트 선)를 통과하는 수직면보다 자기 머리나 어깨가 후방에 있는 선수를 말한다.
-    2. 라인맨이외의 선수로 손으로 스냅을 받을 위치에 있는 선수도 백이라 한다.
-    3. 라인맨은 스냅 전에 백으로서의 위치에 이동해 정지했을 때 백이 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-패서&#34;&gt;제5조 패서&lt;/h2&gt;
-
-&lt;p&gt;패서란 정당한 포워드패스를 던지는 선수이다.
-패서는 볼을 던지고 나서 패스가 성공, 실패 또는 인터셉트될 때까지나 그 플레이에서 다른 임무에 참여할 때까지 패서이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-플레이어-선수&#34;&gt;제6조 플레이어(선수)&lt;/h2&gt;
-
-&lt;p&gt;a. 플레이어(선수)란 교대선수, 피 교대선수 이외의 경기 참가자 중의 한 명이며, 인바운즈에 있건 아웃오브바운즈에 있건 규칙에 따라야 한다.
-b. 공중에 떠 있는 선수란 정상적인 러닝 외에 뛰어오르고(leap), 뛰고(jump), 뛰어들고(dive), 띄우고(launch), 기타의 이유로 지면과 접촉하고 있지 않는 선수다.&lt;br /&gt;
-c. 피 교대 중인 선수는 교대선수에 의해 필드를 벗어나고 있는 선수이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-러너와-볼캐리어&#34;&gt;제7조 러너와 볼캐리어&lt;/h2&gt;
-
-&lt;p&gt;a. 러너란  라이브볼을 확보한 선수 또는 라이브볼을 확보한 것 같이 보이게 하는 선수이다.
-b. 볼캐리어란 라이브볼을 확보한 러너이다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-스내퍼&#34;&gt;제8조 스내퍼&lt;/h2&gt;
-
-&lt;p&gt;스내퍼란 볼을 스냅하는 선수를 말한다.
-A팀의 선수로 볼이 있는 위치에 있으며 볼을 터치하거나 터치와 유사한 행동(손을 무릎 또는 무릎 아래로 내리는 동작)을 할 때 스내퍼가 된다.(규칙 7-1-3)&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-교대선수&#34;&gt;제9조 교대선수&lt;/h2&gt;
-
-&lt;p&gt;a. 정당한 교대선수란 다운과 다운 사이에서 선수와 교대하거나, 선수의 부족을 보충하는 선수를 말한다.
-b. 정당하게 교대를 한 선수는 필드오브플레이 또는 엔드존에 들어가 자기 팀 선수나 심판과 대화했을 때, 허들에 들어간 때, 공격이나 수비 포메이션에 위치했을 때, 또는 플레이에 참가했을 때에 선수가 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제10조-피-교대선수&#34;&gt;제10조 피 교대선수&lt;/h2&gt;
-
-&lt;p&gt;피 교대선수란 전 다운에서는 플레이에 참가했으나, 교대선수와 교대가 된 선수이며 엔드존이나 필드오브플레이를 떠난 선수를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제11조-선수-부족&#34;&gt;제11조 선수 부족&lt;/h2&gt;
-
-&lt;p&gt;선수 부족이란 경기 중 팀의 플레이어가 11명보다 적을 때를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제12조-자격을-몰수당한-선수&#34;&gt;제12조 자격을 몰수당한 선수&lt;/h2&gt;
-
-&lt;p&gt;a. 자격을 몰수당한 선수란 그 경기에 더는 참가할 자격이 없다고 선언된 선수를 말한다.
-b. 자격을 몰수당한 선수는 자격몰수 선언후 다음플레이전에 팀 퍼스널의 에스코트하에 게임구역에서 떠나야만 한다.
-   게임동안에 팀 책임자의 관리 하에 필드오브 플레이에서 보이지 않는 곳에 있어야 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제13조-스쿼드멤버-등록선수&#34;&gt;제13조 스쿼드멤버 (등록선수)&lt;/h2&gt;
-
-&lt;p&gt;스쿼드멤버란 유니폼을 착용한 미식축구 경기 또는 플레이에 참가하려고 조직된 그룹의 일원을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제14조-무방비-선수&#34;&gt;제14조 무방비 선수&lt;/h2&gt;
-
-&lt;p&gt;무방비 선수란 자세나 집중의 초점에 따라 특히 부상을 당하기 쉬운 선수를 말한다.
-의문시 무방비 선수다, 무방비 선수의 사례는 아래와 같고 아래에 한정되지 않는다:&lt;/p&gt;
-
-&lt;p&gt;a. 볼을 던지려고 하는, 또는 던진 직후의 선수
-b. 포워드 패스를 받으려고 하는 리시버 또는 백워드 패스를 받으려는 위치에 있는 선수, 또는 완전하게 캐치를 했지만 스스로 자신을 방어할 수 있는 시간이 지나지 않았거나, 명확하게 볼 캐리어가 되지 않은 리시버
-c. 볼을 차려고 하거나 킥 직후의 키커, 또는 킥이나 리턴 중의 키커
-d. 킥을 캐치나 리커버하려는 킥 리터너, 또는 완전하게 캐치나 리커버를 했지만 스스로 자신을 방어할 수 있는 시간이 지나지 않았거나, 명확하게 볼 캐리어가 되지 않은 킥 리터너
-e. 지면에 넘어져 있는 선수
-f. 플레이에서 명확하게 떨어져 있는 선수
-g. 사각(死角)으로부터 블록을 당하는 선수
-h. 이미 상대 팀 선수에게 잡혀있는 볼 캐리어가 전진을 멈춘 경우
-i. 팀 확보 변경 후의 쿼터백&lt;/p&gt;
-
-&lt;h2 id=&#34;제15조-인바운즈와-아웃오브바운즈&#34;&gt;제15조 인바운즈와 아웃오브바운즈&lt;/h2&gt;
-
-&lt;p&gt;a. 아웃오브바운즈
-    1. 선수의 신체 일부가 경계선위나 바깥에 있는 다른 선수 또는 심판 외, 어떤 것에라도 터치되면 아웃오브바운즈다.
-    2. 공중에 떠 있는 아웃오브바운즈 선수는 아웃오브바운즈와 동시에 지면에 접촉 없이 인바운즈의 지면에 접촉할 때 까지는 아웃오브바운즈다.
-b. 인바운즈
-    1. 인바운즈 선수는 아웃오브바운즈가 아닌 선수다.
-    2. 인바운즈 선수가 공중에 떠 있게 되면 아웃오브바운즈 되기 전 까지는 인바운즈다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제28장-트리핑&#34;&gt;제28장 트리핑&lt;/h1&gt;
-
-&lt;p&gt;트리핑이란 고의로 아랫다리 또는 발을 사용하여 상대선수(러너 제외)의 무릎 이하를 방해하는 행위를 말한다.(규칙 9-1-2-c)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제29장-계시-장치&#34;&gt;제29장 계시 장치&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-게임클락&#34;&gt;제1조 게임클락&lt;/h2&gt;
-
-&lt;p&gt;게임클락이란 심판의 감독 하에 경기 시간 60분을 측정할 수 있는 모든 종류의 시계를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-플레이클락&#34;&gt;제2조 플레이클락&lt;/h2&gt;
-
-&lt;p&gt;경기장에는 경기장의 양 끝에서 볼 수 있는 플레이클락을 설치해야 한다.
-플레이클락은 40초와 25초 계시를 할 수 있어야 한다.
-플레이클락은 통상 40초로 세팅되어 플레이 후 심판이 볼 데드 시그널하면 조작원에 의해 계시 시작된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제30장-플레이-종류&#34;&gt;제30장 플레이 종류&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-포워드패스-플레이&#34;&gt;제1조 포워드패스 플레이&lt;/h2&gt;
-
-&lt;p&gt;정당한 포워드패스 플레이란 볼이 스냅된 후부터 정당한 패스플레이가 성공, 실패 또는 인터셉트될 때까지를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-프리킥-플레이&#34;&gt;제2조 프리킥 플레이&lt;/h2&gt;
-
-&lt;p&gt;프리킥 플레이란 볼이 정당하게 킥이 된 후부터 볼을 선수가 확보하거나, 또는 규칙에 따라 데드로 선언될 때까지를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-스크리미지킥-플레이&#34;&gt;제3조 스크리미지킥 플레이&lt;/h2&gt;
-
-&lt;p&gt;스크리미지킥 플레이란 볼이 스냅 된 후 스크리미지킥된 볼을 선수가 확보하거나 규칙에 따라 볼이 데드로 선언될 때까지를 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-러닝-플레이와-런&#34;&gt;제4조 러닝 플레이와 런&lt;/h2&gt;
-
-&lt;p&gt;a. 러닝 플레이는 프리킥 플레이, 스크리미지킥 플레이, 정당한 포워드패스 플레이를 제외한 라이브볼 중의 모든 움직임을 말한다.
-b. 런이란 러닝 플레이 일부로 볼캐리어가 볼을 확보한 기간을 말한다.
-c. 볼캐리어가 펌블, 백워드패스, 부정한 포워드패스에 따라 볼의 확보를 잃었다면, 런엔드 지점(규칙 2-25-8)은 볼의 확보를 잃은 장소의 야드라인이 된다.
-   러닝 플레이란 런 뿐 아니라 확보를 잃은 볼이 재 확보되기까지의 사이 또는 볼데드가 선언되기까지 사이의 루스볼 상태도 포함된다.(A.R.2-30-4-I, II)
-d. 새로운 러닝 플레이는 선수가 볼을 확보 또는 재 확보하는 것으로 시작된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제31장-필드-에리어&#34;&gt;제31장 필드 에리어&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-필드&#34;&gt;제1조 필드&lt;/h2&gt;
-
-&lt;p&gt;필드란 리미트라인과 리미트라인 사이의 지역과, 리미트라인과 팀 에리어를 포함한 지역과 공간을 말한다.(예외 : 필드 상방의 구조물)&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-필드오브플레이&#34;&gt;제2조 필드오브플레이&lt;/h2&gt;
-
-&lt;p&gt;필드오브플레이는 사이드라인과 골라인으로 둘러싸인 지역을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-엔드존&#34;&gt;제3조 엔드존&lt;/h2&gt;
-
-&lt;p&gt;a. 엔드존은 필드의 양 끝 부분에 있는 골라인, 양 사이드라인과 엔드라인으로 구성된 사각형의 구역을 말한다.
-b. 골라인과 골라인의 파일론은 엔드존에 포함된다.
-c. 팀의 엔드존이란 그 팀이 방어하고 있는 엔드존을 말한다.(A.R.8-5-1-VII 와 A.R.8-6-1-I)&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-경기장-표면&#34;&gt;제4조 경기장 표면&lt;/h2&gt;
-
-&lt;p&gt;경기장 표면이란 엔드존과 필드오브플레이의 소재나 재질을 말한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-경기장-내&#34;&gt;제5조 경기장 내&lt;/h2&gt;
-
-&lt;p&gt;경기장 내란 스타디움, 돔, 스탠드, 담장과 기타 구조물에 의해서 둘러싸인 곳을 말한다.(예외; 득점판은 경기장 내로 규정하지 않는다.)&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-사이드존&#34;&gt;제6조 사이드존&lt;/h2&gt;
-
-&lt;p&gt;사이드존이란 해시마크와 인접하는 사이드라인 사이의 영역을 말한다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제32장-폭력행위-싸움&#34;&gt;제32장 폭력행위(싸움)&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-5&#34;&gt;제1조&lt;/h2&gt;
-
-&lt;p&gt;폭력행위란 선수, 코치, 유니폼을 입은 스쿼드멤버가 미식축구와는 상관없이 전투적인 태도로 상대를 때리려는 시도를 말한다.
-그러한 행위는 아래의 행위를 포함하나, 아래에만 국한되는 것은 아니다.&lt;/p&gt;
-
-&lt;p&gt;a. 상대를 팔이나 손, 다리나 발, 또는 신체의 어느 부위를 사용하여 치려는 시도로써 접촉 여부에 상관없다.
-b. 싸움으로 상대방의 보복을 유발하게 하는 스포츠맨답지 않은 행위(규칙 9-2-1과 9-5-1-a-c)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제33장-3-1의-three-and-one-원칙&#34;&gt;제33장 3-1의 (three and one) 원칙&lt;/h1&gt;
-
-&lt;p&gt;벌칙의 시행에 관한 3-1의 원칙은 반칙에 대한 벌칙의 기술에서 시행지점이 특정되어 있지 않은 경우에 적용된다.
-이 원칙의 적용방법은 10-2-2-c로 정한다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제34장-태클박스-tackle-box&#34;&gt;제34장 태클박스(Tackle Box)&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-태클박스&#34;&gt;제1조 태클박스&lt;/h2&gt;
-
-&lt;p&gt;a. 태클박스란 뉴트럴존, 스내퍼에서 좌우 5야드 떨어진 양 사이드라인과 평행선과 A팀의 엔드라인에 둘러싸인 직사각형의 구역이다. (참고 부록 D)
-b. 태클박스는 볼이 존을 벗어나면 소멸한다.&lt;/p&gt;
-
-&lt;!-- EOF --&gt;
-</description>
+      <guid>https://rulebook.github.io/ko/interpretations/rules/10/</guid>
+      <description>Section 1. Penalties Completed Offsetting Fouls—ARTICLE 4 Approved Ruling 10-1-4 I. On a Team A kickoff, Team B fouls before the untouched ball goes out of bounds between the goal lines. RULING: Offsetting fouls. Team A re-kicks at the previous spot. II. On a Team A kickoff from its 35-yard line, Team B fouls after the untouched ball goes out of bounds between the goal lines. RULING: Team B may elect a replay with Team A free-kicking at its 45-yard line.</description>
     </item>
     
     <item>
-      <title>RULE 3—Periods, Time Factors and Substitutions</title>
-      <link>https://rulebook.github.io/en/r3/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:36 +0900</pubDate>
+      <title>RULE 9 - Conduct of Players and Others Subject to Rules</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/9/</link>
+      <pubDate>Mon, 08 May 2017 22:54:00 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/en/r3/</guid>
-      <description>
-
-&lt;h1 id=&#34;section-1-start-of-each-period&#34;&gt;SECTION 1. Start of Each Period&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;First and Third Periods&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 1.&lt;/p&gt;
-
-&lt;p&gt;a. Pregame Warmup. Prior to regular season games, teams must have access to the field for pregame warm-ups until at least 22 minutes before the opening kickoff. This may be altered in advance through written mutual agreement of the teams. Game management personnel are responsible for administering this rule.
-b.  Each half shall start with a kickoff.
-c.  Three minutes before the scheduled starting time, the referee shall toss a coin at midfield in the presence of not more than four field captains from each team and another game official, first designating the field captain of the visiting team to call the coin toss. Before the second half, the referee will obtain the teams’ second-half options.
-d.  During the coin toss, each team shall remain in the area between the nine-yard marks and its sideline or in the team area. The coin toss begins when the field captains leave the nine-yard marks and ends when the captains return to the nine-yard marks.
-PENALTY [d[—Five yards from the succeeding spot [S19].
-e.  The winner of the toss shall choose one of the following options:
-1.  To designate which team shall kick off.
-2.  To designate which goal line his team shall defend.
-3.  To defer his selection to the second half.
-f.  The opponent shall then choose option 1 or 2 above, as available.
-g.  If the winner of the toss chooses option 3 above, then after the opponent’s choice the winner selects the available option (1 or 2 above).
-h. For the second half the loser of the toss, or the winner who chooses option 3 above, shall choose option 1 or 2 above. The opponent then chooses the remaining available option.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Second and Fourth Periods&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 2.&lt;/p&gt;
-
-&lt;p&gt;Between the first and second periods and also between the third and fourth periods, the teams shall defend opposite goal lines.
-a.  The ball shall be relocated at a spot corresponding exactly, in relation to goal lines and sidelines, to its location at the end of the preceding period.
-b.  Possession of the ball, the number of the down and the distance to be gained shall remain unchanged.&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/en/interpretations/rules/9/</guid>
+      <description>Section 1. Personal Fouls Striking Fouls and Tripping—ARTICLE 2 Approved Ruling 9-1-2 I. A player on defense sticks out his foot and trips an opponent. (a) The opponent is a wide receiver running a passing route. (b) The opponent is the ball carrier. RULING: (a) and (b) Personal foul, Tripping. Penalty—15 yards, automatic first down. II. A1, a ball carrier, strikes tackler B6 with his extended forearm just before being tackled.</description>
     </item>
     
     <item>
-      <title>규칙 3—Periods, Time Factors and Substitutions</title>
+      <title>규칙 9 - Conduct of Players and Others Subject to Rules</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/9/</link>
+      <pubDate>Mon, 08 May 2017 22:54:00 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/9/</guid>
+      <description>Section 1. Personal Fouls Striking Fouls and Tripping—ARTICLE 2 Approved Ruling 9-1-2 I. A player on defense sticks out his foot and trips an opponent. (a) The opponent is a wide receiver running a passing route. (b) The opponent is the ball carrier. RULING: (a) and (b) Personal foul, Tripping. Penalty—15 yards, automatic first down. II. A1, a ball carrier, strikes tackler B6 with his extended forearm just before being tackled.</description>
+    </item>
+    
+    <item>
+      <title>RULE 8 - Scoring</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/8/</link>
+      <pubDate>Mon, 08 May 2017 22:53:57 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/8/</guid>
+      <description>Section 2. Touchdown
+How Scored—ARTICLE 1 Approved Ruling 8-2-1 I. Ball carrier A1, while attempting to score, strikes the pylon located on the right intersection of the goal line and sideline with his foot. He is carrying the ball in his right arm, which is extended over the sideline. RULING: Whether or not a touchdown is scored depends on the forward progress of the ball as related to the goal line when the ball becomes dead by rule (Rules 4-2-4-d and 5-1-3-a).</description>
+    </item>
+    
+    <item>
+      <title>규칙 8 - 득점</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/8/</link>
+      <pubDate>Mon, 08 May 2017 22:53:57 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/8/</guid>
+      <description>Section 2. Touchdown
+How Scored—ARTICLE 1 Approved Ruling 8-2-1 I. Ball carrier A1, while attempting to score, strikes the pylon located on the right intersection of the goal line and sideline with his foot. He is carrying the ball in his right arm, which is extended over the sideline. RULING: Whether or not a touchdown is scored depends on the forward progress of the ball as related to the goal line when the ball becomes dead by rule (Rules 4-2-4-d and 5-1-3-a).</description>
+    </item>
+    
+    <item>
+      <title>RULE 7 - Snapping and Passing the Ball</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/7/</link>
+      <pubDate>Mon, 08 May 2017 22:53:55 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/7/</guid>
+      <description>Section 1. The Scrimmage Shift and False Start —ARTICLE 2 Approved Ruling 7-1-2 I. After a huddle or shift, all Team A players come to a stop and remain stationary for one second. Then, before the snap, two or more simultaneously change their positions. RULING: All 11 Team A players must again stop for one second before the snap, otherwise it is a live-ball foul at the snap for an illegal shift.</description>
+    </item>
+    
+    <item>
+      <title>규칙 7 - Snapping and Passing the Ball</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/7/</link>
+      <pubDate>Mon, 08 May 2017 22:53:55 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/7/</guid>
+      <description>Section 1. The Scrimmage Shift and False Start —ARTICLE 2 Approved Ruling 7-1-2 I. After a huddle or shift, all Team A players come to a stop and remain stationary for one second. Then, before the snap, two or more simultaneously change their positions. RULING: All 11 Team A players must again stop for one second before the snap, otherwise it is a live-ball foul at the snap for an illegal shift.</description>
+    </item>
+    
+    <item>
+      <title>RULE 6 - Kicks</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/6/</link>
+      <pubDate>Mon, 08 May 2017 22:53:52 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/6/</guid>
+      <description>Section 1. Free Kicks
+Free-Kick Formation—ARTICLE 2 Approved Ruling 6-1-2 I. The ball is kicked while teed illegally, punted on a kickoff or kicked from a spot between the hash mark and the nearer sideline. RULING: Illegal kick. Dead-ball foul. Penalty—Five yards from the succeeding spot (Rule 2-16-1-b). II. Kicker A11 places the ball on the tee in the center of the field for a free kick with four teammates to the left side of the ball and six teammates to the right side of the ball.</description>
+    </item>
+    
+    <item>
+      <title>규칙 6 - 킥</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/6/</link>
+      <pubDate>Mon, 08 May 2017 22:53:52 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/6/</guid>
+      <description>Section 1. Free Kicks
+Free-Kick Formation—ARTICLE 2 Approved Ruling 6-1-2 I. The ball is kicked while teed illegally, punted on a kickoff or kicked from a spot between the hash mark and the nearer sideline. RULING: Illegal kick. Dead-ball foul. Penalty—Five yards from the succeeding spot (Rule 2-16-1-b). II. Kicker A11 places the ball on the tee in the center of the field for a free kick with four teammates to the left side of the ball and six teammates to the right side of the ball.</description>
+    </item>
+    
+    <item>
+      <title>RULE 5 - Series of Downs, Line to Gain</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/5/</link>
+      <pubDate>Mon, 08 May 2017 22:53:50 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/5/</guid>
+      <description>Section 1. A Series: Started, Broken, Renewed Forward Progress—ARTICLE 3 Approved Ruling 5-1-3 I. Airborne A1 receives a legal forward pass one yard within the opponent’s end zone. As A1 receives the ball, he is contacted by B1 and first comes to the ground with the catch at the one-yard line, where the ball is declared dead. RULING: Touchdown (Rule 8-2-1- b). II. Airborne A1 receives a legal forward pass one yard within Team B’s end zone.</description>
+    </item>
+    
+    <item>
+      <title>규칙 5 - Series of Downs, Line to Gain</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/5/</link>
+      <pubDate>Mon, 08 May 2017 22:53:50 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/5/</guid>
+      <description>Section 1. A Series: Started, Broken, Renewed Forward Progress—ARTICLE 3 Approved Ruling 5-1-3 I. Airborne A1 receives a legal forward pass one yard within the opponent’s end zone. As A1 receives the ball, he is contacted by B1 and first comes to the ground with the catch at the one-yard line, where the ball is declared dead. RULING: Touchdown (Rule 8-2-1- b). II. Airborne A1 receives a legal forward pass one yard within Team B’s end zone.</description>
+    </item>
+    
+    <item>
+      <title>RULE 4 - Ball in Play, Dead Ball, Out of Bounds</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/4/</link>
+      <pubDate>Mon, 08 May 2017 22:53:48 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/4/</guid>
+      <description>Section 1. Ball in Play—Dead Ball Live Ball Becomes Dead—ARTICLE 2 Approved Ruling 4-1-2 I. Fourth and 16 at the 50-yard line, Team A kicks. B1 clips on Team B’s 40-yard line, and B2 muffs the kick on the 25-yard line. While the ball is loose, an inadvertent whistle is sounded. RULING: If Team A accepts the penalty, penalize Team B from the 50-yard line. Team A’s ball, first and 10 on the 35-yard line.</description>
+    </item>
+    
+    <item>
+      <title>규칙 4 - Ball in Play, Dead Ball, Out of Bounds</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/4/</link>
+      <pubDate>Mon, 08 May 2017 22:53:48 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/4/</guid>
+      <description>Section 1. Ball in Play—Dead Ball Live Ball Becomes Dead—ARTICLE 2 Approved Ruling 4-1-2 I. Fourth and 16 at the 50-yard line, Team A kicks. B1 clips on Team B’s 40-yard line, and B2 muffs the kick on the 25-yard line. While the ball is loose, an inadvertent whistle is sounded. RULING: If Team A accepts the penalty, penalize Team B from the 50-yard line. Team A’s ball, first and 10 on the 35-yard line.</description>
+    </item>
+    
+    <item>
+      <title>RULE 3 - Periods, Time Factors and Substitutions</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/3/</link>
+      <pubDate>Mon, 08 May 2017 22:53:44 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/3/</guid>
+      <description>Section 1. Start of Each Period Extra Periods—ARTICLE 3 Approved Ruling 3-1-3 I. Other than on the try, Team B scores a touchdown after intercepting a forward pass, intercepting or recovering a backward pass or fumble, or returning a blocked field goal attempt. RULING: Period and game are ended, and Team B is the winner. II. During the first possession series of a period, Team B intercepts a forward pass, or intercepts or recovers a fumble or a backward pass, and does not score a touchdown.</description>
+    </item>
+    
+    <item>
+      <title>규칙 3 - 피리어드, Time Factors and Substitutions</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/3/</link>
+      <pubDate>Mon, 08 May 2017 22:53:44 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/3/</guid>
+      <description>Section 1. Start of Each Period Extra Periods—ARTICLE 3 Approved Ruling 3-1-3 I. Other than on the try, Team B scores a touchdown after intercepting a forward pass, intercepting or recovering a backward pass or fumble, or returning a blocked field goal attempt. RULING: Period and game are ended, and Team B is the winner. II. During the first possession series of a period, Team B intercepts a forward pass, or intercepts or recovers a fumble or a backward pass, and does not score a touchdown.</description>
+    </item>
+    
+    <item>
+      <title>RULE 2 - Definitions</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/2/</link>
+      <pubDate>Mon, 08 May 2017 22:53:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/2/</guid>
+      <description>Section 4. Catch, Recovery, Possession Catch, Interception, Recovery—ARTICLE 3 Approved Ruling 2-4-3 I. B1 attempts to catch a punt (no fair catch signal) that crosses the neutral zone, strikes his shoulder (a muff) and bounces into the air. The ball does not touch the ground. Airborne A1 receives the ball in flight and first returns to the ground out of bounds. RULING: Team B’s ball at the spot where the ball crossed the sideline.</description>
+    </item>
+    
+    <item>
+      <title>규칙 2 - 정의</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/2/</link>
+      <pubDate>Mon, 08 May 2017 22:53:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/2/</guid>
+      <description>Section 4. Catch, Recovery, Possession Catch, Interception, Recovery—ARTICLE 3 Approved Ruling 2-4-3 I. B1 attempts to catch a punt (no fair catch signal) that crosses the neutral zone, strikes his shoulder (a muff) and bounces into the air. The ball does not touch the ground. Airborne A1 receives the ball in flight and first returns to the ground out of bounds. RULING: Team B’s ball at the spot where the ball crossed the sideline.</description>
+    </item>
+    
+    <item>
+      <title>RULE 1 - The Game, Field, Players and Equipment</title>
+      <link>https://rulebook.github.io/en/interpretations/rules/1/</link>
+      <pubDate>Mon, 08 May 2017 22:53:34 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/rules/1/</guid>
+      <description>Section 3. The Ball Administration and Enforcement—ARTICLE 2 Approved Ruling 1-3-2 I. On fourth down, kicker A1 enters the field with an approved game ball and asks the referee to substitute it for the ball used during the previous down. RULING: Substitution of the ball is not permitted. Section 4. Players and Playing Equipment Players’ Numbering—ARTICLE 2 Approved Ruling 1-4-2 I. The Team A player who started the game wearing jersey number 77 enters the game wearing number 88.</description>
+    </item>
+    
+    <item>
+      <title>규칙 1 - 경기와 경기장, 선수, 장비</title>
+      <link>https://rulebook.github.io/ko/interpretations/rules/1/</link>
+      <pubDate>Mon, 08 May 2017 22:53:34 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/rules/1/</guid>
+      <description>Section 3. The Ball Administration and Enforcement—ARTICLE 2 Approved Ruling 1-3-2 I. On fourth down, kicker A1 enters the field with an approved game ball and asks the referee to substitute it for the ball used during the previous down. RULING: Substitution of the ball is not permitted. Section 4. Players and Playing Equipment Players’ Numbering—ARTICLE 2 Approved Ruling 1-4-2 I. The Team A player who started the game wearing jersey number 77 enters the game wearing number 88.</description>
+    </item>
+    
+    <item>
+      <title>List of New Approved Rulings</title>
+      <link>https://rulebook.github.io/en/interpretations/list/</link>
+      <pubDate>Mon, 08 May 2017 22:53:28 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/list/</guid>
+      <description>NEW APPROVED RULINGS Rule 1 1-4-7-V Rule 2 2-16-10-I Rule 3 3-3-3-I 3-4-3-VI 3-4-4-VI 3-4-4-VII Rule 4 4-1-3-II</description>
+    </item>
+    
+    <item>
+      <title>새로운 공인 판정 목록</title>
+      <link>https://rulebook.github.io/ko/interpretations/list/</link>
+      <pubDate>Mon, 08 May 2017 22:53:28 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/list/</guid>
+      <description>NEW APPROVED RULINGS Rule 1 1-4-7-V Rule 2 2-16-10-I Rule 3 3-3-3-I 3-4-3-VI 3-4-4-VI 3-4-4-VII Rule 4 4-1-3-II</description>
+    </item>
+    
+    <item>
+      <title>Table of Contents for Approved Rulings</title>
+      <link>https://rulebook.github.io/en/interpretations/toc/</link>
+      <pubDate>Mon, 08 May 2017 22:53:21 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/toc/</guid>
+      <description>List of New Approved Rulings
+RULE 1—The Game, Field, Players and Equipment RULE 2—Definitions
+RULE 3—Periods, Time Factors and Substitutions
+RULE 4—Ball in Play, Dead Ball, Out of Bounds
+RULE 5—Series of Downs, Line to Gain
+RULE 6—Kicks
+RULE 7—Snapping and Passing the Ball
+RULE 8—Scoring
+RULE 9—Conduct of Players and Others Subject to Rules RULE 10—Penalty Enforcement</description>
+    </item>
+    
+    <item>
+      <title>공인된 판정 목차</title>
+      <link>https://rulebook.github.io/ko/interpretations/toc/</link>
+      <pubDate>Mon, 08 May 2017 22:53:21 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/toc/</guid>
+      <description>List of New Approved Rulings
+RULE 1—The Game, Field, Players and Equipment RULE 2—Definitions
+RULE 3—Periods, Time Factors and Substitutions
+RULE 4—Ball in Play, Dead Ball, Out of Bounds
+RULE 5—Series of Downs, Line to Gain
+RULE 6—Kicks
+RULE 7—Snapping and Passing the Ball
+RULE 8—Scoring
+RULE 9—Conduct of Players and Others Subject to Rules RULE 10—Penalty Enforcement</description>
+    </item>
+    
+    <item>
+      <title>Appendix D Equipment: Additional Details</title>
+      <link>https://rulebook.github.io/en/appendixes/d/</link>
+      <pubDate>Mon, 08 May 2017 22:32:45 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/appendixes/d/</guid>
+      <description>A. Details Regarding Illegal Equipment 1. Hard or unyielding substances are permitted, if covered, only to protect an injury. 2. Hand and arm protectors (covered casts or splints) are permitted only to protect a fracture or dislocation. 3. Thigh guards may not be made of any hard substances, unless all surfaces are covered with material such as closed-cell vinyl foam that is at least 1&amp;frasl;4-inch thick on the outside surface and at least 3&amp;frasl;8-inch thick on the inside surface and the overlaps of the edges.</description>
+    </item>
+    
+    <item>
+      <title>Appendix D 장비: 추가적인 세부 사항</title>
+      <link>https://rulebook.github.io/ko/appendixes/d/</link>
+      <pubDate>Mon, 08 May 2017 22:32:45 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/appendixes/d/</guid>
+      <description>A. Details Regarding Illegal Equipment 1. Hard or unyielding substances are permitted, if covered, only to protect an injury. 2. Hand and arm protectors (covered casts or splints) are permitted only to protect a fracture or dislocation. 3. Thigh guards may not be made of any hard substances, unless all surfaces are covered with material such as closed-cell vinyl foam that is at least 1&amp;frasl;4-inch thick on the outside surface and at least 3&amp;frasl;8-inch thick on the inside surface and the overlaps of the edges.</description>
+    </item>
+    
+    <item>
+      <title>Appendix C Field Diagrams</title>
+      <link>https://rulebook.github.io/en/appendixes/c/</link>
+      <pubDate>Mon, 08 May 2017 22:32:43 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/appendixes/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appendix C 필드 다이어그램</title>
+      <link>https://rulebook.github.io/ko/appendixes/c/</link>
+      <pubDate>Mon, 08 May 2017 22:32:43 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/appendixes/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appendix B Concussions</title>
+      <link>https://rulebook.github.io/en/appendixes/b/</link>
+      <pubDate>Mon, 08 May 2017 22:32:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/appendixes/b/</guid>
+      <description>Revised April 2016
+A concussion is a brain injury that is most commonly caused by a blow to the head or trunk, or by the head or body forcefully impacting the ground. Concussions most commonly occur without loss of consciousness. Typically, there are subtle indications that a concussion has occurred, such as the student-athlete shaking his head, stumbling, or appearing dazed or stunned.
+Game officials are often in a best position to observe student-athletes up-close, and may be the first to notice the unusual behaviors that indicate a concussion may be present.</description>
+    </item>
+    
+    <item>
+      <title>Appendix B 뇌진탕</title>
+      <link>https://rulebook.github.io/ko/appendixes/b/</link>
+      <pubDate>Mon, 08 May 2017 22:32:31 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/appendixes/b/</guid>
+      <description>Revised April 2016
+A concussion is a brain injury that is most commonly caused by a blow to the head or trunk, or by the head or body forcefully impacting the ground. Concussions most commonly occur without loss of consciousness. Typically, there are subtle indications that a concussion has occurred, such as the student-athlete shaking his head, stumbling, or appearing dazed or stunned.
+Game officials are often in a best position to observe student-athletes up-close, and may be the first to notice the unusual behaviors that indicate a concussion may be present.</description>
+    </item>
+    
+    <item>
+      <title>Appendix A Guidelines for Game Officials to Use During a Serious On-Field Player Injury</title>
+      <link>https://rulebook.github.io/en/appendixes/a/</link>
+      <pubDate>Mon, 08 May 2017 22:32:27 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/appendixes/a/</guid>
+      <description>Players and coaches must go to and remain in the bench area. Direct players and coaches accordingly. Always ensure adequate lines of vision between the medical staffs and available emergency personnel. Attempt to keep players a significant distance away from the seriously injured player or players. Do not allow a player to roll an injured player over. Do not allow players to assist a teammate who is lying on the field; i.</description>
+    </item>
+    
+    <item>
+      <title>부록 A 부상 선수 발생시 심판을 위한 지침</title>
+      <link>https://rulebook.github.io/ko/appendixes/a/</link>
+      <pubDate>Mon, 08 May 2017 22:32:27 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/appendixes/a/</guid>
+      <description>Players and coaches must go to and remain in the bench area. Direct players and coaches accordingly. Always ensure adequate lines of vision between the medical staffs and available emergency personnel. Attempt to keep players a significant distance away from the seriously injured player or players. Do not allow a player to roll an injured player over. Do not allow players to assist a teammate who is lying on the field; i.</description>
+    </item>
+    
+    <item>
+      <title>Index to Rules</title>
+      <link>https://rulebook.github.io/en/</link>
+      <pubDate>Mon, 08 May 2017 21:04:00 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 찾아보기</title>
+      <link>https://rulebook.github.io/ko/</link>
+      <pubDate>Mon, 08 May 2017 21:04:00 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>2부: 규칙 해석</title>
+      <link>https://rulebook.github.io/ko/interpretations/</link>
+      <pubDate>Mon, 08 May 2017 21:03:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/interpretations/</guid>
+      <description>A rule interpretation, or approved ruling (A.R.), is an official decision on a given statement of facts. It serves to illustrate the spirit and application of the rule.
+Any approved rulings that have been altered significantly are shaded for ease of reference. All new approved rulings are listed in the front of this section and are shaded.
+ROGERS REDDING, Secretary-Rules Editor</description>
+    </item>
+    
+    <item>
+      <title>Appendix</title>
+      <link>https://rulebook.github.io/en/appendixes/</link>
+      <pubDate>Mon, 08 May 2017 21:03:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/appendixes/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Part II: Interpretations</title>
+      <link>https://rulebook.github.io/en/interpretations/</link>
+      <pubDate>Mon, 08 May 2017 21:03:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/interpretations/</guid>
+      <description>A rule interpretation, or approved ruling (A.R.), is an official decision on a given statement of facts. It serves to illustrate the spirit and application of the rule.
+Any approved rulings that have been altered significantly are shaded for ease of reference. All new approved rulings are listed in the front of this section and are shaded.
+ROGERS REDDING, Secretary-Rules Editor</description>
+    </item>
+    
+    <item>
+      <title>부록</title>
+      <link>https://rulebook.github.io/ko/appendixes/</link>
+      <pubDate>Mon, 08 May 2017 21:03:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/appendixes/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Official Football Signals</title>
+      <link>https://rulebook.github.io/en/signals/</link>
+      <pubDate>Mon, 08 May 2017 21:03:18 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/signals/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>공식 풋볼 신호</title>
+      <link>https://rulebook.github.io/ko/signals/</link>
+      <pubDate>Mon, 08 May 2017 21:03:18 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/signals/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>1부: 규칙</title>
+      <link>https://rulebook.github.io/ko/rules/</link>
+      <pubDate>Mon, 08 May 2017 21:01:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/</guid>
+      <description>NCAA Football Rules and Interpretations have been designated as either administrative rules or conduct rules. Typically, administrative rules are those dealing with preparation for the contest. Conduct rules are those that have to do directly with the playing of the contest. Some administrative rules (as indicated) may be altered by the mutual consent of the competing institutions. Others (as indicated) are unalterable. No conduct rule may be changed by mutual consent.</description>
+    </item>
+    
+    <item>
+      <title>Part I: The Rules</title>
+      <link>https://rulebook.github.io/en/rules/</link>
+      <pubDate>Mon, 08 May 2017 21:01:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/</guid>
+      <description>NCAA Football Rules and Interpretations have been designated as either administrative rules or conduct rules. Typically, administrative rules are those dealing with preparation for the contest. Conduct rules are those that have to do directly with the playing of the contest. Some administrative rules (as indicated) may be altered by the mutual consent of the competing institutions. Others (as indicated) are unalterable. No conduct rule may be changed by mutual consent.</description>
+    </item>
+    
+    <item>
+      <title>The Football Code</title>
+      <link>https://rulebook.github.io/en/code/</link>
+      <pubDate>Mon, 08 May 2017 21:01:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/code/</guid>
+      <description>Football is an aggressive, rugged contact sport. Only the highest standards of sportsmanship and conduct are expected of players, coaches and others associated with the game. There is no place for unfair tactics, unsportsmanlike conduct or maneuvers deliberately designed to inflict injury. The American Football Coaches Association (AFCA) Code of Ethics states: a. The Football Code shall be an integral part of this code of ethics and should be carefully read and observed.</description>
+    </item>
+    
+    <item>
+      <title>미식축구의 강령</title>
+      <link>https://rulebook.github.io/ko/code/</link>
+      <pubDate>Mon, 08 May 2017 21:01:26 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/code/</guid>
+      <description>전통적으로 미식축구는 교육활동의 중요한 한 분야를 담당하고 있다. 그러므로 선수, 코치, 그 외의 경기관계자에 대해서는 최고의 스포츠맨십과 행동이 요구된다.
+미식축구는 격렬하고 힘이 넘치며, 신체를 부딪치는 운동이다. 부정한 전술, 스포츠맨답지 않은 행위, 고의로 상대선수를 다치게 하는 행위는 절대로 허용되지 않는다.
+a. 미식축구의 강령은 불가결한 것으로 주의 깊게 읽고 지켜야 한다. b. 본 규칙을 왜곡하거나 무시하여 이익을 얻고자 하는 것은 코치나 선수로서 미식축구에 관한 자격을 잃는 것이다. 수년에 걸쳐 규칙위원회는 규칙과 적절한 벌칙에 따라 여러 가지 불필요한 난폭한 행위, 부정한 전술, 스포츠맨답지 않은 행위를 금지하려고 노력해 왔다.</description>
+    </item>
+    
+    <item>
+      <title>Statement on Sportsmanship</title>
+      <link>https://rulebook.github.io/en/sportsmanship/</link>
+      <pubDate>Mon, 08 May 2017 21:01:16 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/sportsmanship/</guid>
+      <description>NCAA Football Rules Committee Adopted February 2009
+ After reviewing a number of plays involving unsportsmanlike conduct, the committee is firm in its support of the unsportsmanlike conduct rules as they currently are written and officiated. Many of these fouls deal with players who inappropriately draw attention to themselves in a premeditated, excessive or prolonged manner. Players should be taught the discipline that reinforces football as a team game. The rules committee reminds head coaches of their responsibility for the behavior of their players before and after, as well as during, the game.</description>
+    </item>
+    
+    <item>
+      <title>스포츠맨십 관련 선언</title>
+      <link>https://rulebook.github.io/ko/sportsmanship/</link>
+      <pubDate>Mon, 08 May 2017 21:01:16 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/sportsmanship/</guid>
+      <description>NCAA Football Rules Committee Adopted February 2009
+ After reviewing a number of plays involving unsportsmanlike conduct, the committee is firm in its support of the unsportsmanlike conduct rules as they currently are written and officiated. Many of these fouls deal with players who inappropriately draw attention to themselves in a premeditated, excessive or prolonged manner. Players should be taught the discipline that reinforces football as a team game. The rules committee reminds head coaches of their responsibility for the behavior of their players before and after, as well as during, the game.</description>
+    </item>
+    
+    <item>
+      <title>Points of Emphasis</title>
+      <link>https://rulebook.github.io/en/emphasis/</link>
+      <pubDate>Mon, 08 May 2017 21:01:03 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/emphasis/</guid>
+      <description>The NCAA Football Rules Committee has extraordinary pride in the Football Code, which was introduced in 1916 and has been updated several times. These guidelines form a harmony of agreement among coaches, players, game officials and administrators that places each contest in an environment of fairness and sportsmanship. It is noted that the Code emphasizes the following unethical practices: “Using the helmet as a weapon. The helmet is for protection of the player&amp;hellip;” and “players and coaches should emphasize the elimination of targeting and initiating contact against a defenseless opponent and/or with the crown of the helmet.</description>
+    </item>
+    
+    <item>
+      <title>규칙의 강조점</title>
+      <link>https://rulebook.github.io/ko/emphasis/</link>
+      <pubDate>Mon, 08 May 2017 21:01:03 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/emphasis/</guid>
+      <description>규칙위원회는 풋볼의 강령을 도입한 이래 매년 수정과 개정하여 왔으며 이것은 최고 수준의 윤리 규정이다. 여기에는 코치, 선수, 심판, 운영관계자의 협조와 합의를 기초로 형성되고 경기의 공평성과 품위를 지키기 위한 지침이 기록되어 있다. 요강이 정한 행동의 하나로 ‘풋볼 헬멧을 무기로 사용하는 것’이 게재되어 있다.
+‘헬멧은 선수의 보호를 위한 것’이며, 선수와 코치와 심판은 타기팅하여 헬멧의 상단으로 접촉하는 것이나 무방비한 선수에 대해 목이나 머리에의 접촉을 금지하는 것을 목표로 하여야 한다. 미식축구 관계자 전원이 다음의 기본 윤리 규정을 잘 지켜서 전통 있는 이 스포츠의 장래를 유익하게 만들어 가기를 원한다.</description>
+    </item>
+    
+    <item>
+      <title>Index to Editorial Changes</title>
+      <link>https://rulebook.github.io/en/editorial/</link>
+      <pubDate>Mon, 08 May 2017 21:00:46 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/editorial/</guid>
+      <description>MAJOR EDITORIAL CHANGES for 2016-2017 Code — Blocking/Tackling device prohibition deleted
+1-4-5 — Mascot name allowed on jersey
+2-3-7 — Low-blocking zone deleted
+2-27-12 — Player disqualified in second half of previous game 3-5-2 — Team B allowed to match up on substitutions
+6-3-13 — Penalty option: Safety for Team A fouls in its end zone
+7-3-2-h — Intentional grounding exception: passer must retain possession 9-1-3 and 9-1-4 — Element of targeting must be present</description>
+    </item>
+    
+    <item>
+      <title>편집상 주요 변화</title>
+      <link>https://rulebook.github.io/ko/editorial/</link>
+      <pubDate>Mon, 08 May 2017 21:00:46 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/editorial/</guid>
+      <description>MAJOR EDITORIAL CHANGES for 2016-2017 Code — Blocking/Tackling device prohibition deleted
+1-4-5 — Mascot name allowed on jersey
+2-3-7 — Low-blocking zone deleted
+2-27-12 — Player disqualified in second half of previous game 3-5-2 — Team B allowed to match up on substitutions
+6-3-13 — Penalty option: Safety for Team A fouls in its end zone
+7-3-2-h — Intentional grounding exception: passer must retain possession 9-1-3 and 9-1-4 — Element of targeting must be present</description>
+    </item>
+    
+    <item>
+      <title>2016, 2017년도의 주요 규칙 변경</title>
+      <link>https://rulebook.github.io/ko/changes/</link>
+      <pubDate>Mon, 08 May 2017 21:00:16 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/changes/</guid>
+      <description>The numbers and letters in the left column refer to rule, section and article, respectively. Changed or altered items are identified in the rules by a shaded background, unless the change results in the deletion of the entire segment containing the change.
+MAJOR RULES CHANGES for 2016-2017 1-2-1 — Access for TV partners between limit lines and sidelines
+1-4-11 — Technology for coaches in press box and locker room (2017)</description>
+    </item>
+    
+    <item>
+      <title>Major Rules Changes for 2016 and 2017</title>
+      <link>https://rulebook.github.io/en/changes/</link>
+      <pubDate>Mon, 08 May 2017 21:00:16 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/changes/</guid>
+      <description>The numbers and letters in the left column refer to rule, section and article, respectively. Changed or altered items are identified in the rules by a shaded background, unless the change results in the deletion of the entire segment containing the change.
+MAJOR RULES CHANGES for 2016-2017 1-2-1 — Access for TV partners between limit lines and sidelines
+1-4-11 — Technology for coaches in press box and locker room (2017)</description>
+    </item>
+    
+    <item>
+      <title>NCAA  풋볼 규칙위원회</title>
+      <link>https://rulebook.github.io/ko/committee/</link>
+      <pubDate>Mon, 08 May 2017 20:58:56 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/committee/</guid>
+      <description>The chart below lists the members of the committee who voted on and approved the rules included in this edition of the book. This information is being included for historical purposes.
+   Name Institution Term Expiration     Mark Alnutt University of Memphis 9-1-18   Monte Cater Shepherd University 9-1-19   John Chandler Coe College 9-1-18   Larry Fedora University of North Carolina 9-1-19   Joey Jones University of South Alabama 9-1-17**   Michael Mattia Johns Hopkins University 9-1-16   Bob Nielson, chair University of South Dakota 9-1-17   Rogers Redding* Secretary-Rules Editor 9-1-17   David Sharp Ouachita Baptist University 9-1-18   Ed Stewart Big 12 Conference 9-1-18   Brian Surace Fairleigh Dickinson, Florham 9-1-16   Paul Winters Wayne State University 9-1-18   Tom Yeager Colonial Athletic Association 9-1-16     Non-voting member</description>
+    </item>
+    
+    <item>
+      <title>NCAA Football Rules Committee</title>
+      <link>https://rulebook.github.io/en/committee/</link>
+      <pubDate>Mon, 08 May 2017 20:58:56 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/committee/</guid>
+      <description>The chart below lists the members of the committee who voted on and approved the rules included in this edition of the book. This information is being included for historical purposes.
+   Name Institution Term Expiration     Mark Alnutt University of Memphis 9-1-18   Monte Cater Shepherd University 9-1-19   John Chandler Coe College 9-1-18   Larry Fedora University of North Carolina 9-1-19   Joey Jones University of South Alabama 9-1-17**   Michael Mattia Johns Hopkins University 9-1-16   Bob Nielson, chair University of South Dakota 9-1-17   Rogers Redding* Secretary-Rules Editor 9-1-17   David Sharp Ouachita Baptist University 9-1-18   Ed Stewart Big 12 Conference 9-1-18   Brian Surace Fairleigh Dickinson, Florham 9-1-16   Paul Winters Wayne State University 9-1-18   Tom Yeager Colonial Athletic Association 9-1-16     Non-voting member</description>
+    </item>
+    
+    <item>
+      <title>RULE 12 - Instant Replay</title>
+      <link>https://rulebook.github.io/en/rules/12/</link>
+      <pubDate>Mon, 08 May 2017 20:56:06 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/12/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 12 - 인스턴트 리플레이</title>
+      <link>https://rulebook.github.io/ko/rules/12/</link>
+      <pubDate>Mon, 08 May 2017 20:56:06 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/12/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 11 - The Officials: Jurisdiction and Duties</title>
+      <link>https://rulebook.github.io/en/rules/11/</link>
+      <pubDate>Mon, 08 May 2017 20:56:03 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/11/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 11 - 심판: 권한과 의무</title>
+      <link>https://rulebook.github.io/ko/rules/11/</link>
+      <pubDate>Mon, 08 May 2017 20:56:03 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/11/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 10 - Penalty Enforcement</title>
+      <link>https://rulebook.github.io/en/rules/10/</link>
+      <pubDate>Mon, 08 May 2017 20:56:00 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/10/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 10 - 벌칙 시행</title>
+      <link>https://rulebook.github.io/ko/rules/10/</link>
+      <pubDate>Mon, 08 May 2017 20:56:00 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/10/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 9 - Conduct of Players and Others Subject to the Rules</title>
+      <link>https://rulebook.github.io/en/rules/9/</link>
+      <pubDate>Mon, 08 May 2017 20:55:56 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/9/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 9—규칙의 적용을 받는 선수와 관계자의 행위</title>
+      <link>https://rulebook.github.io/ko/rules/9/</link>
+      <pubDate>Mon, 08 May 2017 20:55:56 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/9/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 8 - Scoring</title>
+      <link>https://rulebook.github.io/en/rules/8/</link>
+      <pubDate>Mon, 08 May 2017 20:55:52 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/8/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 8 - 득점</title>
+      <link>https://rulebook.github.io/ko/rules/8/</link>
+      <pubDate>Mon, 08 May 2017 20:55:52 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/8/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 7 - Snapping and Passing the Ball</title>
+      <link>https://rulebook.github.io/en/rules/7/</link>
+      <pubDate>Mon, 08 May 2017 20:55:49 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/7/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 7 - 볼 스냅과 패스</title>
+      <link>https://rulebook.github.io/ko/rules/7/</link>
+      <pubDate>Mon, 08 May 2017 20:55:49 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/7/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 6 - Kicks</title>
+      <link>https://rulebook.github.io/en/rules/6/</link>
+      <pubDate>Mon, 08 May 2017 20:55:45 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/6/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 6 - 킥</title>
+      <link>https://rulebook.github.io/ko/rules/6/</link>
+      <pubDate>Mon, 08 May 2017 20:55:45 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/6/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 5 - Series of Downs, Line to Gain</title>
+      <link>https://rulebook.github.io/en/rules/5/</link>
+      <pubDate>Mon, 08 May 2017 20:55:42 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/5/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 5—다운의 시리즈, 시리즈 변경선</title>
+      <link>https://rulebook.github.io/ko/rules/5/</link>
+      <pubDate>Mon, 08 May 2017 20:55:42 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/5/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 4 - Ball in Play, Dead Ball, Out of Bounds</title>
+      <link>https://rulebook.github.io/en/rules/4/</link>
+      <pubDate>Mon, 08 May 2017 20:55:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/4/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 4 - 볼 인 플레이, 데드 볼, 아웃 오브 바운드</title>
+      <link>https://rulebook.github.io/ko/rules/4/</link>
+      <pubDate>Mon, 08 May 2017 20:55:39 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/ko/rules/4/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>RULE 3 - Periods, Time Factors and Substitutions</title>
+      <link>https://rulebook.github.io/en/rules/3/</link>
+      <pubDate>Mon, 08 May 2017 20:55:36 +0900</pubDate>
+      
+      <guid>https://rulebook.github.io/en/rules/3/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>규칙 3 - 피리어드, Time Factors and Substitutions</title>
       <link>https://rulebook.github.io/ko/rules/3/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:36 +0900</pubDate>
+      <pubDate>Mon, 08 May 2017 20:55:36 +0900</pubDate>
       
       <guid>https://rulebook.github.io/ko/rules/3/</guid>
-      <description>
-
-&lt;h1 id=&#34;제1장-피리어드의-시작&#34;&gt;제1장 피리어드의 시작&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-제1-제3-피리어드&#34;&gt;제1조 제1, 제3 피리어드&lt;/h2&gt;
-
-&lt;p&gt;a. 게임전 몸풀기( Pregame Warmup).
-   정규 시즌에서, 각 팀의 게임전 몸풀기는 킥오프 22분전까지만 운동장을 사용할 수 있다.
-   이것은 팀의 상호 동의서에 의해 미리 변경가능하다.
-   게임관리자가 이 규칙을 운영할 책임이 있다.
-b. 경기의 전․후반은 킥오프에 의해서 시작된다.
-c. 레퍼리는 예정된 경기 시작 시간 3분 전에 경기장 중앙에서 양 팀으로부터 4명 이하의 주장과 다른 심판 1명의 앞에서 동전을 던진다.
-   동전을 던지기 전에 레퍼리는 동전의 앞, 뒷면을 선택할 방문팀의 필드캡틴을 지정해 둔다.
-   후반전 시작 전에 레퍼리는 양 팀의 후반 선택을 확인한다.
-d. 코인토스 중 양 팀 소속 선수들은 9야드 마크와 사이드라인 사이의 지역이나 팀에리어에 있어야 된다.
-   코인토스는 필드캡틴이 9야드 마크에서 안으로 들어올 때 시작되고, 9야드 마크 밖으로 되돌아가면 끝난다.
-   벌칙[d] : 석시딩 지점에서 5야드[S19]
-e. 토스에서 이긴 팀은 다음의 사항중 하나를 선택할 수 있다.
-    1. 어느 팀이 킥오프할 것인가
-    2. 어느 골라인을 자기 팀이 방어할 것인가
-    3. 선택을 후반에 할 것인가.
-f. 상대 팀은 위항의 1 또는 2중 남은 것을 선택한다.
-g. 토스의 승자가 위항 3을 선택한 경우, 그 상대측의 선택 후, 위항의 1 또는 2중 남은 것을 선택한다.
-h. 후반전에는 토스의 패자, 또는 위항 3을 선택한 승자는, 위항의 1 또는 2를 선택한다.
-   상대팀은 남아 있는 옵션을 선택한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-제2-제4-피리어드&#34;&gt;제2조 제2, 제4 피리어드&lt;/h2&gt;
-
-&lt;p&gt;제1, 제2 피리어드 사이와, 제3, 제4 피리어드 사이에서 각 팀은 자기 진영을 바꿔야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 볼의 위치는 전 피리어드가 종료되었을 때의 골라인과 사이드라인과의 관계에서 정확하게 대응하는 위치에 있어야 한다.
-b. 볼의 확보, 다운의 수, 전진하여야 할 거리 등은 변경할 수 없다.&lt;/p&gt;
-
-&lt;h1 id=&#34;제3조-연장-피리어드&#34;&gt;제3조 연장 피리어드&lt;/h1&gt;
-
-&lt;p&gt;제4쿼터가 종결된 후 경기의 점수가 동점이 되었을 때 대한 미식축구협회에서는 연장 피리어드에서 승부를 결정짓기 위하여 다음과 같이 타이브레이크시스템을 적용한다;&lt;/p&gt;
-
-&lt;p&gt;a. 제4 쿼터가 끝난 후 양 팀 선수들에게 각각 자기 팀에리어로 가도록 지시하고, 심판들은 50야드 선상에 모여 타이브레이크 절차에 대해 다시 한 번 확인한다.
-b. 심판들은 양 팀 주장들을(규칙 3-1-1) 경기장 중앙으로 인솔해 와서 경기 시작을 위한 토스를 한다.
-   이에 대한 절차는 경기의 처음 시작과 같은 방법으로 한다.
-   토스의 승자는 아래 중 하나의 선택권을 가진다.
-    1. 공격 또는 수비.
-       공격팀은 상대편 25야드라인에서 최초의 퍼제션 시리즈를 시작한다.
-    2. 연장 피리어드중 양 팀의 퍼제션 시리즈를 필드의 어느 쪽에서 할 것인가?
-c. 토스의 패자는 첫 번째 연장 피리어드 중에는 나머지를 선택하여야 하며, 이어지는 짝수 번째의 연장피리어드에서 먼저 위의 두 가지 중에서 선택할 선택권을 가진다.
-d. 연장 피리어드: 연장 피리어드는 2개의 퍼제션 시리즈로 구성된다.
-   지정된 25야드라인의 해시마크 라인 상 또는 그 사이에서 각각의 팀이 볼을 스냅하는 것으로 시작된다.
-   이 25야드라인은 상대 팀의 25야드라인이 된다.
-   스냅은 레디포플레이 전에 양 해시마크 사이 별도의 지점을 선택하지 않은 한 25야드라인 상의 양 해시마크의 중앙에서 하여져야 한다.
-   레디포플레이 후에는 팀 타임아웃 전에 A팀의 반칙 또는 오프세팅 반칙이 일어나지 않은 한 팀 타임아웃 후에 볼의 위치를 변경할 수 없다.
-e. 퍼제션 시리즈: 각 팀은 이 퍼제션 시리즈 동안, 득점하거나 새로운 퍼스트다운을 얻지 못할 때까지 볼을 소유한다.
-   볼의 팀 확보 변경 후 데드로 선언될 때까지는 라이브볼이다.
-   그러나 팀 확보의 변경 후에 A팀이 다시 볼을 확보하였더라도 새로운 퍼스트다운을 얻을 수 없다(A.R.3-1-3-I ~IX).
-   A팀이나 B팀이라는 용어의 정의는 규칙 2-27-1의 규정과 같다.
-f. 득점: 정규 피리어드와 연장 피리어드에서 더 많은 득점을 한 팀이 승자가 된다.
-   전 e항에 정해진 규칙대로 연장 피리어드에는 양 팀이 같은 횟수의 퍼제션 시리즈를 하여야 한다.
-   단 B팀이 트라이 때 이외에 득점한 경우를 제외한다.
-   3번째 연장 피리어드부터는 터치다운을 성공한 팀은 반드시 2점짜리 트라이를 시도하여야 한다.
-   1점짜리 시도는 반칙은 아니지만 득점으로 인정은 안 된다. (A.R.3-1-3-X)&lt;br /&gt;
-g. 팀 확보 변경 후의 반칙: (A.R.3-1-3-XI~XIV)
-    1. 어느 팀에게나 거리를 후퇴시키는 벌칙은 연장전 규정에 따라 적용되지 않는다(예외 : 악의적인 퍼스널 파울. 스포츠맨답지 않은 행위의 반칙, 데드볼 중의 퍼스널 파울, 데드볼 파울로 적용되는 라이브볼 파울에 대한 벌칙은 이어지는 플레이에 시행된다).
-    2. 그 다운 중 파울을 한 팀의 득점은 취소된다.
-    3. 다운 중 양 팀이 반칙하고, B팀이 확보의 변경 전에 반칙하지 않았다면 반칙은 상쇄되고, 다운은 되풀이 되지 않는다.
-h. 타임아웃: 각 팀은 매 연장 피리어드 중 1번의 타임아웃을 요청할 수 있다.
-   제4 피리어드에  사용하지 않은 타임아웃은 연장 피리어드 중 사용할 수 없고, 한 번의 연장 피리어드 중 사용하지 않은 타임아웃은 다음 연장 피리어드에서 사용할 수 없다.
-   한 연장 피리어드와 다음 연장피리어드 사이에서 사용한 타임아웃은 앞의 연장전에서 사용하지 않았더라도 계속되는 다음의 연장 피리어드에서 사용한 것으로 간주한다.
-   연장전은 볼이 최초로 스냅이 되는 순간부터 시작된다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제2장-경기-시간과-휴식-시간&#34;&gt;제2장 경기 시간과 휴식 시간&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-피리어드와-휴식-시간의-길이&#34;&gt;제1조 피리어드와 휴식 시간의 길이&lt;/h2&gt;
-
-&lt;p&gt;대학팀의 경기에 있어서 경기 시간은 60분으로 하며 각각 15분씩으로 나누어진다.
-제1피리어드와 제2피리어드(전반전) 그리고 제3피리어드와 제4피리어드(후반전) 사이에 각각 1분간의 휴식시간을 둔다.
-(예외: 제1과 제2피리어드 사이와, 제3과 제4피리어드 사이 1분간 휴식시간은 라디오나 TV 타임아웃에 따라 연장할 수 있다.)&lt;/p&gt;
-
-&lt;p&gt;a. 모든 피리어드는 볼이 데드가 되고 레퍼리가 피리어드의 종료를 선언하여야 종료가 된다.[S14]
-b. 게임 전 양 팀 관계자의 합의가 없다면, 각 하프간의 휴식시간은 20분이다.  레퍼리는 두 번째 피리어드가 끝나는 즉시, 게임클락을 계시하는 시그널로 휴식시간을 시작해야 한다.[S2]&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-경기-시간의-조정&#34;&gt;제2조 경기 시간의 조정&lt;/h2&gt;
-
-&lt;p&gt;경기 시작 전 레퍼리는 일몰 또는 다른 상태를 고려하여 경기 시간과 하프타임을 축소할 수 있다.
-이 경우에는 반드시 네 피리어드의 시간은 같아야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 경기 중 어느 때라도 양 팀 감독과 레퍼리가 합의하면 경기 시간과 하프타임을 축소할 수 있다. (A.R. 3-2-2-I)
-b. 게임클락의 고장으로 인한 시간의 수정은 해당 피리어드에만 한다.
-c. 만일 레퍼리가 소요 시간에 대하여 확실히 안다면 시계를 재설정하여 계시한다.
-d. 플레이클락의 오차 수정은 레퍼리가 한다. 이 경우 플레이클락의 계시는 25초에서 시작된다(규칙 2-29-2).
-e. 각 팀의 책임 외의 이유로 플레이클락이 중단되고 소비된 경기 시간을 명확하게 알지 못하는 경우에는 새로운 계시를 시작하고, 게임클락은 규칙 3-2-4-b에 따라 시작한다.
-f. 피리어드 중 남은 시간이 40초 또는 25초 미만에 게임클락이 작동 중이면 40/25초용 시계는 각각 계시하지 않는다.
-g. 만일 규칙3-2-2-f와 상충하여 플레이클락이 계시되더라도 게임클락을 멈추어져서는 안된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-피리어드-시간의-연장&#34;&gt;제3조 피리어드 시간의 연장&lt;/h2&gt;
-
-&lt;p&gt;a. 시간 종료가 되는 다운에서 다음에 정한 것이 1개 이상 일어난 경우, 피리어드는 계시대상 외의 다운(트라이는 제외)으로 연장되어야 한다.(A.R.3-2-3-I~VIII)&lt;br /&gt;
-    1. 데드볼 파울로 적용하지 않는 라이브볼 파울이 발생하였고, 이 벌칙이 받아들여졌을 때(예외: 규칙 10-2-2-g-1).
-       볼을 확보한 팀이 반칙을 범하고 그 벌칙이 다운의 상실을 포함한 경우, 피리어드는 연장되지 않는다.(A.R.3-2-3-VIII)
-    2. 반칙의 상쇄가 일어났을 경우.
-    3. 심판의 부주의한 휘슬이나 다른 잘못된 볼 데드 시그널이 있었을 때
-b. 추가된 계시 외의 다운은 앞의 3-2-3-a의 1,2,3으로 정해진 상황이 아닌 다운까지 시행된다.
-c. 터치다운이 된 다운에서 시간 종료가 된 경우에는 트라이를 위해 피리어드를 연장한다.(예외 8-3-2-a)&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-계시-장치&#34;&gt;제4조 계시 장치&lt;/h2&gt;
-
-&lt;p&gt;a. 게임클락
-   경기 시간은 게임클락으로 측정되는데, 게임클락은 필드저지, 라인저지 또는 백저지가 조작하는 스톱워치를 이용할 수도 있고, 심판 지시에 따라 정당하게 수행할 수 있는 보조원이 조작하는 게임클락을 이용할 수도 있다.
-   게임클락의 종류는 게임 관리자에 따라 결정된다.
-b. 40초 클락
-    1. 심판이 볼 데드 시그널하면, 플레이클락은 40초 계시를 시작한다.
-    2. 40초 계시가 심판이나 계시자의 조작에 의해서가 아닌 이유로(즉 시계의 오작동) 중지가  되면, 레퍼리가 게임클락을 정지시키고, 플레이클락을 40초로 리셋하는 시그널(양 손바닥 하늘을 향해 펴고, 어깨 위에서 수직으로 머리 위까지 들어 올렸다 내렸다 하는 모션)하고 즉시 계시해야 한다.
-    3. 40초용 시계가 시작되고 볼이 25초 이내에 스냅 될 준비가 되지 않으면.
-    레퍼리가 타임아웃을 선언하고, 플레이클락을 25초로 세팅하는 시그널을 한다.
-    플레이가 준비되면 레퍼리는 레디포플레이 시그널[S1]하고, 플레이클락은 25초 계시를 시작한다.
-    게임클락은 레퍼리가 타임아웃을 선언했을 때 정지되어 있다면 스냅 시 계시를 시작해야 한다.
-    이 경우 레퍼리의 시그널에 따라 계시를 시작한다.(규칙 3-2-2-f)(A.R.3-2-4-I 와 II)
-c. 25초 클락
-    아래 같은 경우, 심판이 게임클락을 정지시키는 시그널을 하면, 레퍼리는 플레이클락을 25초로 세팅하는 (한 손바닥을 하늘을 향해 펴고, 어깨 위에서 수직으로 머리 위까지 들어 올렸다 내렸다 하는 모션 ) 시그널을 해야 한다.
-    1. 벌칙 시행 시
-    2. 팀 타임아웃
-    3. 미디어 타임아웃
-    4. A팀 선수의 부상에 의한 타임아웃.
-       B팀 선수의 부상 시 플레이클락은 40초로 세팅한다.
-    5. 거리 측정
-    6. B팀에 퍼스트다운이 주어진 경우
-    7. 킥 플레이 후
-    8. 득점 후
-    9. 새로운 피리어드 시작할 때
-    10. 연장전에서 한 팀의 퍼제션 시리즈의 시작
-    11. 다른 이유로 진행이 중단될 때
-    12. 플레이 중 공격팀 선수의 헬멧이 완전히 벗겨진 경우.
-        수비팀 선수의 헬멧이 완전히 벗겨진 경우에는 플레이클락을 40초로 세팅한다.
-        [예외: 전 후반에 10초 감산의 선택이 있는 경우에는 어느 팀에 대해서나 플레이클락은 25초로 세팅한다.]
-   플레이 재개가 준비되면, 레퍼리는 레디포플레이 시그널[S1]을하고, 플레이클락은 25초계시를 시작한다.
-d. 시계의 고장
-   40/25초용 시계가 작동되지 않으면, 레퍼리는 즉시 양 팀의 감독에게 통보하고, 양쪽의 계시 장치의 전원을 끈다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-볼을-스파이크한-후에-한-플레이를-하기-위한-최소한의-시간&#34;&gt;제5조 볼을 스파이크한 후에 한 플레이를 하기 위한 최소한의 시간&lt;/h2&gt;
-
-&lt;p&gt;각 쿼터 종료까지 3초 이상 남은 상태로 게임클락이 멈춰있고, 레퍼리의 시그널에 따라 계시가 시작되는 경우, 공격팀은 볼을 곧장 지면에  던진 후(규칙 7-3-2-f) 추가 플레이를 할 수 있다.
-남은 시간이 2초 또는 1초의 경우, 오직 한 플레이만 가능하다.(A.R.3-3-5-I)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제3장-타임아웃-계시의-시작과-정지&#34;&gt;제3장 타임아웃: 계시의 시작과 정지&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-타임아웃&#34;&gt;제1조 타임아웃&lt;/h2&gt;
-
-&lt;p&gt;a. 공식규칙에 따라 계시를 정지할 경우, 팀 또는 레퍼리 타임아웃을 할 경우, 심판은 타임아웃의 시그널을 하여야 한다.
-   다른 심판들도 타임아웃의 시그널을 하여야 한다.
-   레퍼리는 규칙에 규정되지 않은 사태에 대해 임의로 레퍼리 타임아웃을 할 수 있다.(A.R.3-3-1-VI)
-b. 타임아웃을 모두 사용한 팀이 타임아웃을 요청한 경우 심판은 그 요청을 받아들이면 안 된다.(A.R.3-3-4)
-c. 경기가 시작된 후에는 하프타임의 휴식시간을 제외하고 선수는 필드오브플레이나 엔드존에서 볼을 사용하여 연습하면 안 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-계시의-시작과-정지&#34;&gt;제2조 계시의 시작과 정지&lt;/h2&gt;
-
-&lt;p&gt;a. 프리킥.
-   볼이 프리킥된 경우, 게임클락은 볼이 필드오브플레이에서 정당하게 터치되었을 때, 또는 B팀의 엔드존에서 B팀에 의해 정당하게 터치되어 골라인을 가로 질렀을 때, 계시를 시작하고 공식규칙에 따라 데드가 되었을 때 계시를 멈춘다.( A.R. 3-3-2-VI)
-b. 스크리미지 다운.
-   피리어드가 스크리미지 다운으로 시작되는 경우에는 게임클락은 볼이 정당하게 스냅되었을 때 계시를 시작한다.
-   다른 스크리미지 다운에서는 게임클락은 볼이 정당하게 스냅된 때(3-3-2-d), 또는 레퍼리에 의해 사전의 시그널(3-3-2-e)에 따라 계시가 시작된다.
-   게임클락은 트라이 중이나 피리어드의 연장 또는 연장 피리어드 사이에는 작동시키지 않는다.(A.R.3-3-2-I~IV)
-c. 득점 후.
-   터치다운, 필드골, 세프티후 심판의 시그널에 따라 게임클락을 정지한다.
-   용인된 반칙이 점수를 없애는 것이 아라면 전항 (a)에 기준하여 계시를 시작한다.
-   볼이 정당하게 스냅될때 계시가 시작된다.
-d. 스냅으로 계시 시작. 아래에 열거한 경우에 게임클락은 심판의 시그널로 계시를 정지한다.
-   다음 플레이가 스냅에 따라 시작되는 경우 게임클락은 스냅에서 계시를 시작한다.
-    1. 터치다운의 경우
-    2. 전․후반전 남은 시간 2분 미만에서 A팀의 볼캐리어의 펌블, 또는 백워드패스가 아웃오브바운즈가 된 경우 (예외: A팀의 전방 펌블 후에는 게임클락은 레퍼리의 시그널에 따라 계시 시작한다.)
-    3. B팀에 퍼스트다운이 주어지고 스냅으로 다음플레이가 시작될 경우(A.R.3-3-2-V)
-    4. 포워드패스가 실패한 경우
-    5. 팀 타임아웃이 인정된 경우
-    6. 볼이 부정하게 (규격 부적합) 된 경우
-    7. 필요한 장비 (규칙 1-4-4) 또는 부정한 장비 (규칙 1-4-7)의 위반이 있는 경우
-    8. 정당한 킥 다운이 종료된 경우(A.R.3-3-2-VI)
-    9. 리턴킥이 일어난 경우
-    10. 뉴트럴존을 넘어서 스크리미지킥이 행해진 경우
-    11. 스크리미지킥 포메이션에서 A팀이 지연 반칙을 범한 경우
-    12. 피리어드가 종료된 경우
-e.  레프리의 시그널로 계시 시작. 아래에 열거된 경우에는 게임클락은 심판의 시그널로 계시를 정지한다.
-    다음 플레이가 스냅에 따라 시작되는 경우, 게임클락은 레퍼리의 시그널로 계시를 시작한다.
-    1. 플레이 또는 벌칙의 적용 결과, A팀에 퍼스트다운을 줬을 경우
-    2. A팀의 전방 펌블이 아웃오브바운즈에 나갔을 경우
-    3. 전․후반 남은 시간 2분 미만의 경우를 제외하고, A팀의 볼캐리어의 펌블 또는  백워드패스가 아웃오브바운즈로 나간 경우
-    4. 벌칙이 완료된 경우 (예외 3-4-4-c)
-    5. 한 명 또는 그 이상의 선수 또는 심판의 부상자를 위한 타임아웃의 경우(A.R.3-3-5-I~V)
-    6. 부주의한 휘슬이 나온 경우
-    7. 퍼스트다운을 위한 계측이 필요한 경우
-    8. 양 팀의 원인으로 볼이 레디포플레이로 되는 것이 지연된 경우 (A.R.3-3-1-III)
-    9. 라이브볼이 심판의 확보 하에 있는 경우
-    10. 헤드코치와 협의가 필요한 경우
-    11. 레퍼리가 라디오 또는 TV 타임아웃을 허락한 경우
-    12. 레퍼리의 재량에 의한 타임아웃이 선언된 경우
-    13. 레퍼리가 부정한 소음의 타임아웃을 선언한 경우 (A.R.9-2-1-b-6)
-    14. 시간을 절약하기 위한 부정한 패스를 던졌을 경우 (A.R.7-3-2-II~VII) (예외 3-4-4-c)
-    15. 레퍼리가 40/25초 계시를 중단시킨 경우
-    16. 플레이 중에 선수의 헬멧이 완전히 벗겨진 경우
-    17. 어느 팀이라도 데드볼 파울을 범했을 경우
-f. 레퍼리의 시그널이 아닌 스냅으로 계시의 시작.
-   스냅으로 계시 시작되는 상황 (규칙 3-3-2-c, 3-3-2-d)과 함께 레퍼리의 시그널로 계시를 시작하는 것이 되는 하나 그 이상의 상황 (규칙 3-3-2-e)이 발생한 경우 스냅으로 계시를 시작한다.(예외: 규칙 3-4-4)&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-게임의-일시-정지&#34;&gt;제3조 게임의 일시 정지&lt;/h2&gt;
-
-&lt;p&gt;a. 레퍼리는 아래 같은 경우 경기를 일지 정지시킬 수 있다.
-b. 공식규칙을 적용받지 않는 사람의 행동이나 공식규칙에 규정되어 있지 않은 무엇인가의 이유에 의해 경기의 진행이 방해받는 경우, 레퍼리는 아래의 조치를 한다.&lt;br /&gt;
-    1. 경기를 중단시키고 선수를 팀에리어로 돌려보낸다.
-    2. 문제 해결을 경기주최자에 맡긴다.
-    3. 만족할 상황이 되었다고 판단되는 경우 경기를 재개한다.
-c. 제4피리어드 종료 전에 3-3-3-a와 b에 따라 중단된 경기가 즉시 재개되지 못하는 경우 아래와 같이 처리한다.
-    1. 경기단체의 규칙에 따라 후일 재경기를 한다.
-    2. 경기종료로 최종득점을 결정한다.
-    3. 경기를 몰수한다.
-    4. 경기 무효를 선언한다.
-* 경기단체는 앞의 조항 중에서 결정해야 한다. 경기단체의 규정이 양 팀에 적용되지 않는 경우에는 양 팀 코치의 의견을 참고하여 경기의 주최자가 결정한다. (규칙 8-1-2)
-d. 제4 피리어드 후, 3-3-3-a와 b에 따라 중단된 경기가 즉시 재개되지 못하는 경우 경기는 동점으로 종료된다.
-   최종득점은 완료된 최후의 피리어드 종료 시의 득점이다. (주: 플레이오프에 대해 승자를 결정해야 할 경우에는 경기단체의 규정에 따라 재개의 일시, 그라운드를 결정한다.)
-e. 중단된 경기가 재개되는 경우에는 남은 시간, 다운, 시리즈 획득선까지의 거리, 필드 위의 볼 위치, 선수의 유자격성 등은 중단되었을 때와 같은 상황이어야 한다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-팀-타임아웃&#34;&gt;제4조 팀 타임아웃&lt;/h2&gt;
-
-&lt;p&gt;어느 팀의 유효한 타임아웃이 남아있을 경우, 볼 데드 시에 그 팀의 어느 선수 또는 감독의 타임아웃 요청을 심판은 받아들여야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 각 팀은 전․후반 각각 3번씩 타임아웃을 요청할 수 있다.
-b. 볼이 데드로 선언된 후 스냅 전에 정당한 교대선수가 9야드라인 내에 있다면 타임아웃을
-   요청할 수 있다.(A.R.3-3-4-I)
-c. 전 다운에 참가한 선수는 볼이 데드로 선언된 후, 스냅 전에 9야드 표시 이내에 있지 않더라도 타임아웃을 요구할 수 있다.(A.R.3-3-4-I)
-d. 팀에리어 또는 코칭 박스나 그 근처에 있는 감독은 볼이 데드가 선언되고 난 후부터 다음의 스냅 전에 타임아웃을 요청할 수 있다.
-e. 팀 감독의 생각에 규칙이 잘못 적용됐다고 판단되면 경기장 내의 선수, 교대선수 또는 감독은 레퍼리와 감독의 협의를 요청할 수 있다.
-   만약 규칙의 적용이 변경되지 않고 즉 레퍼리의 판정이 옳았다면 그 감독이 속한 팀은 하나의 타임아웃이 강제로 부과되고, 만약 타임아웃이 모두 사용되어 없으면 딜레이오브게임 벌칙이 적용된다.
-    1. 오직 레퍼리만이 감독의 협의 요청에 대해 경기의 계시를 중지시킬 수 있다.
-    2. 협의의 요청은 경기를 위한 볼이 스냅이 되기 전, 또는 프리킥이 되기 전에 그리고 제2 피리어드와 제4 피리어드가 끝나기 전에 요청되어야 한다.(규칙 5-2-9, 11-1)
-    3. 감독과 협의 후에 팀 타임아웃 요청이 있으면 레퍼리에 의해서 팀 타임아웃이 부여된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제5조-인저리-타임아웃&#34;&gt;제5조 인저리 타임아웃&lt;/h2&gt;
-
-&lt;p&gt;a. 부상선수가 발생한 경우:
-    1. 부상선수가 발생한 경우 레퍼리는 레퍼리 타임아웃을 선언할 수 있지만, 부상선수는 적어도 1회 이상 다운의 경기에 참여할 수 없다.
-    2. 그 부상선수가 곧바로 다음의 다운에 참여하려면 소속팀은 타임아웃을 요청하여야 한다.
-    3. 소속팀이 타임아웃이 모두 사용된 경우에는 부상선수는 반드시 1회 이상의 다운에 참여 할 수 없다.
-    4. 경기에 참여하는 자가 분비물이나 피를 흘리는 부상이나 상처를 입었을 경우, 해당 선수나 심판은 팀에리어로 들어가서 적절한 치료를 받아야 한다.
-       심판 또는 의료진의 허가 없이는 경기장으로 돌아올 수 없다.(A.R.3-3-5-I-VII)
-b. 시간을 벌기 위하여 부상을 당한 척하는 선수가 발견되면 “미식축구 강령 (참고 코치의 윤리-h)”에 입각한 강력한 주의를 시켜야 한다.
-c. 부상선수 타임아웃 후에 팀 타임아웃을 선언할 수 있다.
-d. 심판이 부상당했을 때도 역시 레퍼리는 레퍼리 타임아웃을 선언할 수 있다.
-e. 수비팀 선수의 부상 타임아웃 때는, 플레이클락을 40초로 세팅한다.
-f. 전․후반 1분 미만을 남기고 계시가 정지된 것이 단지 선수의 부상 때문이라면(부상 선수 또는 같은 팀 선수의 헬멧이 벗겨진 경우, 규칙 3-3-9 제외) 상대 팀에게 10초 런오프의 선택이 주어진다.
-    1. 플레이클락은 수비팀 선수가 부상한 경우에는 40초에, 공격팀의 선수가 부상한 경우에는 25초로 세팅한다.(규칙 3-2-4-c-4)
-    2. 10초 런오프가 선택된 경우에는 레퍼리의 시그널로 게임클락의 계시가 시작된다. 10초 런오프가 선택되지 않은 경우에는 스냅에서 게임클락이 계시를 시작한다.
-    3. 해당팀에 타임아웃이 남아있다면 팀 타임아웃을 사용하여 10초 런오프를 피할 수 있다.
-    4. 상대 팀 선수의 부상이 발생한 경우에는 10초 런오프룰은 선택되지 않는다.(A.R.3-3-5 VIII과 IX)&lt;/p&gt;
-
-&lt;h2 id=&#34;제6조-바이얼레이션-타임아웃&#34;&gt;제6조 바이얼레이션 타임아웃&lt;/h2&gt;
-
-&lt;p&gt;다운과 다운 사이에, 규칙1-4-7, 1-4-8 또는 9-9-2-d에 위반되는 경우, 또는 볼이 데드가 된 사이에 규칙 3-3-4-e에 위반이 되면 팀의 타임아웃은 석시딩 지점에서 부과된다.(규칙 3-4-2-b)&lt;/p&gt;
-
-&lt;h2 id=&#34;제7조-타임아웃-시간&#34;&gt;제7조 타임아웃 시간&lt;/h2&gt;
-
-&lt;p&gt;a. 선수나 감독에 의해 요구된 팀 타임아웃은 어떤 경우라도 1분30초를 초과할 수 없다. (예외: 3-3-4-e-3).
-   이 시간에는 플레이클락의 25초도 포함된다.
-b. 팀 감독이 양손을 양어깨에 대는 시그널을 보내며 레퍼리와의 협의를 위해 팀 타임아웃을 요청하는 경우, 타임아웃의 길이는 30초이다.
-   이 시그널은 타임아웃의 요구 직후에 하여야 한다.
-c. 그 외의 타임아웃은 라디오, TV 타임아웃을 포함해서 레퍼리가 목적 수행에 필요하다고 보는 이상의 시간은 초과할 수 없다.
-   그러나 어떠한 타임아웃이라도 부상선수를 위한 것이라면 레퍼리는 그 길이는 연장할 수 있다. (참고 부록 A ‘필드의 중대한 부상 발생 시의 심판용 지침’)
-d. 1분 30초간의 타임아웃을 얻은 팀이, 1분도 되기 전에 경기를 할 의사가 있고 상대 팀도 이에 동의했을 경우 레퍼리는 레디포플레이를 선언할 수 있다.
-e. 레퍼리 타임아웃 시간은 상황에 따라 달라질 수 있다.
-f. 주장은 본인 또는 팀 동료가 타임아웃기간 중 사이드라인에서 팀 감독과 상의하기 전에 벌칙의 수락 여부와 같은 선택이 있으면 먼저 결정하여야 한다.
-g. 세이프티, 트라이, 성공한 필드골 후의 휴식시간은 1분을 초과할 수 없다. 라디오나 TV를 위해서는 연장될 수 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제8조-레퍼리의-선언&#34;&gt;제8조 레퍼리의 선언&lt;/h2&gt;
-
-&lt;p&gt;규정시간을 사용하는 타임아웃(규칙 3-3-7-a)의 경우, 레퍼리는 1분경과 후 양 팀에 이와 같은 사실을 알리고 5초 후에 볼이 레디포플레이가 되는 것을 선언한다.
-30초짜리 팀 타임아웃(규칙 3-3-7-b)의 경우, 레퍼리는 30초가 지난 후 양 팀에게 알리고 5초 후에 볼의 레디포플레이를 선언해야 한다.&lt;/p&gt;
-
-&lt;p&gt;a. 각 하프에서 3번째의 팀 타임아웃이 요청되었을 때, 레퍼리는 해당 팀의 주장과 감독에게 그 사실을 알려 주어야 한다.
-b. 만일 게임클락을 공식 계시시계로 사용하지 않을 때에는 각 하프에 있어서 남은 시간이 2분일 때에 양 팀의 주장과 감독에게 알려 주어야 한다.
-   레퍼리는 그와 같은 행위를 하기 위해 필요하다고 생각되면 계시시계를 정지시킬 수 있다.
-    1. 플레이클락의 계시는 중단되지 않는다.
-    2. 2분 통보 후 계시는 스냅부터 시작된다.
-c. 게임클락이 공식시계가 아니면 각 전 후반 종료 2분 전에는 레퍼리 또는 레퍼리의 대리인은 각 팀의 주장과 감독에게 매번 시계가 정지할 때마다 남은 시간을 알려 주어야 한다.
-   또한 이때 레퍼리의 대리인은 시간을 릴레이하려고 팀에리어를 나와 리미트라인을 따라 머물러도 된다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제9조-헬멧이-벗겨진-경우-타임아웃&#34;&gt;제9조 헬멧이 벗겨진 경우 - 타임아웃&lt;/h2&gt;
-
-&lt;p&gt;a. 다운 중에 선수의 헬멧이 완전히 벗겨진 경우, 상대측의 반칙에 따른 직접적인 결과인 경우를 제외하고는, 그 선수는 다음 다운에 경기에 참가할 수 없다.
-   게임클락은 다운의 종료 시에 계시 중지한다.
-   만약 해당 선수의 팀이 타임아웃을 사용한다면 그 선수는 게임에 참여할 수 있다.&lt;br /&gt;
-b. 해당 선수나 동료의 부상 때문이 아니라(규칙 3-3-5), 헬멧이 벗겨진 것 만에 따라 계시정지가 된 경우에는 아래의 항목을 적용한다.( A.R.3-3-9-1-III)
-    1. 선수가 공격팀이라면 25초, 수비팀 선수라면 40초로 플레이클락을 세팅한다.
-       전․후반 남은 시간이 1분 이상인 경우, 레퍼리의 시그널로 게임클락 계시를 시작한다.
-    2. 전․후반의 남은 시간이 1분 미만인 경우, 상대 팀은 ‘10초 감산’을 선택할 수가 있다.
-       이 경우 플레이클락은 25초로 세팅한다. 10초 감산이 선택된 경우, 레퍼리의 시그널로 계시를 시작한다.
-       10초 감산이 선택되지 않은 경우에는 스냅에서 계시가 시작된다.
-       타임아웃이 남아 있다면 타임아웃을 사용하여 10초 감산을 피할 수 있다.
-       양 팀 선수의 헬멧이 같이 벗겨진 경우에는 10초 감산을 선택할 수 없다. ( A.R. 3-3-9-IV)
-c. a항의 상황에서 볼캐리어의 헬멧이 벗겨진 경우, 볼은 데드가 된다(4-1-3-q).
-   선수가 볼캐리어가 아닌 경우, 볼은 라이브인 상태이지만 그 선수는 직후의 연속적인 움직임을 제외하고 계속해서 플레이에 참가할 수 없다(규칙 9-1-17).
-   그 다운 중에 헬멧을 다시 착용하여도 플레이에 참가할 수 없다.
-   정의에 따라 이러한 선수는 명백하게 플레이에서 벗어난 선수로 취급된다.(규칙 9-1-12-b)
-d. 다운 중에 의도적으로 헬멧을 벗는 행위는 스포츠맨답지 않은 행위의 반칙이 된다.(9-2-1-a-1-i)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제4장-지연-클락-전술&#34;&gt;제4장  지연/클락 전술&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-전-후반-경기-시작-지연&#34;&gt;제1조 전․후반 경기 시작 지연&lt;/h2&gt;
-
-&lt;p&gt;a. 각 팀은 전․후반 경기 시작 전에 예정시간에 맞추어 반드시 필드 내에 있어 경기를 진행할 수 있도록 하여야 한다.
-   만일 양 팀이 모두 먼저 입장하기를 거부할 경우 홈팀이 먼저 입장을 해야 한다.
-   벌칙 : 석시딩 지점으로부터 15야드 [S7과 S21]
-b. 경기주최 측은 전․후반 경기 예정시각에 경기가 시작할 수 있도록 필드를 정리하여야 한다.
-   밴드, 연설, 발표, 홈커밍데이와 같은 행사는 주최 측이 담당하므로 주최 측은 전․후반 경기를 정시에 시작할 수 있도록 만반 조치를 해야 한다.&lt;br /&gt;
-   벌칙: 석시딩 지점에서 10야드 &lt;a href=&#34;예외: 주최 측의 통제를 벗어난 경우 레퍼리는 상황에 따라 벌칙보류&#34;&gt;S7과 S21&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-경기의-부정한-지연&#34;&gt;제2조 경기의 부정한 지연&lt;/h2&gt;
-
-&lt;p&gt;a. 심판은 게임 중에 볼이 끊임없이 레디포플레이가 되게 해야 한다.
-   볼이 레디포플레이후 40초 또는 25초 이내에 플레이가 시작되지 않은 경우(규칙 3-2-4)는 부정한 지연이 된다.
-b. 기타 부정한 지연은 다음과 같다.
-    1. 볼이 데드된 후 볼을 고의로 전진시켰을 때
-    2. 3회의 팀 타임아웃을 모두 사용한 후 규칙 1-4-8, 3-3-4-e 또는 9-2-2-d을 위반 하였을 때
-    3. (하프 후가 아닌) 피리어드 사이에 즉 제1, 제3피리어드 후, 점수가 난 후, 라디오, TV 타임아웃 후 또는 어느 때가 되었든 레퍼리가 경기에 임하라고 지시했는데도 경기 준비가 안 된 팀
-    4. 공격팀의 시그널을 혼란스럽게 만드는 수비팀의 말에 의한 전술(규칙 7-1-5-a-3)
-    5. 공격팀의 부정한 출발을 유발하는 수비팀의 행동(규칙 7-1-5-a-4)
-    6. 레디포플레이 전에 볼을 플레이한 경우 (규칙 4-1-4)
-    7. 사이드라인 방해 (규칙 9-2-5)
-    8. 심판이 볼을 레디포플레이하는 것을 명백하게 지연시키는 행위
-       벌칙: 데드볼 파울. 석시딩 지점에서 5야드[S7과 S21]&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-부당한-클락-전술&#34;&gt;제3조 부당한 클락 전술&lt;/h2&gt;
-
-&lt;p&gt;어느 한 팀이 명확하게 부당한 방법으로 고의로 시간을 벌거나 소모하고자 할 때 레퍼리는 재량의 판단에 따라 게임클락 또는 플레이클락을 정지시키거나 가게 할 수 있다.
-이것은 득점이 많은 팀이 반칙 했다면, 스냅과 동시에 계시하는 것을 포함한다.
-A팀이 시간을 절약하려고 부정한 포워드패스 또는 백워드패스를 한 경우는 게임클락은 레디포플레이 시그널부터 계시를 시작한다.(규칙 3-3-2-e-14) (A.R.3-4-3-I~IV)&lt;/p&gt;
-
-&lt;h2 id=&#34;제4조-게임클락의-10초-감산-반칙에-의한-경우&#34;&gt;제4조 게임클락의 10초 감산 - 반칙에 의한 경우&lt;/h2&gt;
-
-&lt;p&gt;a. 전․후반 남은 시간 1분 미만에서 게임클락이 움직이고 있고 팀 확보의 변경 전에 어느 팀의 선수가 계시를 즉시 멈추는 반칙을 범한 경우, 피 반칙팀은 게임클락의 남은 시간에서부터 10초 감산을 선택할 수 있다.
-   다음과 같은 반칙이 이에 해당하지만, 이것에만 한정되지는 않는다.
-    1. 스냅을 방해하는 반칙 [즉: 부정 출발, 인크로치먼트, 뉴트럴존내의 선수 접촉에 의한 수비팀 오프사이드 등 (A.R.3-3-4-IV)}
-    2. 계시를 멈추기 위해 던진 인텐셔널 그라운딩
-    3. 실패한 부정한 포워드패스
-    4. 계시를 멈추기 위해 아웃오브바운즈 시키는 백워드패스
-    5. 계시를 멈추기 위한 의도적인 반칙
-   피 반칙팀은 거리벌칙을 수락하고 10초 감산을 사퇴할 수 있다.
-   거리벌칙을 사퇴하는 경우에는 규칙에 따라 10초 감산도 사퇴된다.
-b. 10초 감산은 게임클락이 움직이고 있지 않을 때나 계시를 멈추지 않는 반칙(예: 부정한 포메이션)에는 적용되지 않는다.
-c. 10초 감산을 포함한 벌칙이 시행된 후에는 레퍼리의 시그널로 계시를 시작한다.
-   10초 감산이 시행되지 않은 경우에는 스냅에서 계시가 시작된다.
-d. 반칙팀에 타임아웃이 남아있는 경우, 팀 타임아웃을 사용하여 10초 감산 규칙을 피할 수 있다.
-   이 경우 계시 시작은 스냅에서 시작한다.
-e. 오프세팅 파울의 경우 10초 감산을 적용하지 않는다.(A.R.3-4-4-IV)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;제5장-교대&#34;&gt;제5장 교대&lt;/h1&gt;
-
-&lt;h2 id=&#34;제1조-교대-절차&#34;&gt;제1조 교대 절차&lt;/h2&gt;
-
-&lt;p&gt;양 팀의 정당한 교대선수는 각 피리어드 사이, 득점이나 트라이 후 혹은 다운과 다운 사이의 시간을 이용하여 교대하거나 부족선수를 메우면서 경기에 참가할 수 있다.&lt;/p&gt;
-
-&lt;h2 id=&#34;제2조-정당한-교대&#34;&gt;제2조 정당한 교대&lt;/h2&gt;
-
-&lt;p&gt;정당한 교대선수는 다음과 같은 것을 위반하지 않고, 플레이어와 교대하고 또한 플레이어의 부족을 보완할 수 있다.&lt;/p&gt;
-
-&lt;p&gt;a. 교대선수는 볼이 플레이 중에 필드오브블레이나 엔드존으로 들어올 수 없다.
-b. 11명을 초과한 경우, 선수는 플레이 중에 필드오브플레이나 엔드존을 떠날 수 없다.(A.R.3-5-2-I)
-c.
-    1. 정당한 교대선수는 자신의 팀에리어에서 직접 필드오브플레이로 들어가야 한다.
-       교대선수, 선수, 퇴장하는 선수는 자기 팀의 팀에리어에 가장 가까운 사이드라인으로 나가 자기 팀에리어로 향해야 한다.
-    2. 퇴장하는 선수는 엔드존을 포함해 필드오브플레이에서 즉시 나가야 한다.
-       퇴장하는 선수는 교대선수가 선수가 된 후, 3초 이내에 허들이나 자기 포지션을 떠났다면 즉시 나갔다고 볼 수 있다.
-d. 교대되어 들어간 선수는 적어도 1회의 다운에는 참가하여야 한다.
-   단 각 피리어드 사이 휴식시간, 득점 후, 팀이나 레퍼리의 타임아웃을 줬을 때(예외 : 라이브볼의 아웃오브바운즈, 패스 실패)는 예외이다.(A.R.3-5-2-III과 VII)
-   벌칙[c-d]: 데드볼 시; 석시딩 지점으로부터 5야드[S22]&lt;br /&gt;
-e. 교대와 교대를 가장한 과정에서 명확하게 수비팀에 불이익을 주려는 A팀의 스크리미지 라인에 급하게 위치해 볼을 스냅해서는 안된다.
-   볼이 레디포플레이 후에 이러한 행위가 있다면 심판은 B팀의 교대선수가 위치를 잡고 피 교대선수가 필드오브플레이를 나갈 때까지 볼을 스냅 시켜서는 안 된다.
-   B팀은 신속하게 교대해야 한다.
-   벌칙(첫 번째): 데드볼 파울.
-   B팀이 신속하게 선수 교대를 하지 않은 경우에는 B 팀에 경기지연의 반칙.
-   또는 플레이클락의 시간이 없어진 원인을 만든 A팀에 경기  지연 반칙.
-   석시딩 지점으로부터 5야드 벌칙[S21].
-   레퍼리는 팀 감독에게 이후의 같은 행위는 스포츠맨답지 않은 행위로 벌칙을 부과한다는 것을 통보한다.
-   벌칙(두 번째 이후)：데드볼 파울.
-   스포츠맨답지 않은 행위.
-   심판은 즉시 휘슬을 불고 석시딩 지점에서 15야드 벌칙 [S27]&lt;/p&gt;
-
-&lt;h2 id=&#34;제3조-12명-이상의-선수&#34;&gt;제3조 12명 이상의 선수&lt;/h2&gt;
-
-&lt;p&gt;a. A팀은 12명 이상으로 허들을 풀 수 없다. 또 3초 이상, 12명 이상으로 허들하거나 포메이션을 만들 수 없다.
-   이럴 때 심판은 플레이를 중지시켜야 한다.
-b. B팀은 공격팀의 포메이션에 대응하려고서 한때 12명이 필드에 있어도 되지만 스냅되었을 때 12명 이상이 있을 수 없다.
-   이럴 때 심판은 플레이를 중지시켜야 한다.(A.R. 3-3-3-V)
-   벌칙[a-b]: 데드볼 반칙. 석시딩 지점에서 5야드 [S22]
-c. 심판이 다운 중 또는 다운의 종료까지 12명 이상의 선수가 있다는 것을 알지 못한 경우나 B팀 선수가 스냅전에 필드로 들어갔으나 포메이션을 형성하지 못했다면, 라이브볼 반칙으로 취급한다.(A.R. 3-5-3-V-VI)
-   벌칙: 라이브볼 반칙. 프리비어스 지점에서 5야드 [S22]&lt;/p&gt;
-
-&lt;!-- EOF --&gt;
-</description>
+      <description>Lorem Ipsum</description>
     </item>
     
     <item>
-      <title>RULE 4—Ball in Play, Dead Ball, Out of Bounds</title>
-      <link>https://rulebook.github.io/en/r4/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:41 +0900</pubDate>
+      <title>RULE 2 - Definitions</title>
+      <link>https://rulebook.github.io/en/rules/2/</link>
+      <pubDate>Mon, 08 May 2017 20:55:32 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/en/r4/</guid>
-      <description>
-
-&lt;h1 id=&#34;section-1-ball-in-play-dead-ball&#34;&gt;SECTION 1. Ball in Play—Dead Ball&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Dead Ball Becomes Alive&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 1.&lt;/p&gt;
-
-&lt;p&gt;After a dead ball is ready for play, it becomes a live ball when it is legally snapped or legally free-kicked. A ball snapped or free-kicked before it is ready for play remains dead (A.R. 2-16-4-I, A.R. 4-1-4-I and II, A.R. 7-1-3-IV, and A.R. 7-1-5-I and II).
-Live Ball Becomes Dead&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 2.&lt;/p&gt;
-
-&lt;p&gt;a. A live ball becomes a dead ball as provided in the rules or when an official sounds his whistle (even though inadvertently) or otherwise signals the ball dead (A.R. 4-2-1-II and A.R. 4-2-4-I).
-b. If an official sounds his whistle inadvertently or otherwise signals the ball dead during a down (Rules 4-1-3-k, m and n):
-1. When the ball is in player possession, then the team in possession may elect to put the ball in play where declared dead or repeat the down.
-2.  When the ball is loose from a fumble, backward pass or illegal pass, then the team in possession may elect to put the ball in play where possession was lost or repeat the down (Exception: Rule 12).
-3.  During a legal forward pass or a free or scrimmage kick, then the ball is returned to the previous spot and the down repeated (Exception: Rule 12).
-4.  After Team B gains possession on the try or during an extra period, then the try is over or the extra-period possession series is ended.
-c.  If a foul or violation occurs during any of the above downs, the penalty or violation privilege shall be administered as in any other play situation if not in conflict with other rules (A.R. 4-1-2-I and II).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ball Declared Dead&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 3.&lt;/p&gt;
-
-&lt;p&gt;A live ball becomes dead and an official shall sound his whistle or declare it dead:&lt;/p&gt;
-
-&lt;p&gt;a.  When it goes out of bounds other than a kick that scores a field goal after touching the uprights or crossbar; when a ball carrier is out of bounds;
-or when a ball carrier is so held that his forward progress is stopped. When in question, the ball is dead (A.R. 4-2-1-II).
-b.  When any part of the ball carrier’s body, except his hand or foot, touches the ground or when the ball carrier is tackled or otherwise falls and loses possession of the ball as he contacts[…]&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/en/rules/2/</guid>
+      <description>Lorem Ipsum</description>
     </item>
     
     <item>
-      <title>RULE 5—Series of Downs, Line to Gain</title>
-      <link>https://rulebook.github.io/en/r5/</link>
-      <pubDate>Sat, 11 Mar 2017 02:33:46 +0900</pubDate>
+      <title>규칙 2 - 정의</title>
+      <link>https://rulebook.github.io/ko/rules/2/</link>
+      <pubDate>Mon, 08 May 2017 20:55:32 +0900</pubDate>
       
-      <guid>https://rulebook.github.io/en/r5/</guid>
-      <description>
-
-&lt;h1 id=&#34;section-1-a-series-started-broken-renewed&#34;&gt;SECTION 1. A Series: Started, Broken, Renewed&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;When To Award Series&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ARTICLE 1.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;A series (Rule 2-24-1) of up to four consecutive scrimmage downs shall be awarded to the team that is next to put the ball in play by a snap after a free kick, touchback, fair catch, or change in team possession, or to the offensive team in overtime.&lt;/li&gt;
-&lt;li&gt;A new series shall be awarded to Team A if it is in legal possession of the ball on or beyond its line to gain when the ball is declared dead.&lt;/li&gt;
-&lt;li&gt;A new series shall be awarded to Team B if, after fourth down, Team A has failed to earn a first down (A.R. 10-1-5-I).&lt;/li&gt;
-&lt;li&gt;A new series shall be awarded to Team B if Team A’s scrimmage kick goes out of bounds or comes to rest and no player attempts to secure it (Exception: Rule 8-5-1-a).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;e.  A new series shall be awarded to the team in legal possession when the ball is declared dead:
-    1.  If a change of team possession occurs during the down.&lt;/p&gt;
-</description>
+      <guid>https://rulebook.github.io/ko/rules/2/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rulebook.github.io/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rulebook.github.io/_header/</guid>
+      <description></description>
     </item>
     
   </channel>

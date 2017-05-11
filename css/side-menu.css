@@ -28,8 +28,8 @@ This is the parent `<div>` that contains the menu and the content area.
     padding-left: 0;
 }
     #layout.active #menu {
-        left: 150px;
-        width: 150px;
+        left: 500px;
+        width: 500px;
     }
 
     #layout.active .menu-link {
@@ -80,7 +80,7 @@ appears on the left side of the page.
 
 #menu {
     margin-left: -150px; /* "#menu" width */
-    width: 150px;
+    width: 500px;
     position: fixed;
     top: 0;
     left: 0;
@@ -245,4 +245,3 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         left: 150px;
     }
 }
-
