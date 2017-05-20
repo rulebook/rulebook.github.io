@@ -92,6 +92,11 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/3/sections/2/</loc>
+    <lastmod>2017-05-19T19:20:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/11/sections/2/</loc>
     <lastmod>2017-05-16T09:41:58+09:00</lastmod>
   </url>
@@ -154,6 +159,11 @@
   <url>
     <loc>https://rulebook.github.io/en/rules/1/sections/2/</loc>
     <lastmod>2017-03-11T02:17:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/3/sections/3/</loc>
+    <lastmod>2017-05-19T19:26:09+09:00</lastmod>
   </url>
   
   <url>
@@ -432,8 +442,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/20/</loc>
+    <lastmod>2017-05-19T09:55:26+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/20/</loc>
     <lastmod>2017-05-14T09:35:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/21/</loc>
+    <lastmod>2017-05-19T09:56:52+09:00</lastmod>
   </url>
   
   <url>
@@ -442,8 +462,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/22/</loc>
+    <lastmod>2017-05-19T09:58:29+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/22/</loc>
     <lastmod>2017-05-14T09:40:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/23/</loc>
+    <lastmod>2017-05-19T10:00:42+09:00</lastmod>
   </url>
   
   <url>
@@ -452,8 +482,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/24/</loc>
+    <lastmod>2017-05-19T10:02:20+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/24/</loc>
     <lastmod>2017-05-14T09:43:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/25/</loc>
+    <lastmod>2017-05-19T10:03:38+09:00</lastmod>
   </url>
   
   <url>
@@ -462,8 +502,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/26/</loc>
+    <lastmod>2017-05-19T10:31:57+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/26/</loc>
     <lastmod>2017-05-14T09:46:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/27/</loc>
+    <lastmod>2017-05-19T10:33:29+09:00</lastmod>
   </url>
   
   <url>
@@ -472,8 +522,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/28/</loc>
+    <lastmod>2017-05-19T10:40:43+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/28/</loc>
     <lastmod>2017-05-14T11:17:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/29/</loc>
+    <lastmod>2017-05-19T10:42:04+09:00</lastmod>
   </url>
   
   <url>
@@ -482,8 +542,18 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/30/</loc>
+    <lastmod>2017-05-19T10:54:26+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/30/</loc>
     <lastmod>2017-05-14T11:21:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/31/</loc>
+    <lastmod>2017-05-19T10:57:06+09:00</lastmod>
   </url>
   
   <url>
@@ -492,13 +562,28 @@
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/32/</loc>
+    <lastmod>2017-05-19T10:59:11+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/32/</loc>
     <lastmod>2017-05-14T11:26:07+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/33/</loc>
+    <lastmod>2017-05-19T11:00:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rulebook.github.io/ko/rules/2/sections/33/</loc>
     <lastmod>2017-05-14T11:28:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rulebook.github.io/en/rules/2/sections/34/</loc>
+    <lastmod>2017-05-19T11:00:49+09:00</lastmod>
   </url>
   
   <url>
